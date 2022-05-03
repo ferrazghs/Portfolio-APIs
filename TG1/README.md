@@ -32,15 +32,14 @@
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
       
     <li><a href="https://developer.android.com/studio">Android Studio</a>:
-  <ul>
+      <ul>
     <p align="justify" style="font-family:roboto;"> Android Studio é uma plataforma para desenvolvimento de apps mobile para o sistema operacional Android, é uma IDE (Integrated Development Environment) que tem por funcionalidade disponibilizar todos os recursos necessários para o desenvolvimento mobile Android.</p>
- </ul>
-     </li>
-           <li><a href="https://trello.com/pt-BR">Trello</a>:
-  <ul>
+     </ul> </li>
+   
+    <li><a href="https://trello.com/pt-BR">Trello</a>:
+    <ul>
     <p align="justify" style="font-family:roboto;"> Trello é uma ferramenta colaborativa que organiza projetos em quadros, onde são inseridas listas de tarefas a serem seguidas individualmente ou em equipe. Cada lista recebe cartões com descrições, prazos determinados e objetivos a serem concluídos, utilizado para auxiliar no desenvolvimento de projetos utilizando metodologias agéis, como exemplo o Scrum.</p>
- </ul>
-     </li>
+    </ul> </li>
      
 
      
