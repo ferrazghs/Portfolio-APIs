@@ -30,13 +30,7 @@
   <p>O aplicativo ainda proporciona ao usuário funcionalidades adicionar um contato, realizar ligaçoes informando por comando de voz o numéro desejado, pesquisa na WEB, Configuração de conectividade que tem por função ligar/desligar o wifi, ligar/desligar o bluetooth, tirar foto apenas através do comando de voz.</p>
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
-  
-    <li><a href="https://trello.com/pt-BR">Java</a>:
-  <ul>
-    <p align="justify" style="font-family:roboto;"> O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto..</p>
- </ul>
-     </li>
-    
+      
     <li><a href="https://developer.android.com/studio">Android Studio</a>:
   <ul>
     <p align="justify" style="font-family:roboto;"> Android Studio é uma plataforma para desenvolvimento de apps mobile para o sistema operacional Android, é uma IDE (Integrated Development Environment) que tem por funcionalidade disponibilizar todos os recursos necessários para o desenvolvimento mobile Android.</p>
