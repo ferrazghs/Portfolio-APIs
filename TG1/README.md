@@ -31,7 +31,7 @@
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
      
-     <li><a href="https://spring.io/">Java</a>
+     <li><a href="https://developer.android.com/studio">Java</a>:
   <ul>
     <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
  </ul>
