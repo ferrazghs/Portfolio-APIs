@@ -47,7 +47,6 @@
   </ul></li>	
 	 
     <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-    <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
 
   
