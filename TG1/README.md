@@ -31,7 +31,7 @@
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
       
-   <li><a href="https://spring.io/">Java</a>:
+   <li><a href="https://www.java.com/pt-BR">Java</a>:
   <ul>
     <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
@@ -45,6 +45,11 @@
   <ul>
     <p align="justify" style="font-family:roboto;"> Trello é uma ferramenta colaborativa que organiza projetos em quadros, onde são inseridas listas de tarefas a serem seguidas individualmente ou em equipe. Cada lista recebe cartões com descrições, prazos determinados e objetivos a serem concluídos, utilizado para auxiliar no desenvolvimento de projetos utilizando metodologias agéis, como exemplo o Scrum.</p>
   </ul></li>	
+	 
+    <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+    <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+
+
   
   
   
