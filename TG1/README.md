@@ -29,7 +29,7 @@
   <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192, através do aplicativo padrão de ligações do Android</p> 
   <p>O aplicativo ainda proporciona ao usuário funcionalidades adicionar um contato, realizar ligaçoes informando por comando de voz o numéro desejado, pesquisa na WEB, Configuração de conectividade que tem por função ligar/desligar o wifi, ligar/desligar o bluetooth, tirar foto apenas através do comando de voz.</p>
       
-   <h2 style="font-family:roboto;"> Tecnologias utilizadas</h2>
+   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
      
      <li><a href="https://spring.io/">Java</a>:
   <ul>
