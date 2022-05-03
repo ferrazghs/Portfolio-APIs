@@ -25,9 +25,9 @@
   </table>
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - <1º Semestre :clipboard:</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-  <p align="justify" style="font-family:roboto;> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
-  <p align="justify" style="font-family:roboto;>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192, através do aplicativo padrão de ligações do Android</p> 
-  <p align="justify" style="font-family:roboto;>O aplicativo ainda proporciona ao usuário funcionalidades adicionar um contato, realizar ligaçoes informando por comando de voz o numéro desejado, pesquisa na WEB, Configuração de conectividade que tem por função ligar/desligar o wifi, ligar/desligar o bluetooth, tirar foto apenas através do comando de voz.</p>
+  <p align="justify" style="font-family:roboto> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
+  <p align="justify" style="font-family:roboto>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192, através do aplicativo padrão de ligações do Android</p> 
+  <p align="justify" style="font-family:roboto>O aplicativo ainda proporciona ao usuário funcionalidades adicionar um contato, realizar ligaçoes informando por comando de voz o numéro desejado, pesquisa na WEB, Configuração de conectividade que tem por função ligar/desligar o wifi, ligar/desligar o bluetooth, tirar foto apenas através do comando de voz.</p>
      
     
      
