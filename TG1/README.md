@@ -23,7 +23,7 @@
      </td>
    </tr>
   </table>
-   <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - <1º Semestre :clipboard:</h2>
+   <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
   <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192, através do aplicativo padrão de ligações do Android</p> 
@@ -31,7 +31,7 @@
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
      
-     <li><a href="https://spring.io/">Java</a>:
+     <li><a href="https://spring.io/">Java</a>
   <ul>
     <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
  </ul>
