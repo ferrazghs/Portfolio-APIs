@@ -26,12 +26,12 @@
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
-  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192, através do aplicativo padrão de ligações do Android</p> 
-  <p>O aplicativo ainda proporciona ao usuário funcionalidades adicionar um contato, realizar ligaçoes informando por comando de voz o numéro desejado, pesquisa na WEB, Configuração de conectividade que tem por função ligar/desligar o wifi, ligar/desligar o bluetooth, tirar foto apenas através do comando de voz.</p>
+  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android</p> 
+  <p>O aplicativo ainda proporciona ao usuário funcionalidades como adicionar um contato, realizar ligaçoes informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi, ligar/desligar o bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados</p>
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
-      
-   <li><a href="https://www.java.com/pt-BR">Java</a>:
+
+  <li><a href="https://www.java.com/pt-BR">Java</a>:
   <ul>
     <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
@@ -46,8 +46,8 @@
     <p align="justify" style="font-family:roboto;"> Trello é uma ferramenta colaborativa que organiza projetos em quadros, onde são inseridas listas de tarefas a serem seguidas individualmente ou em equipe. Cada lista recebe cartões com descrições, prazos determinados e objetivos a serem concluídos, utilizado para auxiliar no desenvolvimento de projetos utilizando metodologias agéis, como exemplo o Scrum.</p>
   </ul></li>	
 	 
-    <h2> Contribuições Individuais :dart:</h2>
-
+  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
   
   
