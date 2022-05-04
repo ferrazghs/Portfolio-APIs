@@ -26,8 +26,8 @@
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
-  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android</p> 
-  <p>O aplicativo ainda proporciona ao usuário funcionalidades como adicionar um contato, realizar ligaçoes informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi, ligar/desligar o bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados</p>
+  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
+  <p>O aplicativo ainda proporciona ao usuário funcionalidades como adicionar um contato, realizar ligaçoes informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi, ligar/desligar o bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
@@ -49,7 +49,8 @@
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
-  
+  <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
+  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   
   
   
