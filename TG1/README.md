@@ -53,7 +53,7 @@
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
-  <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira TecSUS através de um software promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
+  <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a> através de um software promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
   <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza processos de digitação, por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo os usuários ao buscar informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, contralando a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
   <p>Além disso do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas digitadas.</p>
       
@@ -95,7 +95,7 @@
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
-  <p>O AirPlan é um solução de software solicitado pela empresa parceira Embraer. </p>
+  <p>O AirPlan é um solução de software solicitado pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>  </p>
   <p>O sistema tem por objetivo o controle e armazenamento de documentações de aeronaves, antes da solução desemvolvida a empresa parceira possuía grandes problemas em gerar e manipular arquivos que integram um documento de uma aeronave, fazendo de forma manual e com isso gerando grandes erros.</p> 
   <p>A aplicação automatiza a integração dos diversos arquivos em apenas um de forma eficaz e intuitiva, levando em consideração toda regra de negócio que os colaborades usam, é constituido de 3 APIs distintas e independentes que permite a ligar diversos documentos, verificar a integridade dos arquivos, upload das partes de um documento, download completo dos arquivos integrados e controle de usuários.</p>
      
