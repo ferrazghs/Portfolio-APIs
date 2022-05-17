@@ -61,10 +61,21 @@
   
     <h3>Método catchSpeed</h3>
   <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
-  "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições para a chamada </p>
+  "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições para a chamada do método de voz.</p>
   
     <details>
-  <summary>Demonstração método onCreate</summary>
+  <summary>Demonstração método catchSpeed</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+	
+	<h3>Método createAlarm</h3>
+  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e minuto que o alarme ira trocar e também os dias que o alarme será ativado, através da itent AlarmClock conseguimos iniciar essas variavéis..</p>
+	
+  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada dia da semana corresponde a um inteiro, pois a itent necessita de um valor inteiro como paramêtro.</p>
+  
+    <details>
+  <summary>Demonstração método createAlarm</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
