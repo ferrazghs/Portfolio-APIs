@@ -48,6 +48,26 @@
   </ul></li>	
 	 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+  
+  <h3>Método OnCreate</h3>
+  <p align="justify" style="font-family:roboto;">O método "onCreate" tem por objetivo aguardar uma instância do usuário, assim que o usuário
+  clicar no botão de microfone na interface, o método é ativado e é chamado um segundo método chamado "catchSpeed"</p>
+  
+    <details>
+  <summary>Demonstração método onCreate</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+  
+    <h3>Método catchSpeed</h3>
+  <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
+  "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições para a chamada </p>
+  
+    <details>
+  <summary>Demonstração método onCreate</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
