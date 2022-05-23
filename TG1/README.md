@@ -28,7 +28,7 @@
 	
   <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
   <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
-  <p>O aplicativo ainda proporciona ao usuário funcionalidades como adicionar um contato, realizar ligaçoes informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi, ligar/desligar o bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
+  <p>O aplicativo ainda proporciona ao usuário funcionalidades como adicionar um contato, realizar ligaçoes informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi e bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
@@ -49,11 +49,11 @@
 	 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3>Método OnCreate</h3>
-  <p align="justify" style="font-family:roboto;">O método "onCreate" tem por objetivo aguardar uma instância do usuário, assim que o usuário
+     <h3>Método OnCreate</h3>
+  <p align="justify" style="font-family:roboto;">O método "onCreate" foi desenvolvido com o objetivo de aguardar uma instância do usuário, assim que o usuário
   clicar no botão de microfone na interface, o método é ativado e é chamado um segundo método chamado "catchSpeed"</p>
   
-    <details>
+  <details>
   <summary>Demonstração método onCreate</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
@@ -61,24 +61,43 @@
   
     <h3>Método catchSpeed</h3>
   <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
-  "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições para a chamada do método de voz.</p>
+  "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições padrões do Android para a chamada do método de voz.</p>
   
-    <details>
+  <details>
   <summary>Demonstração método catchSpeed</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
 	
-	<h3>Método createAlarm</h3>
-  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e minuto que o alarme ira trocar e também os dias que o alarme será ativado, através da itent AlarmClock conseguimos iniciar essas variavéis, todas essas variáveis são iniciadas através do comando de voz passado pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
+  <h3>Método createAlarm</h3>
+  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do Android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e os dias da semana que será ativado, através da Itent AlarmClock conseguimos iniciar essas variavéis, todas as informações necessário são armazenadas em variáveis instanciadas, através de comandos de voz passados pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
 	
-  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada dia da semana corresponde a um inteiro, pois a itent necessita de um valor inteiro como paramêtro.</p>
+  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Itent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
   
-    <details>
+  <details>
   <summary>Demonstração método createAlarm</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
+  
+ <h3>Método addContact</h3>
+<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma itent nativa do Android "ContactsContract" para a criação de um novo contato, para efetivar a criação do contato é necessário instanciar duas variaveis, que são o nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações necessárias via comando de voz, após essa ação as variaveis são iniciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizado a ação o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
+	
+  <details>
+  <summary>Demonstração método addContact</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+	
+ <h3>Método processMachineLearning</h3>
+<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de if que tem por paramêtro uma String que recebe o comando de voz do Usuário, dependendo do que for passado é chamado uma função especifica.</p>
+	
+  <details>
+  <summary>Demonstração método processMachineLearning</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
