@@ -247,17 +247,6 @@
 	
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3>Modelo Conceitual do banco de dados</h3>
-  <p align="justify" style="font-family:roboto;">A modelagem de dados conceitual é uma descrição do projeto de banco de dados de forma independente de implementação em um SGBD, é um modelo que possui um alto nível de abstração, é o primeiro passo feito antes da implementação final dentro do SGBD Oracle. O MER (Modelo Entidade Relacionamento) é composto por : Entidade (representação de um conceito físico), Atributo (propriedades especificas de uma entidade) e Relacionamento (associações entre uma ou mais entidades</p>
-  
-  <p align="justify" style="font-family:roboto;">O modelo foi desenvolvido utilizando o software “brModelo” especifico para a criação do MER. Após a definição do “Product Backlog” e o desenvolvimento das perguntas que foram enviadas a empresa parceira, para obter uma visão mais aprofundada sobre o projeto, foi feito uma análise sobre a proposta e com isso foi possível o desenvolvimento das entidades, atributos e relacionamentos presentes no modelo. Essa parte foi crucial no inicio do projeto para elaborar um modelo de dados consistente e funcional, com o MER conseguimos resolver questões importantes que refletiram durante as sprints, por exemplo, o relacionamento que os usuários do sistema têm com os eventos criados pelos mesmos.</p>
- 
-  <details>
-  <summary>Demonstração do modelo conceitual</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/conceitual.jpg" width="1000px;" alt=""/>
-  </details>
-  
   <h3> Modelo relacional banco de dados</h3>
   <p align="justify" style="font-family:roboto;">O modelo relacional é um tipo de modelo lógico, é também uma parte importante durante o desenvolvimento de um banco de dados completo e funcional, esse modelo apresenta uma estrutura diferente do modelo conceitual, é baseado em : Linhas, Colunas e Chave primária(PK) e se relacionam através de chaves estrangeiras(FK), é um modelo intermediário, está localizado entre o modelo conceitual que é o primeiro passo, e o a estruturação no SGBD. Para o desenvolvimento desse modelo foi utilizado à ferramenta “Vertabelo” que é possível estruturar seu modelo relacional utilizando todas as informações necessárias.</p>
   
@@ -272,121 +261,25 @@
   <h3> Documentação de dados</h3>
   <p align="justify" style="font-family:roboto;">Após o desenvolvimento do modelo relacional pela ferramenta foi gerada uma documentação de dados através de um arquivo pdf, essa documentação foi entregue ao cliente, e descreve todas tabelas, colunas e relacionamentos que o banco possui, caso seja necessário algumas atualização na estrutura do código SQL o cliente consegue de forma fácil e rápida ter acesso a estrutura atual.</p>
   
-   <h3>Estruturação do banco de dados </h3>
-  <p align="justify" style="font-family:roboto;">Após a finalização dos modelos, foi feito a estruturação do banco de dados através do modelo relacional para linguagem SQL no banco de dados Oracle utilizando comandos DML.</p>
-  <p align="justify" style="font-family:roboto;">Os códigos abaixo são alguns exemplos  de códigos SQL que foram desenvolvidos durante a estruturação do banco de dados.</p>
- 
-   <p align="justify" style="font-family:roboto;"><b>Comando DML para criar algumas tabelas no banco de dados, atribuindo suas colunas e especificando as restrições de integridade conforme o modelo relacional</b></p>
-   
-  <p align="justify" style="font-family:roboto;">
-     <b>Linha 1 (comando DML para criação de tabela)</b>
-       <br>
-    CREATE TABLE Evento
-       <br>
-  <b>Linha 2 (atribuindo a coluna uma chave primaria e denominando um nome a sua constraint)</b>
-       <br>
-    evt_id Integer CONSTRAINT pk_evento PRIMARY KEY,
-       <br>
-  <b>Linha 3 (atribuindo a coluna uma restrição que não aceita valores nulos)</b>
-       <br>
-    evt_titulo Varchar2(30)  NOT NULL,
-       <br>
-    evt_descricao Varchar2(80),
-       <br>
-    evt_data_inicio Varchar2(100)NOT NULL,
-       <br>
-    evt_data_fim Varchar2(100) NOT NULL, 
-       <br>
-    evt_tipo Varchar2(10) NOT NULL,
-       <br>
-  <b>Linha 9 (imputando uma valor default NULL, caso não seja inserido nenhum valor na coluna)</b>
-       <br>
-    evt_status Integer DEFAULT NULL,
-       <br>
-    evt_imagem Varchar2(200),
-       <br>
-    usu_email Varchar2(80)
-       <br>
-) ;
-</p>
-                                                   
-  <p align="justify" style="font-family:roboto;">
-     <b>Linha 1 (comando DML para criação de tabela)</b>    
-	<br>
-CREATE TABLE Usuario (
-        <br>                                        
-    usu_email Varchar2(80) CONSTRAINT pk_usuario PRIMARY KEY,
-         <br>                                                                               
-    usu_nome Varchar2(80) NOT NULL,
-         <br>                                        
-<b>Linha 3 (adicionando uma restrição de chave única á coluna, impossibilitando valores iguais)</b> 
-	  <br>
-    usu_cpf Varchar2(15) CONSTRAINT uk_usuario_cpf UNIQUE NOT NULL,
-         <br>                                        
-    usu_telefone Varchar(50) NOT NULL,
-         <br>                                                                      
-    usu_departamento Varchar2(30),
-         <br>                                        
-    usu_nome_empresa Varchar2(50),
-          <br>                                        
-    usu_id_oracle Integer,
-          <br>                                        
-    usu_comprovante_vacinacao Varchar(200),
-         <br>                                        
-    usu_tipo Varchar2(20)NOT NULL,
-        <br>                                        
-    usu_cargo Varchar2(50),
-         <br>                                        
-    usu_senha Varchar2(100) CONSTRAINT uk_usuario_senha UNIQUE NOT NULL
-          <br>                                        
-) ;
-</p>
-     <p align="justify" style="font-family:roboto;"><b>Tabela de relacionamento (Usuário – Evento)</b></p>
-    <p align="justify" style="font-family:roboto;">
-                                             
-CREATE TABLE Usuario_Evento (
-      <br>
-    evt_id Integer,
-      <br>
-    usu_email Varchar2(80),
-      <br>
-<b>Linha 3 (atribuição das chaves primárias da tabela, informando duas colunas, tornando assim uma chave primária composta)</b>
-      <br>
-    CONSTRAINT pk_usuario_evento PRIMARY KEY (evt_id,usu_email)
-      <br>
-) ;
-  </p>
-  <p align="justify" style="font-family:roboto;"><b>Especificação das chaves estrangeiras da tabela Usuario_Evento, referenciando as tabelas de origem.</b></p>
-    <p align="justify" style="font-family:roboto;">
-ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_evt_id
-      <br>
-    FOREIGN KEY (evt_id)
-      <br>
-    REFERENCES Evento (evt_id);
-      <br>
-      <br>
-ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
-      <br>
-    FOREIGN KEY (usu_email)
-      <br>
-    REFERENCES Usuario (usu_email);
-      <br>
-  </p>
-   <h3>Implementação LiquiBase. </h3>
+ <h3>Implementação LiquiBase. </h3>
   <p align="justify" style="font-family:roboto;">O liquibase é uma ferramenta de migração de banco de dados de código fonte aberto que permite rastrear, gerenciar e aplicar alteração na base de dados. Essa biblioteca acabou sendo útil para fazer toda migração no banco de dados, e padronizar o banco na maquina de cada desenvolvedor do sistema. Porém com o deploy do banco no Oracle Cloud junto, essa ferramenta parou de ser utilizado.</p>
   <p align="justify" style="font-family:roboto;">O primeiro passo foi adicionar a dependência da biblioteca liquibase no POM.xml do projeto</p>
+	
   <details>
   <summary>Dependencia Liquibase no POM.xml</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/liquibase.jpg" width="1000px;" alt=""/>
   </details>
+	
   <p align="justify" style="font-family:roboto;">Após a configuração do POM, é criado um arquivo em resources -> db -> changelog onde é feito a configuração do diretório onde será armazenado as migrações no banco de dados.</p>
   <details>
+	  
   <summary>Criação do changelog</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/changelog.jpg" width="1000px;" alt=""/>
   </details>
   <p align="justify" style="font-family:roboto;"> Após o changelog, é criado um arquivo “.sql” para adicionar as migrações, cada alteração no banco de dados é chamada de changeset, onde é possível atribuir um id, que deve ser diferente em cada alteração, e o autor daquela migração.</p>
+	
   <details>
   <summary>Arquivo changeset</summary>
   <br>
@@ -394,19 +287,22 @@ ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
       <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/changeset2.jpg" width="1000px;" alt=""/>
   </details>
+	
    <h3>Implementação ORM utilizando o framework Hibernate </h3>
    <p align="justify" style="font-family:roboto;">O Hibernate é a solução ORM Java que consiste em uma ferramenta utilizada para realizar o mapeamento objeto-relacional de forma completa e eficiente, essa tecnologia segue a especificação JPA que define um meio para realizar esse mapeamento. O Hibernate é o intermediário das interações entre as classes Java com o banco de dados relacional, fazendo assim a conversão da programação orientada a objetos para o banco de dados relacional. Durante o desenvolvimento do projeto foi utilizado a arquitetura Modelo-Visão-Controle (MVC) onde separamos através de uma lógica arquitetural o sistema em componentes interligados, onde é possivel definir a conexão com a camada de dados, interação com o usuário e as regras de negócio.</p>
 	
-  <p align="justify" style="font-family:roboto;">A lógica arquitetura implementada consistem em :</p>
+  <p align="justify" style="font-family:roboto;">A lógica arquitetural implementada consistem em :</p>
         <li>Model - Representação das tabelas do banco de dados, onde foi definido as relações entre objetos e seus atributos, foi utilizado o método ORM para mapear essas classes.</li>
 	<li>Repository - São interfaces Java que tem como principal função serem a camada de acesso a dados, durante seu desenvolvimento foi utilizado o padrão de projeto Facade pois é uma interface que simplifica as funcionalidades do JPA.  </li>
 	<li>Services - São classes que possuem os métodos do Repository, é onde são mantidos as lógicas conforme as regras de negócio conforme a requisição do cliente.</li>
 	<li>Controller - É a classe onde encontramos os endpoints utilizado para a interação com o front-end do projeto, a comunicação ocorre entre requisições HTTP presentes nas rotas do Controller, para essas requições utilizamos o padrão de projeto Proxy onde controlamos o acesso aos objetos nas com as anotações do Spring.</li>
+	
   <details>
   <summary>Adicionando a dependência do hibernate</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/hibernate.jpg" width="1000px;" alt=""/>
   </details>
+	
 	<p align="justify" style="font-family:roboto;">O mapeamento das classes é construído através de algumas tags especificas do Hibernate, através desses dois exemplos acima conseguimos identificar tags chaves para o mapeamento, são elas: </p>
 	<p align="justify" style="font-family:roboto;">@Table – Notação para especificar qual o nome da tabela no banco de dados; </p>
 	<p align="justify" style="font-family:roboto;">@Column – Identifica o nome da coluna; </p>
@@ -420,6 +316,7 @@ ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
     <br>
     <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/orm2.jpg" width="1000px;" alt=""/>
   </details>
+	
 	    <p align="justify" style="font-family:roboto;" >Além das anotações citadas, é possível adicionar características especificas a determinada coluna. Ex:</p>
 	    <p align="justify" style="font-family:roboto;" ><b>@Column(name = "evt_titulo", nullable = false, length = 30)</b></p>
 	    <p align="justify" style="font-family:roboto;" >No trecho de código foi possível determinar o tamanho de caracteres que a coluna aceita estabelecer a restrição NOT NULL a coluna</p>
@@ -428,6 +325,7 @@ ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
 	
   <p align="justify" style="font-family:roboto;"Durante o desenvolvimento do modelo utilizado no banco de dados, verificamos diversos relacionamento com cardinalidade n:n ( muitos pra muitos) ou seja vários elementos de uma entidade A podem se relacionar com vários elementos da entidade B e vice-versa, esses relacionamentos geram no banco de dados uma tabela de ligação, que possui o atributo identificador da primeira tabela com o identificador da segunda tabela.</p>
   <p align="justify" style="font-family:roboto;"No exemplo a seguir temos um dos vários relacionamento n:n no nosso banco de dados. As tabelas são Evento e Usuário. Ou seja, um evento pode estar ligado com diversos usuários, do outro lado um usuário pode estar ligado com diversos eventos no sistema.</p>
+	
   <details>
   <summary>Implementação relacionamento n:n </summary>
   <br>
@@ -435,9 +333,12 @@ ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
     <br>
       <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/manytomany2.jpg" width="1000px;" alt=""/>
   </details>
+	
     <p align="justify" style="font-family:roboto;" >No mapeamento utilizamos a anotação @ManytoMany par a identificar um relacionamento muito pra muitos, após isso foi escolhido a classe que identificar a classe dominante no relacionamento, que nesse caso é a classe Evento, com isso através da anotação @JoinTable identificamos o nome da tabela de relacionamento, em “joinColumns “ informamos o nome da coluna identificadora da classe dominante (Evento) e em ”inverseJoinColumns” informamos o identificador da outra classe (Usuário).</p>
+	
     <p align="justify" style="font-family:roboto;" >
       Na classe Usuário identificamos através do “mappedBy” que a classe é o lado dominado do relacionamento, ou seja tem função apenas de mostrar os eventos ligados aquele usuário, através da “List” chamada “eventos”.</p>
+	
    <h3>Controle de exceção</h3>
   <p align="justify" style="font-family:roboto;" >Durante o desenvolvimento de um API ocorre diversos erros durante o processo, o padrão do framework Spring é retornar uma resposta genérica para esses erros, acarretando em diversos problemas durante o teste e desenvolvimento da aplicação, levando a uma perda de tempo enorme, que na maioria das vezes é solucionado com algo simples. Com isso foi desenvolvido um controle de algumas exceções no projeto ajudando durante o seu desenvolvimento e para sua manutenção posteriormente. A primeira validação foi utilizando a implementação Bean Validator que vem junto com hibernate, essa função nós trás algumas anotações que são utilizadas para validar os atributos das classes.</p>
   
@@ -454,33 +355,19 @@ ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
   </details>
   <p align="justify" style="font-family:roboto;">Para personalizar as mensagens que serão mostradas, foi criado um arquivo em “resources” chamado ValidationMessages.properties, esse nome é utilizado pelo spring para verificar se existe uma mensagem caso a validação falhar, caso a validação não possua mensagem personalizada será mostrado a padrão, no arquivo criado identificamos as mensagens personalizadas, após isso identificamos na anotação @NotBlank ou @Email o id dessa mensagem, como no exemplo a seguir:</p>
 	
-	
  <ul>
     <li>@NotBlank(message = "{email.not.blank}")</li>
     <li>@Email(message = "{email.not.valid}")</li>   
  </ul>
 	
  <p align="justify" style="font-family:roboto;">Na classe controller da aplicação utilizamos a anotação @Valid nas requisições para verificar esses atributos.</p>
+	
 <details>
 <summary>Anotação @Valid</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/exececao3.jpg" width="1000px;" alt=""/>
   </details>
-	
- <h3>Controle de exceção utilizando ExeceptionHandler </h3>
-   <p align="justify" style="font-family:roboto;">Outra controle de execeção foi desenvolvido atráves do ExceptionHandler</p>
- <p align="justify" style="font-family:roboto;">Para isso foi criado uma classe chamada “RestExceptionHandler” que captura as exceções que foram lançadas e faz o tratamento, essa classe herda uma outra classe do spring chamada “ResponseEntityExceptionHandler”  que fornece para nós os métodos para tratar exceções internas no Spring. A anotação @ControlleAdvice é uma anotação que lida com as exceções globalmente e a @ExceptionHandler é utilizada para tratar as exceções especificas.</p>
-   
-  <details>
-  <summary> Classe RestExceptionHandler</summary>
-  <br>
-      <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/excecao4.jpg" width="1000px;" alt=""/>
-                                                                                                                                         <br>
-       <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/excecao5.jpg" width="1000px;" alt=""/>
-                                                                  
-  </details>
-
-                                                                                                                                         
+	                                                                                                                                 
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
    <ul>
   <li>Metodologia Ágile Scrum
