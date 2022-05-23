@@ -165,9 +165,9 @@
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
-  <p>O AirPlan é um solução de software solicitado pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>  </p>
-  <p>O sistema tem por objetivo o controle e armazenamento de documentações de aeronaves, antes da solução desemvolvida a empresa parceira possuía grandes problemas em gerar e manipular arquivos que integram um documento de uma aeronave, fazendo de forma manual e com isso gerando grandes erros.</p> 
-  <p>A aplicação automatiza a integração dos diversos arquivos em apenas um de forma eficaz e intuitiva, levando em consideração toda regra de negócio que os colaborades usam, é constituido de 3 APIs distintas e independentes que permite a ligar diversos documentos, verificar a integridade dos arquivos, upload das partes de um documento, download completo dos arquivos integrados e controle de usuários.</p>
+  <p>O AirPlan é um solução de software solicitada pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>  </p>
+  <p>O sistema tem por objetivo o controle e armazenamento de documentações de aeronaves, antes da solução desenvolvida a empresa possuía grandes erros ao gerar e manipular arquivos que integram um documento de uma aeronave, fazendo de forma manual.</p> 
+  <p>A aplicação automatiza a integração dos diversos arquivos em apenas um de forma eficaz e intuitiva, levando em consideração toda regra de negócio que os colaborades usam, é constituido de 3 APIs distintas e independentes que permitem: ligar diversos documentos, verificar a integridade dos arquivos, upload das partes de um documento, download completo dos arquivos integrados e controle de usuários.</p>
      
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
@@ -176,14 +176,14 @@
     <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
 	 
-  <li><a href="https://www.mysql.com/">MySQL</a>:
-  <ul>
-    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor armazena os dados e o cliente é oque faz as solicitações desses dados.</p>
+ <li><a href="https://www.mysql.com/">MySQL</a>:
+ <ul>
+    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor é onde fica armazenados os dados e o cliente é oque faz a solicitaçãp desses dados.</p>
   </ul></li>
 
 <li><a href="https://spring.io/">Springboot</a>:
  <ul>
-    <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita o desenvolvimento de softwares fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio.</p>
+    <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio.</p>
   </ul></li>
 	
   <li><a href="https://trello.com/pt-BR">Trello</a>:
@@ -192,7 +192,35 @@
   </ul></li>
  
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
+  
+<h3>Modelo Conceitual</h3>
+<p align="justify" style="font-family:roboto;">O modelo conceitual do banco de dados foi desenvolvido de acordo com as regras de negócio passadas pela empresa parceira, com ele foi possivel estruturar o banco de dados e consequentemente utilizar no armazenamento dos dados do projeto.</p>
+	
+  <details>
+  <summary>Modelo conceitual</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+	
+<h3>Estruturaçãp do banco de dados</h3>
+<p align="justify" style="font-family:roboto;">A partir do modelo de dados foi possivel fazer a estruturação da base a ser utilizada criando então as tabelas, colunas, restrições, relacionamento e tipos de dados.</p>
+	
+  <details>
+  <summary>Demonstração estruturação da base de dados</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+
+<h3>Flyway</h3>
+<p align="justify" style="font-family:roboto;">O Flyway é uma ferramente de migração de banco de dados, foi utilizada no projeto para: Sincronizar o banco de dados com as diferentes versões da aplicação, automatizar a execução dos scripts SQL e ter um controle de quais scripts foram executados.</p>
+<p align="justify" style="font-family:roboto;">O projeto possui uma pasta resouces - db - migration onde estão todas as migrações e alterações da base de dados usadas, fazendo com que os scripts sejam executados.</p>
+	
+  <details>
+  <summary>Demonstração arquivo de migração Flyway</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
 
   <h2 style="font-family:roboto;"> Projeto Vempracasa - 4º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
