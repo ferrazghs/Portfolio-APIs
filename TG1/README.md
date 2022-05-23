@@ -69,7 +69,7 @@
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
 	
-	<h3>Método createAlarm</h3>
+  <h3>Método createAlarm</h3>
   <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do Android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e os dias da semana que será ativado, através da Itent AlarmClock conseguimos iniciar essas variavéis, todas as informações necessário são armazenadas em variáveis instanciadas, através de comandos de voz passados pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
 	
   <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Itent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
@@ -79,6 +79,16 @@
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
+  
+ <h3>Método addContact</h3>
+<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma itent nativa do Android "ContactsContract" para a criação de um novo contato, para efetivar a criação do contato é necessário instanciar duas variaveis, que são o nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações necessárias via comando de voz, após essa ação as variaveis são iniciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizado a ação o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
+	
+  <details>
+  <summary>Demonstração método addContact</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>	
+	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
