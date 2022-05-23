@@ -251,10 +251,12 @@
     </ul></li>
     </ul>
 	
-  <li>GIT
+   <li>GIT:
   <ul>
-    <li>GitFlow./li>
+    <li>GitFlow.</li>
     </ul></li>
+    </ul>
+	
 	
   
   
