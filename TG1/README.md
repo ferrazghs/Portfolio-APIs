@@ -246,6 +246,7 @@
   <li>Banco de dados:
   <ul>
     <li>Desenvolvimento do modelo conceitual e relacional do BD;</li> 
+    <li>Configuração do MySQL;</li> 
     <li>Estruturação do BD através de SQL;</li>
     <li>Utilização de comando DML.</li>
     </ul></li>
