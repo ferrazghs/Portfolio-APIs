@@ -122,7 +122,7 @@
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
   <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a> através de um software promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
-  <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza processos de digitação, por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo os usuários ao buscar informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, contralando a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
+  <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza processos de digitação, por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo os usuários ao buscar informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, controlando a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
   <p>Além disso do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas digitadas.</p>
       
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
@@ -261,19 +261,12 @@
   <h3> Documentação de dados</h3>
   <p align="justify" style="font-family:roboto;">Após o desenvolvimento do modelo relacional pela ferramenta foi gerada uma documentação de dados através de um arquivo pdf, essa documentação foi entregue ao cliente, e descreve todas tabelas, colunas e relacionamentos que o banco possui, caso seja necessário algumas atualização na estrutura do código SQL o cliente consegue de forma fácil e rápida ter acesso a estrutura atual.</p>
   
- <h3>Implementação LiquiBase. </h3>
-  <p align="justify" style="font-family:roboto;">O liquibase é uma ferramenta de migração de banco de dados de código fonte aberto que permite rastrear, gerenciar e aplicar alteração na base de dados. Essa biblioteca acabou sendo útil para fazer toda migração no banco de dados, e padronizar o banco na maquina de cada desenvolvedor do sistema. Porém com o deploy do banco no Oracle Cloud junto, essa ferramenta parou de ser utilizado.</p>
-  <p align="justify" style="font-family:roboto;">O primeiro passo foi adicionar a dependência da biblioteca liquibase no POM.xml do projeto</p>
-	
-  <details>
-  <summary>Dependencia Liquibase no POM.xml</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/liquibase.jpg" width="1000px;" alt=""/>
-  </details>
-	
-  <p align="justify" style="font-family:roboto;">Após a configuração do POM, é criado um arquivo em resources -> db -> changelog onde é feito a configuração do diretório onde será armazenado as migrações no banco de dados.</p>
-  <details>
-	  
+ <h3>Implementação Liquibase. </h3>
+  <p align="justify" style="font-family:roboto;">O liquibase é uma ferramenta de migração de banco de dados de código fonte aberto que permite rastrear, gerenciar e aplicar alteração na base de dados. Essa biblioteca é útil para fazer toda migração no banco de dados, permitindo padronizar o banco na maquina de cada desenvolvedor do sistema.</p>
+
+  <p align="justify" style="font-family:roboto;">É criado um arquivo em resources -> db -> changelog onde é feito a configuração do diretório onde será armazenado as migrações no banco de dados.</p>
+  
+ <details>	  
   <summary>Criação do changelog</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/changelog.jpg" width="1000px;" alt=""/>
@@ -296,18 +289,12 @@
 	<li>Repository - São interfaces Java que tem como principal função serem a camada de acesso a dados, durante seu desenvolvimento foi utilizado o padrão de projeto Facade pois é uma interface que simplifica as funcionalidades do JPA.  </li>
 	<li>Services - São classes que possuem os métodos do Repository, é onde são mantidos as lógicas conforme as regras de negócio conforme a requisição do cliente.</li>
 	<li>Controller - É a classe onde encontramos os endpoints utilizado para a interação com o front-end do projeto, a comunicação ocorre entre requisições HTTP presentes nas rotas do Controller, para essas requições utilizamos o padrão de projeto Proxy onde controlamos o acesso aos objetos nas com as anotações do Spring.</li>
-	
-  <details>
-  <summary>Adicionando a dependência do hibernate</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/hibernate.jpg" width="1000px;" alt=""/>
-  </details>
-	
-	<p align="justify" style="font-family:roboto;">O mapeamento das classes é construído através de algumas tags especificas do Hibernate, através desses dois exemplos acima conseguimos identificar tags chaves para o mapeamento, são elas: </p>
-	<p align="justify" style="font-family:roboto;">@Table – Notação para especificar qual o nome da tabela no banco de dados; </p>
-	<p align="justify" style="font-family:roboto;">@Column – Identifica o nome da coluna; </p>
-	<p align="justify" style="font-family:roboto;">@Id – Identifica a “primary key”, ou seja, a coluna identificadora da tabela;</p>
-	<p align="justify" style="font-family:roboto;">@SequenceGenerator – Cria uma sequencia de números no banco de dados.</p>
+	<br>
+<p align="justify" style="font-family:roboto;">O mapeamento das classes é construído através de algumas tags especificas do Hibernate, através desses dois                exemplos acima conseguimos identificar tags chaves para o mapeamento, são elas:</p>
+<p align="justify" style="font-family:roboto;">@Table – Notação para especificar qual o nome da tabela no banco de dados;</p>
+<p align="justify" style="font-family:roboto;">@Column – Identifica o nome da coluna;</p>
+<p align="justify" style="font-family:roboto;">@Id – Identifica a “primary key”, ou seja, a coluna identificadora da tabela;</p>
+<p align="justify" style="font-family:roboto;">@SequenceGenerator – Cria uma sequencia de números no banco de dados.</p>
 
   <details>
   <summary>Exemplo mapeamento de classes</summary>
@@ -317,14 +304,14 @@
     <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/orm2.jpg" width="1000px;" alt=""/>
   </details>
 	
-	    <p align="justify" style="font-family:roboto;" >Além das anotações citadas, é possível adicionar características especificas a determinada coluna. Ex:</p>
-	    <p align="justify" style="font-family:roboto;" ><b>@Column(name = "evt_titulo", nullable = false, length = 30)</b></p>
-	    <p align="justify" style="font-family:roboto;" >No trecho de código foi possível determinar o tamanho de caracteres que a coluna aceita estabelecer a restrição NOT NULL a coluna</p>
-	    <p align="justify" style="font-family:roboto;" ><b>@Column(name = "usu_cpf", unique = true, nullable = false, length = 15)</b></p>		 	
-  <p align="justify" style="font-family:roboto;">Nesse outro trecho foi possível estabelecer uma restrição de chave única (UK).</p>
+<p align="justify" style="font-family:roboto;" >Além das anotações citadas, é possível adicionar características especificas a determinada coluna. Ex:</p>
+<p align="justify" style="font-family:roboto;" ><b>@Column(name = "evt_titulo", nullable = false, length = 30)</b></p>
+<p align="justify" style="font-family:roboto;" >No trecho de código foi possível determinar o tamanho de caracteres que a coluna aceita estabelecer a                      restrição NOT NULL a coluna</p>
+<p align="justify" style="font-family:roboto;" ><b>@Column(name = "usu_cpf", unique = true, nullable = false, length = 15)</b></p>		 	
+<p align="justify" style="font-family:roboto;">Nesse outro trecho foi possível estabelecer uma restrição de chave única (UK).</p>
 	
-  <p align="justify" style="font-family:roboto;"Durante o desenvolvimento do modelo utilizado no banco de dados, verificamos diversos relacionamento com cardinalidade n:n ( muitos pra muitos) ou seja vários elementos de uma entidade A podem se relacionar com vários elementos da entidade B e vice-versa, esses relacionamentos geram no banco de dados uma tabela de ligação, que possui o atributo identificador da primeira tabela com o identificador da segunda tabela.</p>
-  <p align="justify" style="font-family:roboto;"No exemplo a seguir temos um dos vários relacionamento n:n no nosso banco de dados. As tabelas são Evento e Usuário. Ou seja, um evento pode estar ligado com diversos usuários, do outro lado um usuário pode estar ligado com diversos eventos no sistema.</p>
+<p align="justify" style="font-family:roboto;"Durante o desenvolvimento do modelo utilizado no banco de dados, verificamos diversos relacionamento com cardinalidade n:n ( muitos pra muitos) ou seja vários elementos de uma entidade A podem se relacionar com vários elementos da entidade B e vice-versa, esses relacionamentos geram no banco de dados uma tabela de ligação, que possui o atributo identificador da primeira tabela com o identificador da segunda tabela.</p>
+<p align="justify" style="font-family:roboto;"No exemplo a seguir temos um dos vários relacionamento n:n no nosso banco de dados. As tabelas são Evento e Usuário. Ou seja, um evento pode estar ligado com diversos usuários, do outro lado um usuário pode estar ligado com diversos eventos no sistema.</p>
 	
   <details>
   <summary>Implementação relacionamento n:n </summary>
@@ -334,10 +321,10 @@
       <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Vempracasa/blob/main/images/manytomany2.jpg" width="1000px;" alt=""/>
   </details>
 	
-    <p align="justify" style="font-family:roboto;" >No mapeamento utilizamos a anotação @ManytoMany par a identificar um relacionamento muito pra muitos, após isso foi escolhido a classe que identificar a classe dominante no relacionamento, que nesse caso é a classe Evento, com isso através da anotação @JoinTable identificamos o nome da tabela de relacionamento, em “joinColumns “ informamos o nome da coluna identificadora da classe dominante (Evento) e em ”inverseJoinColumns” informamos o identificador da outra classe (Usuário).</p>
+<p align="justify" style="font-family:roboto;" >No mapeamento utilizamos a anotação @ManytoMany par a identificar um relacionamento muito pra muitos, após isso foi escolhido a classe que identificar a classe dominante no relacionamento, que nesse caso é a classe Evento, com isso através da anotação @JoinTable identificamos o nome da tabela de relacionamento, em “joinColumns “ informamos o nome da coluna identificadora da classe dominante (Evento) e em ”inverseJoinColumns” informamos o identificador da outra classe (Usuário).</p>
 	
-    <p align="justify" style="font-family:roboto;" >
-      Na classe Usuário identificamos através do “mappedBy” que a classe é o lado dominado do relacionamento, ou seja tem função apenas de mostrar os eventos ligados aquele usuário, através da “List” chamada “eventos”.</p>
+<p align="justify" style="font-family:roboto;" >
+Na classe Usuário identificamos através do “mappedBy” que a classe é o lado dominado do relacionamento, ou seja tem função apenas de mostrar os eventos ligados        aquele usuário, através da “List” chamada “eventos”.</p>
 	
    <h3>Controle de exceção</h3>
   <p align="justify" style="font-family:roboto;" >Durante o desenvolvimento de um API ocorre diversos erros durante o processo, o padrão do framework Spring é retornar uma resposta genérica para esses erros, acarretando em diversos problemas durante o teste e desenvolvimento da aplicação, levando a uma perda de tempo enorme, que na maioria das vezes é solucionado com algo simples. Com isso foi desenvolvido um controle de algumas exceções no projeto ajudando durante o seu desenvolvimento e para sua manutenção posteriormente. A primeira validação foi utilizando a implementação Bean Validator que vem junto com hibernate, essa função nós trás algumas anotações que são utilizadas para validar os atributos das classes.</p>
