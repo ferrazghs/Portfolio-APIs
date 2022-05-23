@@ -216,4 +216,19 @@
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
 
+<h3>Mapeamento de classes</h3>
+<p align="justify" style="font-family:roboto;">O Hibernate é a solução ORM(Mapeamento Objeto-Relacional) Java que consiste em uma ferramenta utilizada para realizar o mapeamento das classes Java com o Banco de dados de forma completa e eficiente, essa tecnologia segue a especificação JPA que define um meio para realizar esse mapeamento. O Hibernate é o intermediário das interações entre as classes Java com o banco de dados relacional, fazendo assim a conversão da programação orientada a objetos para o banco de dados relacional. Durante o desenvolvimento do projeto foi utilizado a arquitetura Modelo-Visão-Controle (MVC) onde separamos através de uma lógica arquitetural o sistema em componentes interligados, onde é possivel definir a conexão com a camada de dados, interação com o usuário e as regras de negócio.</p>
+	
+<p align="justify" style="font-family:roboto;">O mapeamento das classes é feito através de algumas tags especificas do JPA, através desses dois exemplos acima conseguimos identificar tags chaves para o mapeamento, são elas: </p>
+	<p align="justify" style="font-family:roboto;">@Table – Notação para especificar qual o nome da tabela no banco de dados; </p>
+	<p align="justify" style="font-family:roboto;">@Column – Identifica o nome da coluna; </p>
+	<p align="justify" style="font-family:roboto;">@Id – Identifica a “primary key”, ou seja, a coluna identificadora da tabela;</p>
+	<p align="justify" style="font-family:roboto;">@SequenceGenerator – Cria uma sequencia de números no banco de dados.</p>
+
+  <details>
+  <summary>Demonstração mapeamento da classe "Flag"</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+
   
