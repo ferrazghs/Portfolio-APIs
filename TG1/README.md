@@ -4,7 +4,7 @@
  <h1 align="center"> Portólio de APIs Fatec São José dos Campos</h1>
   
   <p align="center">
-     <a href=""> 1º Semestre</a> 
+     <a href="">1º Semestre</a> 
      <a href="">2º Semestre</a> 
      <a href="">3º Semestre</a> 
      <a href="">4º Semestre</a>
@@ -56,7 +56,7 @@
   <details>
   <summary>Demonstração método onCreate</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/MetodoonCreate.jpg" alt=""/>
   </details>
   
     <h3>Método catchSpeed</h3>
@@ -66,7 +66,7 @@
   <details>
   <summary>Demonstração método catchSpeed</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Metodocatchspeed.jpg" alt=""/>
   </details>
 	
   <h3>Método createAlarm</h3>
@@ -77,7 +77,7 @@
   <details>
   <summary>Demonstração método createAlarm</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Metodo%20createAlarm.jpg" alt=""/>
   </details>
   
  <h3>Método addContact</h3>
@@ -86,7 +86,7 @@
   <details>
   <summary>Demonstração método addContact</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Metodo%20addContact.jpg" alt=""/>
   </details>
 	
  <h3>Método processMachineLearning</h3>
@@ -95,7 +95,7 @@
   <details>
   <summary>Demonstração método processMachineLearning</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ProcessMachineLearning.jpg" alt=""/>
   </details>
 	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
