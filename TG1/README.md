@@ -83,7 +83,7 @@
   </details>
   
  <h3>Método addContact</h3>
-<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma itent nativa do Android "ContactsContract" para a criação de um novo contato, para efetivar a criação do contato é necessário instanciar duas variaveis, que são o nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações necessárias via comando de voz, após essa ação as variaveis são iniciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizado a ação o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
+<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma itent nativa do Android "ContactsContract" para a criação de um novo contato, para efetivar a criação do contato é necessário instanciar duas variaveis, que são o nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações necessárias via comando de voz, após essa ação as variaveis são instanciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizando o método o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
 	
   <details>
   <summary>Demonstração método addContact</summary>
