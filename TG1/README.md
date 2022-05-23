@@ -238,6 +238,11 @@
     <li>Estruturação de Modelos, Serviços e Controladores no Springboot.</li>
     </ul></li>
 	  
+  <li>GIT:
+  <ul>
+    <li>GitFlow.</li>
+    </ul></li>
+	  
   <li>Banco de dados:
   <ul>
     <li>Desenvolvimento do modelo conceitual e relacional do BD;</li> 
@@ -251,11 +256,6 @@
     </ul></li>
     </ul>
 	
-   <li>GIT:
-  <ul>
-    <li>GitFlow.</li>
-    </ul></li>
-    </ul>
 	
 	
   
