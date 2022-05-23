@@ -70,9 +70,9 @@
   </details>
 	
 	<h3>Método createAlarm</h3>
-  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e minuto que o alarme ira trocar e também os dias que o alarme será ativado, através da itent AlarmClock conseguimos iniciar essas variavéis, todas essas variáveis são iniciadas através do comando de voz passado pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
+  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do Android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e os dias da semana que será ativado, através da Itent AlarmClock conseguimos iniciar essas variavéis, todas as informações necessário são armazenadas em variáveis instanciadas, através de comandos de voz passados pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
 	
-  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada dia da semana corresponde a um inteiro, pois a itent necessita de um valor inteiro como paramêtro.</p>
+  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Itent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
   
     <details>
   <summary>Demonstração método createAlarm</summary>
