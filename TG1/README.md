@@ -92,7 +92,7 @@
   </details>
 	
  <h3>Método processMachineLearning</h3>
-<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de if que tem por paramêtro uma String que recebe o comando de voz do Usuário, dependendo do que for passado é chamado uma função especifica.</p>
+<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de if que tem por paramêtro uma String que recebe o comando de voz do usuário, dependendo do que for passado é chamado uma função especifica.</p>
 	
   <details>
   <summary>Demonstração método processMachineLearning</summary>
