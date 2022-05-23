@@ -105,7 +105,6 @@
   <li>GIT
   <ul>
     <li>Versionamento de código com comandos GIT;</li>
-    <li>GitFlow.</li>
     </ul></li>
   <li>Desenvolvimento Android:
   <ul>
@@ -241,9 +240,9 @@
 	  
   <li>Banco de dados:
   <ul>
-    <li>Desenvolvimento do modelo conceitual e relacional do BD</li> 
-    <li>Estruturação do BD através de SQL</li>
-    <li>Utilização de comando DML</li>
+    <li>Desenvolvimento do modelo conceitual e relacional do BD;</li> 
+    <li>Estruturação do BD através de SQL;</li>
+    <li>Utilização de comando DML.</li>
     </ul></li>
 	  
   <li>Metodologia Ágile:
@@ -251,6 +250,11 @@
     <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
     </ul></li>
     </ul>
+	
+  <li>GIT
+  <ul>
+    <li>GitFlow./li>
+    </ul></li>
 	
   
   
