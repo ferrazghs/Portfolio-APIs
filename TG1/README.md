@@ -192,8 +192,7 @@
   </ul></li>
  
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
-  
+	
 <h3>Modelo Conceitual</h3>
 <p align="justify" style="font-family:roboto;">O modelo conceitual do banco de dados foi desenvolvido de acordo com as regras de negócio passadas pela empresa parceira, com ele foi possivel estruturar o banco de dados e consequentemente utilizar no armazenamento dos dados do projeto.</p>
 	
@@ -231,4 +230,27 @@
    <img style="border-radius: 50%;" src="" alt=""/>
   </details>
 
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
+	
+  <ul>
+  <li>Java Springboot
+  <ul>
+    <li>Mapeamento de classes utilizando JPA;</li>
+    <li>Estruturação de Modelos, Serviços e Controladores no Springboot.</li>
+    </ul></li>
+	  
+  <li>Banco de dados:
+  <ul>
+    <li>Desenvolvimento do modelo conceitual e relacional do BD</li> 
+    <li>Estruturação do BD através de SQL</li>
+    <li>Utilização de comando DML</li>
+    </ul></li>
+	  
+  <li>Metodologia Ágile:
+  <ul>
+    <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
+    </ul></li>
+    </ul>
+	
+  
   
