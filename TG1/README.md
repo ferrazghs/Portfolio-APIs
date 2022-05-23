@@ -49,7 +49,7 @@
 	 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-     <h3>Método OnCreate</h3>
+  <h3>Método OnCreate</h3>
   <p align="justify" style="font-family:roboto;">O método "onCreate" foi desenvolvido com o objetivo de aguardar uma instância do usuário, assim que o usuário
   clicar no botão de microfone na interface, o método é ativado e é chamado um segundo método chamado "catchSpeed"</p>
   
@@ -59,7 +59,7 @@
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/MetodoonCreate.jpg" alt=""/>
   </details>
   
-    <h3>Método catchSpeed</h3>
+  <h3>Método catchSpeed</h3>
   <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
   "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições padrões do Android para a chamada do método de voz.</p>
   
