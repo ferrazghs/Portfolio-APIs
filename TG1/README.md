@@ -53,7 +53,7 @@
   <p align="justify" style="font-family:roboto;">O método "onCreate" foi desenvolvido com o objetivo de aguardar uma instância do usuário, assim que o usuário
   clicar no botão de microfone na interface, o método é ativado e é chamado um segundo método chamado "catchSpeed"</p>
   
-    <details>
+  <details>
   <summary>Demonstração método onCreate</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
@@ -63,7 +63,7 @@
   <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
   "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições padrões do Android para a chamada do método de voz.</p>
   
-    <details>
+  <details>
   <summary>Demonstração método catchSpeed</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
@@ -74,7 +74,7 @@
 	
   <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Itent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
   
-    <details>
+  <details>
   <summary>Demonstração método createAlarm</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
@@ -87,7 +87,16 @@
   <summary>Demonstração método addContact</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt=""/>
-  </details>	
+  </details>
+	
+ <h3>Método processMachineLearning</h3>
+<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de if que tem por paramêtro uma String que recebe o comando de voz do Usuário, dependendo do que for passado é chamado uma função especifica.</p>
+	
+  <details>
+  <summary>Demonstração método processMachineLearning</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
 	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
