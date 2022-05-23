@@ -24,7 +24,7 @@
    </tr>
   </table>
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
-   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard: :desc1:</h2>
+   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
   <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
