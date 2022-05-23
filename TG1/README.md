@@ -99,6 +99,22 @@
   </details>
 	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <ul>
+  <li>GIT
+  <ul>
+    <li>Versionamento de código com comandos GIT;</li>
+    <li>GitFlow.</li>
+    </ul></li>
+  <li>Desenvolvimento Android:
+  <ul>
+    <li>Desenvolvimento de classes e metódos utilizando Java para Android;</li> 
+    <li>Utilização de Itents nativas do Android.</li>
+    </ul></li>
+  <li>XML:
+  <ul>
+    <li>Desenvolvimento de telas utilizando XML.</li>
+    </ul></li>
+    </ul>
 
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
@@ -465,7 +481,7 @@ ALTER TABLE Usuario_Evento ADD CONSTRAINT fk_usuario_evento_usu_email
                                                                                                                                          
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
    <ul>
-  <li>Metodologia Ágil Scrum
+  <li>Metodologia Ágile Scrum
   <ul>
     <li>Criação do Product Backlog do projeto utilizando o método Product Backlog Building;</li>
     <li>Criação das User Stories para o desenvolvimento da aplicação.</li>
