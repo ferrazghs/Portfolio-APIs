@@ -122,8 +122,10 @@
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
   <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a> através de um software promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
-  <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza processos de digitação, por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo os usuários ao buscar informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, controlando a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
-  <p>Além disso do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas digitadas.</p>
+	
+  <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
+	
+  <p>Além do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas digitadas.</p>
       
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
@@ -134,17 +136,17 @@
   
   <li><a href="https://www.mysql.com/">MySQL</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor é onde fica armazenados os dados e o cliente é oque faz a solicitaçãp desses dados.</p>
+    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor armazena os dados e o cliente é oque faz as solicitações desses dados.</p>
   </ul></li>
   
   <li><a href="https://www.gitpod.io/">GitPod</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">GitPod é um ambiente de desenvolvimento de aplicações em nuvem, onde você possui um ambiente de trabalho integrado e de fácil manipulação, podendo adicionar as instalações e extensões utilizadas dentro de um projeto de software.</p>
+    <p align="justify" style="font-family:roboto;">GitPod é um ambiente de desenvolvimento de aplicações em nuvem, onde se tem um ambiente de trabalho integrado e de fácil manipulação, podendo adicionar as instalações e extensões utilizadas dentro de um projeto de software.</p>
   </ul></li>	
 		
   <li><a href="https://openjfx.io/">JavaFX</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">O JavaFx e uma biblioteca gráfica da linguagem Java que permite a criação de interfaces gráficas de forma automática para aplicações desktop e mobile.</p>
+    <p align="justify" style="font-family:roboto;">O JavaFx e uma biblioteca da linguagem Java que permite a criação de interfaces gráficas de forma automática para aplicações desktop e mobile.</p>
   </ul></li>	
 	
  <li><a href="https://www.mockflow.com/">Mockflow</a>:
