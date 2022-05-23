@@ -4,12 +4,12 @@
  <h1 align="center"> Portólio de APIs Fatec São José dos Campos</h1>
   
   <p align="center">
-     <a href="">1º Semestre</a> 
-     <a href="">2º Semestre</a> 
-     <a href="">3º Semestre</a> 
-     <a href="">4º Semestre</a>
-     <a href="">5º Semestre</a>
-     <a href="">6º Semestre</a>
+     <a href="">1º Semestre</a>•
+     <a href="">2º Semestre</a>• 
+     <a href="">3º Semestre</a>•
+     <a href="">4º Semestre</a>•
+     <a href="">5º Semestre</a>•
+     <a href="">6º Semestre</a>•
 </p>
   
   ---
