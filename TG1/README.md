@@ -63,7 +63,7 @@
   
   <h3>Método catchSpeed</h3>
   <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
-  "ação" é chamada de Itent, e através do método catchSpeed iniciamos as requisições padrões do Android para a chamada do método de voz.</p>
+  "ação" é chamada de Intent, e através do método catchSpeed iniciamos as requisições padrões do Android para a chamada do método de voz, a intent utilizada para o       método de voz é a "RecognizerIntent"</p>
   
   <details>
   <summary>Demonstração método catchSpeed</summary>
@@ -72,9 +72,9 @@
   </details>
 	
   <h3>Método createAlarm</h3>
-  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma itent nativa do Android para a criação de um alarme, para efetivar a criação do alarme é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e os dias da semana que será ativado, através da Itent AlarmClock conseguimos iniciar essas variavéis, todas as informações necessário são armazenadas em variáveis instanciadas, através de comandos de voz passados pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
+  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma intent nativa do Android para a criação de um alarme, para efetivar a ação é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e os dias da semana que será ativado, através da Intent AlarmClock conseguimos iniciar essas variavéis, todas as informações necessárias são armazenadas em variáveis instanciadas através de comandos de voz passados pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
 	
-  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Itent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
+  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Intent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
   
   <details>
   <summary>Demonstração método createAlarm</summary>
@@ -83,7 +83,7 @@
   </details>
   
  <h3>Método addContact</h3>
-<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma itent nativa do Android "ContactsContract" para a criação de um novo contato, para efetivar a criação do contato é necessário instanciar duas variaveis, que são o nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações necessárias via comando de voz, após essa ação as variaveis são instanciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizando o método o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
+<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma intent nativa do Android chamada "ContactsContract" para a criação de um novo contato, para efetivar a ação é necessário instanciar duas variaveis, são elas: nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações via comando de voz, após essa ação as variaveis são instanciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizando o método o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
 	
   <details>
   <summary>Demonstração método addContact</summary>
@@ -92,7 +92,7 @@
   </details>
 	
  <h3>Método processMachineLearning</h3>
-<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de if que tem por paramêtro uma String que recebe o comando de voz do usuário, dependendo do que for passado é chamado uma função especifica.</p>
+<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de ifs que tem por paramêtro uma String que recebe o comando de voz do usuário, dependendo do que for passado é chamado uma função especifica.</p>
 	
   <details>
   <summary>Demonstração método processMachineLearning</summary>
@@ -109,7 +109,7 @@
   <li>Desenvolvimento Android:
   <ul>
     <li>Desenvolvimento de classes e metódos utilizando Java para Android;</li> 
-    <li>Utilização de Itents nativas do Android.</li>
+    <li>Utilização de Intents nativas do Android.</li>
     </ul></li>
   <li>XML:
   <ul>
@@ -126,7 +126,7 @@
 	
   <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
 	
-  <p>Além do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas digitadas.</p>
+  <p>Além do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas    digitadas.</p>
       
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
