@@ -202,7 +202,7 @@
   <details>
   <summary>Modelo conceitual</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ModeloConceitual3SEM.jpg" alt=""/>
   </details>
 	
 <h3>Estruturação do banco de dados</h3>
@@ -215,7 +215,7 @@
   <details>
   <summary>Demonstração arquivo de migração Flyway</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/migrationFlyway3Sem.jpg" alt=""/>
   </details>
 
 <h3>Mapeamento de classes</h3>
@@ -230,7 +230,7 @@
   <details>
   <summary>Demonstração mapeamento da classe "Flag"</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/mapeamentoOrm3Sem.jpg" alt=""/>
   </details>
 
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
@@ -252,7 +252,8 @@
     <li>Desenvolvimento do modelo conceitual e relacional do BD;</li> 
     <li>Configuração do MySQL;</li> 
     <li>Estruturação do BD através de SQL;</li>
-    <li>Utilização de comando DML.</li>
+    <li>Utilização de comandos DML;</li>
+    <li>Flyway para integração do banco de dados.</li>
     </ul></li>
 	  
   <li>Metodologia Ágile:
