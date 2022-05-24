@@ -100,6 +100,15 @@
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ProcessMachineLearning.jpg" alt=""/>
   </details>
 	
+ <h3>Método Enable/Disable Wi-fi e Bluetooth</h3>
+<p align="justify" style="font-family:roboto;"></p>
+	
+  <details>
+  <summary>Demonstração método Enable/Disable Wifi e Bluetooth</summary>
+  <br>
+   <img style="border-radius: 50%;" src="" alt=""/>
+  </details>
+	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <ul>
   <li>GIT
