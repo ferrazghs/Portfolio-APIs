@@ -116,7 +116,9 @@
     <li>Desenvolvimento de telas utilizando XML.</li>
     </ul></li>
     </ul>
-
+  
+  ---
+	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
@@ -161,6 +163,8 @@
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
+  ---
+	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
@@ -256,6 +260,8 @@
     <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
     </ul></li>
     </ul>
+
+  ---
 	
 	
 	
