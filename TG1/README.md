@@ -28,9 +28,9 @@
 	
   <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
-  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade "adicionar alarme" que permite ao usuário adicionar um alarme definindo o horário, dias da semana e titulo. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
+  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade adicionar alarme que permite aos usuários adicionar um alarme definindo o horário, dias da semana e título. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
 	
-  <p>O aplicativo ainda proporciona ao usuário funcionalidades como adicionar um contato, realizar ligaçoes informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi e bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
+  <p>O aplicativo ainda proporciona aos usuários funcionalidades como adicionar um contato, realizar ligações informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi e bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
