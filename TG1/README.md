@@ -4,9 +4,9 @@
  <h1 align="center"> Portólio de APIs Fatec São José dos Campos</h1>
   
   <p align="center">
-     <a href="projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre</a> •
-     <a href="">2º Semestre</a> • 
-     <a href="">3º Semestre</a> •
+     <a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre</a> •
+     <a href="#-projeto-trinity---2º-semestre">2º Semestre</a> • 
+     <a href="#-projeto-airplan---3º-semestre">3º Semestre</a> •
      <a href="">4º Semestre</a> •
      <a href="">5º Semestre</a> •
      <a href="">6º Semestre</a> •
