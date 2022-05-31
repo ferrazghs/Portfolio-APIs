@@ -2,7 +2,7 @@
 <body>
   
  <h1 align="center"> Portólio de APIs Fatec São José dos Campos</h1>
- <h3 align="center"> Meus projetos </h3>
+ <h3 align="center"> Meus projetos :books: </h3>
   
   <p align="center">
      <a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre</a> •
@@ -132,6 +132,8 @@
     </ul></li>
     </ul>
   
+   <h2 style="font-family:roboto;"> GitHub :book:</h2>   
+
   ---
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
