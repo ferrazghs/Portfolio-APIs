@@ -101,12 +101,12 @@
   </details>
 	
  <h3>Método Enable/Disable Wi-fi e Bluetooth</h3>
-<p align="justify" style="font-family:roboto;"></p>
+<p align="justify" style="font-family:roboto;">O método enable/disable foi desenvolvido com o objetivo de ativar e desativar o wi-fi e bluetooth do dispositivo Android.Para a implementação do método foi utilizado duas classes "WifiManager" e "BluetoothAdapter" ambas as classes possuem dois métodos que tem por objetivo acionar a ação de ligar e desligar.</p>
 	
   <details>
   <summary>Demonstração método Enable/Disable Wifi e Bluetooth</summary>
   <br>
-   <img style="border-radius: 50%;" src="" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/EnableDisableWifiBluetooth.jpg" alt=""/>
   </details>
 	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
