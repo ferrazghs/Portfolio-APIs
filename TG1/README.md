@@ -132,7 +132,7 @@
     </ul></li>
     </ul>
   
-   <h2 style="font-family:roboto;"> GitHub :book:</h2>   
+   <h2 style="font-family:roboto;"> <a href = "https://github.com/Gil-cos/Projeto_Integrador_1-Sem2020">  GitHub :house: </a></h2>   
 
   ---
 	
