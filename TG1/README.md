@@ -179,6 +179,7 @@
  
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">  GitHub :house: </a></h2>   
 
   ---
 	
@@ -278,6 +279,8 @@
     <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
     </ul></li>
     </ul>
+  
+ <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">  GitHub :house: </a></h2>   
 
   ---
 	
