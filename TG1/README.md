@@ -19,13 +19,13 @@
 	
   <p>Meu nome é Gabriel, tenho 21 anos e atualmente estou cursando o 5º semestre de Banco de dados. Sou formado técnico em informática pela escola técnica <a          href="https://www.institutoideia.online/">IDEIA - Instituto de Desenvolvimento Educacional</a> onde tive meu primeiro contato com o mundo da tecnologia e desenvolvimento de software. Após a conclusão do técnico ingressei na  <a href="https://fatecsjc-prd.azurewebsites.net/index.php">FATEC - São José dos Campos</a> no 1º Semestre/2020.</p>
   <p>Durante o desenvolvimento do curso aprendi muito sobre tecnologias, boas práticas e metodologias, o aprendizado por projetos (APIs) foi muito importante para minha formação como profissional de TI, durante os projetos englobamos todas as matérias do semestre vigente e desenvolvemos projetos com empresas reais, parceiras da faculdade, esse método de ensino está próximo do que acontece no mercado de trabalho, além de desenvolver aplicações em metodologias ágeis como o Scrum, versionamento de código através do GIT, as boas práticas e tecnologias são usadas durante esses projetos.</p>
-<p> Atualmente sou estágiario na empresa <a href="https://codex.tec.br/">Codex Utilities</a> trabalhando com o desenvolvimento de aplicações, minhas experiências durante os projetos são de extrema importancia durante meu trabalho.</p>
+<p> Atualmente sou estágiario na empresa <a href="https://codex.tec.br/">Codex Utilities</a> trabalhando como Analista de desenvolvimento, minhas experiências durante os projetos são de extrema importancia durante meu trabalho.</p>
 
   <table align="center">
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/gabrielferraz01"> <img style="border-radius: 50%;"   src="https://github.com/ferrazghs/Vempracasa/blob/main/images/ferraz.jpeg" width="200px;" alt=""/><br/><b>Gabriel Ferraz</b></a>
       <br/>
-       Desenvolvedor banco de dados e back-end
+       Analista de desenvolvimento
      </td>
    </tr>
   </table>
