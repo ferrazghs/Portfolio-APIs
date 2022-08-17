@@ -300,7 +300,7 @@
  <details>
  <summary>Demonstração funcionamento da aplicação</summary>
  <br>
-  <img style="border-radius: 50%;" src="" />
+  <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Apresenta%C3%A7%C3%A3o_AirPlan.gif" />
  </details>
   ---
 	
