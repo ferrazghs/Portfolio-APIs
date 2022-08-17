@@ -133,7 +133,15 @@
     </ul>
   
    <h2 style="font-family:roboto;"> <a href = "https://github.com/Gil-cos/Projeto_Integrador_1-Sem2020">  GitHub :house: </a></h2>   
-
+   
+   <h2 style="font-family:roboto;"> O produto :trophy:</h2>
+    <details>
+  <summary>Demonstração funcionamento da aplicação</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Untitled-video-%E2%80%90-Feito-com-o-Clipchamp.gif" />
+  </details>
+	
+  		
   ---
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
