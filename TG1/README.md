@@ -303,9 +303,7 @@
   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Apresenta%C3%A7%C3%A3o_AirPlan.gif" />
  </details>
 	
-	
-     ---
-	
+  ---	
 	
   <h2 style="font-family:roboto;"> Projeto #VEMPRACASA - 4º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
