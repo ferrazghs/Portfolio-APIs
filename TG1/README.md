@@ -308,7 +308,7 @@
   <h2 style="font-family:roboto;"> Projeto #VEMPRACASA - 4º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 
-<p>#VEMPRACASA é um projeto para a empresa Oracle, a proposta apresentada pela a empresa parceira tem a finalidade do desenvolvimento de um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa, o sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
+<p>#VEMPRACASA é um projeto para a empresa <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade do desenvolvimento de um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa, o sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
 
 <p> O sistema tem diversas funcionalidades que tornam o agendamento de eventos intuitivo e prático para o usuário final. A solução consiste em três tipos de usuários: Organizador, Administrador e Convidado.</p>
 	
