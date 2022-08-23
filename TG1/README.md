@@ -361,7 +361,7 @@
   </details>
 	
 <h3>Modelo relacional banco de dados</h3>
-<p align="justify" style="font-family:roboto;"O desenvolvimento foi feito levando em consideração as entidades, atributos e relacionamento do MER, nesse novo modelo as entidades se tornam tabelas, os atributos se tornam colunas e os relacionamentos são feitos através de chaves estrangeiras.</p>
+<p align="justify" style="font-family:roboto;">O desenvolvimento foi feito levando em consideração as entidades, atributos e relacionamento do MER, nesse novo modelo as entidades se tornam tabelas, os atributos se tornam colunas e os relacionamentos são feitos através de chaves estrangeiras.</p>
 	
   <details>
   <summary>Demonstração modelo relacional</summary>
