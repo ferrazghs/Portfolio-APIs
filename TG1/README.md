@@ -347,3 +347,15 @@
   <ul>
   <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar nossas funcionalidades, além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
 </ul></li>	
+	
+<h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+	
+<h3>Modelo Conceitual do banco de dados</h3>
+<p align="justify" style="font-family:roboto;">O modelo foi desenvolvido utilizando o software “brModelo” especifico para a criação do MER (Modelo-Entidade-Relacionamento).Após a definição do “Product Backlog”, foi feita uma análise sobre a proposta e com isso foi possível o desenvolvimento das entidades, atributos e relacionamentos presentes no modelo.</p>
+<p align="justify"> Essa parte foi crucial no inicio do projeto para elaborar um modelo de dados consistente e funcional, com o MER conseguimos resolver questões importantes que refletiram durante as Sprints, por exemplo, o relacionamento que os usuários do sistema têm com os eventos criados pelos mesmos.</p>
+	
+  <details>
+  <summary>Modelo conceitual</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ModeloConceitual3SEM.jpg" alt=""/>
+  </details>
