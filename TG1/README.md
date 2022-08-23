@@ -377,12 +377,12 @@
 	
 <p align="justify" style="font-family:roboto;">O Hibernate é o intermediário das interações entre as classes Java com o banco de dados relacional, fazendo assim a conversão da programação orientada a objetos para o banco de dados relacional. Durante o desenvolvimento do projeto foi utilizado à arquitetura MVC (Model-View-Controller) onde separamos através de uma lógica arquitetural o sistema em componentes interligados, onde é possível definir a conexão com a camada de dados, interação com o usuário e as regras de negócio.</p>
 	
-<p align="justify" style="font-family:roboto;">A lógica arquitetura implementada consistem em :</p>
+<p align="justify" style="font-family:roboto;">A lógica arquitetura implementada consiste em :</p>
         <li>Model - Representação das tabelas do banco de dados, onde foi definido as relações entre objetos e seus atributos, foi utilizado o método ORM para mapear essas classes.</li>
 	<li>Repository - São interfaces Java que tem como principal função serem a camada de acesso a dados, durante seu desenvolvimento foi utilizado o padrão de projeto Facade pois é uma interface que simplifica as funcionalidades do JPA.  </li>
 	<li>Services - São classes que possuem os métodos do Repository, é onde são mantidos as lógicas conforme as regras de negócio conforme a requisição do cliente.</li>
 	<li>Controller - É a classe onde encontramos os endpoints utilizado para a interação com o front-end do projeto, a comunicação ocorre entre requisições HTTP presentes nas rotas do Controller, para essas requições utilizamos o padrão de projeto Proxy onde controlamos o acesso aos objetos nas com as anotações do Spring.</li>
-	
+<br>	
  <details>
   <summary>Demonstração modelagem de classes</summary>
   <br>
