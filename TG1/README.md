@@ -355,7 +355,20 @@
 <p align="justify"> Essa parte foi crucial no inicio do projeto para elaborar um modelo de dados consistente e funcional, com o MER conseguimos resolver questões importantes que refletiram durante as Sprints, por exemplo, o relacionamento que os usuários do sistema têm com os eventos criados pelos mesmos.</p>
 	
   <details>
-  <summary>Modelo conceitual</summary>
+  <summary>Demonstração modelo conceitual</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ModeloConceitual3SEM.jpg" alt=""/>
   </details>
+	
+<h3>Modelo relacional banco de dados</h3>
+<p align="justify" style="font-family:roboto;"O desenvolvimento foi feito levando em consideração as entidades, atributos e relacionamento do MER, nesse novo modelo as entidades se tornam tabelas, os atributos se tornam colunas e os relacionamentos são feitos através de chaves estrangeiras.</p>
+	
+  <details>
+  <summary>Demonstração modelo relacional</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ModeloConceitual3SEM.jpg" alt=""/>
+  </details>
+
+<h3>Documentação de dados</h3>
+<p align="justify" style="font-family:roboto;"Após o desenvolvimento do modelo relacional pela ferramenta foi gerada uma documentação de dados através de um arquivo .pdf, essa documentação foi entregue ao cliente, e descreve todas tabelas, colunas e relacionamentos que o banco possui, caso seja necessário algumas atualização na estrutura do código SQL o cliente consegue de forma fácil e rápida ter acesso a estrutura atual.</p>
+	
