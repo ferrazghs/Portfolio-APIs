@@ -386,5 +386,5 @@
  <details>
   <summary>Demonstração modelagem de classes</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/orm_4sme.jpg" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/orm4sem.jpg" width="1000px;" alt=""/>
   </details>
