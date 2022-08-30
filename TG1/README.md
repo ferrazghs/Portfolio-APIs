@@ -399,11 +399,11 @@
 	  
   <li>Banco de dados:
   <ul>
-    <li>oDesenvolvimento da documentação de dados.</li> 
+    <li>Desenvolvimento da documentação de dados.</li> 
     </ul></li>
 	  
   <li>Metodologia Ágile:
   <ul>
-    <li>oDesenvolvimento do Product Backlog utilizando a metodologia Product Backlog Building.</li>
+    <li>Desenvolvimento do Product Backlog utilizando a metodologia Product Backlog Building.</li>
     </ul></li>
     </ul>
