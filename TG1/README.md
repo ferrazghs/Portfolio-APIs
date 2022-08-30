@@ -33,7 +33,7 @@
 	
 ---
 	
-<h3 align="center"> Principais conhecimentos :books: </h3>
+<h3 align="center"> Principais conhecimentos :medal_sports:</h3>
 <h3 align="center"> Hard Skills </h3>
   <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
