@@ -388,3 +388,30 @@
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/orm4sem.jpg" width="1000px;" alt=""/>
   </details>
+
+  <ul>
+  <li>Java Springboot
+  <ul>
+    <li>Mapeamento de classes utilizando JPA;</li>
+    <li>Estruturação de Modelos, Serviços e Controladores no Springboot.</li>
+    </ul></li>
+	  
+  <li>GIT:
+  <ul>
+    <li>GitFlow.</li>
+    </ul></li>
+	  
+  <li>Banco de dados:
+  <ul>
+    <li>Desenvolvimento do modelo conceitual e relacional do BD;</li> 
+    <li>Configuração do MySQL;</li> 
+    <li>Estruturação do BD através de SQL;</li>
+    <li>Utilização de comandos DML;</li>
+    <li>Flyway para integração do banco de dados.</li>
+    </ul></li>
+	  
+  <li>Metodologia Ágile:
+  <ul>
+    <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
+    </ul></li>
+    </ul>
