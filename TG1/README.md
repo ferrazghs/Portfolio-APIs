@@ -2,6 +2,7 @@
 <body>
   
  <h1 align="center"> Portólio de APIs Fatec São José dos Campos</h1>
+ <h2 align="center"> Gabriel Henrique de Souza Ferraz - Banco de Dados</h2>
  <h3 align="center"> Meus projetos :books: </h3>
   
   <p align="center">
