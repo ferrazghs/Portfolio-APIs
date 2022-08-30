@@ -483,7 +483,7 @@
     <details>
   <summary>Demonstração funcionamento da aplicação</summary>
   <br>
-   <img style="border-radius: 50%;" src="" />
+   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/4Sem_apresentacao.gif" />
   </details>
 	
 	
