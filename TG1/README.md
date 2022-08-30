@@ -30,6 +30,79 @@
      </td>
    </tr>
   </table>
+	
+---
+	
+<h3 align="center"> Principais conhecimentos :books: </h3>
+<h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Scrum</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>	  
+    <tr>
+      <td>Java</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Banco de dados Oracle, MySQL e SQLServer</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>  	
+   <tr>
+    <tr>
+      <td>Modelagem de Banco de dados relacional</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>  	
+   <tr>
+      <td>Modelagem de Banco de dados relacional analítico</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>  	  
+     <tr>
+      <td>GIT</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Planejamento</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+  </table>
+  
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
