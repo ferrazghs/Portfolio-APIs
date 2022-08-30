@@ -132,14 +132,8 @@
 <li>Método criar alarme através de um comando de voz;</li>	
 <li>Método adicionar contato através de um comando de voz;</li>	
 <li>Método para ligar/desligar o wi-fi e bluetooth.</li>	
-	
-  <details>
-  <summary>Demonstração método Enable/Disable Wifi e Bluetooth</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/EnableDisableWifiBluetooth.jpg" alt=""/>
-  </details>
-	
-  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+
+<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <ul>
   <li>GIT
   <ul>
