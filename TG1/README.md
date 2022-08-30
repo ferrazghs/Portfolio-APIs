@@ -35,6 +35,9 @@
 	
 <h3 align="center"> Principais conhecimentos :books: </h3>
 <h3 align="center"> Hard Skills </h3>
+  <details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
   <table align="center">
     <tr>
       <th width="300px">Tecnologia/Metodologia</th>
@@ -74,34 +77,24 @@
       <td>★★★★★★★★★☆</td>
     </tr>
   </table>
-  
-  <h3 align="center">Soft Skills</h3>
+ </details> 
+	
+<h3 align="center"> Soft Skills </h3>
+  <details>
+  <summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
+      <th width="300px">Tecnologia/Metodologia</th>
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
+      <td>Scrum</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>	  
+
   </table>
+ </details> 
   
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
