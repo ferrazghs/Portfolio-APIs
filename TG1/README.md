@@ -126,57 +126,12 @@
 	 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3>Método onCreate</h3>
-  <p align="justify" style="font-family:roboto;">O método "onCreate" foi desenvolvido com o objetivo de aguardar uma instância do usuário, assim que o usuário
-  clicar no botão de microfone na interface, o método é ativado e é chamado um segundo método chamado "catchSpeed"</p>
-  
-  <details>
-  <summary>Demonstração método onCreate</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/MetodoonCreate.jpg" alt=""/>
-  </details>
-  
-  <h3>Método catchSpeed</h3>
-  <p align="justify" style="font-family:roboto;">O método "catchSpeed" tem por objetivo chamar uma ação atraves das funcionalidades nativas do sistema Android, essa
-  "ação" é chamada de Intent, e através do método catchSpeed iniciamos as requisições padrões do Android para a chamada do método de voz, a intent utilizada para o       método de voz é a "RecognizerIntent"</p>
-  
-  <details>
-  <summary>Demonstração método catchSpeed</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Metodocatchspeed.jpg" alt=""/>
-  </details>
-	
-  <h3>Método createAlarm</h3>
-  <p align="justify" style="font-family:roboto;">O método "createAlarm" tem por objetivo chamar uma intent nativa do Android para a criação de um alarme, para efetivar a ação é necessário instanciar algumas variaveis, entre elas temos: mensagem que o alarme vai mostrar ao usuário, o horário e os dias da semana que será ativado, através da Intent AlarmClock conseguimos iniciar essas variavéis, todas as informações necessárias são armazenadas em variáveis instanciadas através de comandos de voz passados pelo usuário, seguindo as instruções que estão contidas no front-end do projeto.</p>
-	
-  <p align="justify" style="font-family:roboto;">Além disso para definir os dias da semana foi criado um HashMap, onde cada inteiro de 1 á 7 corresponde aos dias da semana, o desenvolvimento desse hash se deu pelo motivo da Intent necessitar de um inteiro como parâmetro para definir os dias da semana.</p>
-  
-  <details>
-  <summary>Demonstração método createAlarm</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Metodo%20createAlarm.jpg" alt=""/>
-  </details>
-  
- <h3>Método addContact</h3>
-<p align="justify" style="font-family:roboto;">O método "addContact" tem por objetivo chamar uma intent nativa do Android chamada "ContactsContract" para a criação de um novo contato, para efetivar a ação é necessário instanciar duas variaveis, são elas: nome do contato e também seu numero. essas variaveis são iniciadas assim que o usuário passar as informações via comando de voz, após essa ação as variaveis são instanciadas através do métodos "ContactsContract.Intents.Insert.NAME" e ContactsContract.Intents.Insert.PHONE, finalizando o método o usuário é redirecionado para a tela de contatos do Android para salvar a ação.</p>
-	
-  <details>
-  <summary>Demonstração método addContact</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Metodo%20addContact.jpg" alt=""/>
-  </details>
-	
- <h3>Método processMachineLearning</h3>
-<p align="justify" style="font-family:roboto;">O método "processMachineLearning" foi desenvolvido dentro da classe "MainActivity", esse método possui uma cadeia de ifs que tem por paramêtro uma String que recebe o comando de voz do usuário, dependendo do que for passado é chamado uma função especifica.</p>
-	
-  <details>
-  <summary>Demonstração método processMachineLearning</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ProcessMachineLearning.jpg" alt=""/>
-  </details>
-	
- <h3>Método Enable/Disable Wi-fi e Bluetooth</h3>
-<p align="justify" style="font-family:roboto;">O método enable/disable foi desenvolvido com o objetivo de ativar e desativar o wi-fi e bluetooth do dispositivo Android.Para a implementação do método foi utilizado duas classes "WifiManager" e "BluetoothAdapter" ambas as classes possuem dois métodos que tem por objetivo acionar a ação de ligar e desligar.</p>
+<p align="justify" style="font-family:roboto;"> Durante o projeto meu papel foi centrado no desenvolvimento back-end da aplicação, onde desenvolvi diversas funcionalidades que usam diretamente o comando de voz para o usuário, utilizando Java como linguagem principal na IDE Android Studio, além de criar telas em XML para o uso na aplicação, entre as funcionalidades desenvolvidas estão:</p> 
+
+<li>Método para iniciar a captura de voz;</li>	
+<li>Método criar alarme através de um comando de voz;</li>	
+<li>Método adicionar contato através de um comando de voz;</li>	
+<li>Método para ligar/desligar o wi-fi e bluetooth.</li>	
 	
   <details>
   <summary>Demonstração método Enable/Disable Wifi e Bluetooth</summary>
