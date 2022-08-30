@@ -393,26 +393,17 @@
   <ul>
   <li>Java Springboot
   <ul>
-    <li>Mapeamento de classes utilizando JPA;</li>
-    <li>Estruturação de Modelos, Serviços e Controladores no Springboot.</li>
-    </ul></li>
-	  
-  <li>GIT:
-  <ul>
-    <li>GitFlow.</li>
-    </ul></li>
+    <li>Melhora no mapeamento das classes utilizando JPA;</li>
+    <li>Utilização de padrões de projeto MVC e Facade.</li>
+    </ul></li>	  
 	  
   <li>Banco de dados:
   <ul>
-    <li>Desenvolvimento do modelo conceitual e relacional do BD;</li> 
-    <li>Configuração do MySQL;</li> 
-    <li>Estruturação do BD através de SQL;</li>
-    <li>Utilização de comandos DML;</li>
-    <li>Flyway para integração do banco de dados.</li>
+    <li>oDesenvolvimento da documentação de dados.</li> 
     </ul></li>
 	  
   <li>Metodologia Ágile:
   <ul>
-    <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
+    <li>oDesenvolvimento do Product Backlog utilizando a metodologia Product Backlog Building.</li>
     </ul></li>
     </ul>
