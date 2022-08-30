@@ -24,17 +24,15 @@
 
   <table align="center">
    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/gabrielferraz01"> <img style="border-radius: 50%;"   src="https://github.com/ferrazghs/Vempracasa/blob/main/images/ferraz.jpeg" width="200px;" alt=""/><br/><b>Gabriel Ferraz</b></a>
+    <td align="center"><a href="https://www.linkedin.com/in/gabrielferraz01"> <img style="border-radius: 50%;"   src="https://github.com/ferrazghs/Vempracasa/blob/main/images/ferraz.jpeg" width="20%;" alt=""/><br/><b>Gabriel Ferraz</b></a>
       <br/>
        Analista de desenvolvimento
      </td>
    </tr>
   </table>
-	
----
-	
+
 <h3 align="center"> Principais conhecimentos :medal_sports:</h3>
-<h3 align="center"> Hard Skills :medal_sports: </h3>
+<h3 align="center"> Hard Skills</h3>
   <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
@@ -79,7 +77,9 @@
   </table>
  </details> 
 	
-<h3 align="center"> Soft Skills :medal_sports: </h3>
+---		
+	
+<h3 align="center"> Soft Skills</h3>
   <details>
   <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
@@ -96,6 +96,8 @@
   </table>
  </details> 
   
+---	
+	
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
