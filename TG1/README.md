@@ -408,7 +408,7 @@
     </ul></li>
     </ul>
   
-   <h2 style="font-family:roboto;"> <a href = "">  GitHub :house: </a></h2>   
+   <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/API4Sem2021">  GitHub :house: </a></h2>   
    
    <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
     <details>
@@ -419,5 +419,4 @@
 	
 	
 ---
-  		
-  ---
+
