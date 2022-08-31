@@ -110,7 +110,7 @@
   </tr>	
  <tr>
       <td>Planejamento</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
  </tr>	
   <tr>
       <td>Visão de negócio</td>
@@ -227,6 +227,15 @@
   </ul></li>
  
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+ <p align="justify" style="font-family:roboto;"> No projeto Trinity auxiliei na construção da solução no papel de desenvolvedor back-end e na modelagem e estruturação do Banco de dados, entre minhas contribuições estão a prototipação da  base de dados utilizando SQL, além da estruturação de classes importantes para o funcionamento da aplicação. Entre algumas classes que desenvolvi, temos a classe que leva atributos, construtores e métodos que referenciam as contas de água e luz, além de uma classe de conexão com  SGBD  MySQL.</p>
+ <p align="justify" style="font-family:roboto;">Além de classes Java utilizando o DAO que tem por objetivo trocar informações com o SGBD e fornecer as operações de CRUD utilizadas no projeto, minhas contribuições pessoais no projeto são:</p>
+
+<li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
+<li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
+<li>Prototipação de classes que remetem a contas de água e luz;</li>	
+<li>Configuração da classe que faz a conexão com  o banco de dados;</li>
+<li>Configuração das classes DAO, onde se concentram  os métodos de Insert, Delete, Update e Select utilizados na solução.</li>
+	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">  GitHub :house: </a></h2>   
 
