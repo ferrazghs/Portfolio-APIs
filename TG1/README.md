@@ -269,7 +269,7 @@
   </ul></li>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor de banco de dados e back-end, minhas contribuições foram na modelagem, estruturação e controle de versões na base de dados usada na solução, além de auxiliar no mapeamento das classes utilizando Hibernate, esse mapeamento foi importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
+ <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end, minhas contribuições foram na modelagem, estruturação e controle de versões na base de dados usada na solução, além de auxiliar no mapeamento das classes utilizando Hibernate, esse mapeamento foi importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
 
 <li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
