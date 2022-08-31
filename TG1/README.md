@@ -149,7 +149,7 @@
 	 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-<p align="justify" style="font-family:roboto;"> Durante o projeto meu papel foi centrado no desenvolvimento back-end da aplicação, onde desenvolvi diversas funcionalidades que usam diretamente o comando de voz para o usuário, utilizando Java como linguagem principal na IDE Android Studio, além de criar telas em XML para o uso na aplicação, entre as funcionalidades desenvolvidas estão:</p> 
+<p align="justify" style="font-family:roboto;"> Durante o projeto meu papel foi centrado no desenvolvimento back-end da aplicação, onde desenvolvi diversas funcionalidades que usam diretamente o comando de voz para o usuário, utilizando Java como linguagem principal na IDE Android Studio, além de usar "Intents" nativas do Android que tem por objetivo chamar funcionalidades especificas do sistema, essas "Intents" foram usadas no desenvolvimento de todas as funcionalidades, além de criar telas em formato XML para o uso na aplicação, entre as funcionalidades desenvolvidas estão:</p> 
 
 <li>Método para iniciar a captura de voz;</li>	
 <li>Método criar alarme através de um comando de voz;</li>	
@@ -269,7 +269,7 @@
   </ul></li>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end, minhas contribuições foram na modelagem, estruturação e controle de versões na base de dados usada na solução, além de auxiliar no mapeamento das classes utilizando Hibernate, esse mapeamento foi importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
+ <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end, minhas contribuições foram na modelagem, estruturação e controle de versões na base de dados usada na solução que serviu com armazenamento dos dados utilizadas por todas as APIs do sistema e integrar todos os desenvolvedores com a estrutura da base de dados atualizada através da ferramento Flyway, além de auxiliar no mapeamento das classes utilizando Hibernate, esse mapeamento foi importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
 
 <li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
