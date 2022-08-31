@@ -358,46 +358,16 @@
 </ul></li>	
 	
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-	
-<h3>Modelo Conceitual do banco de dados</h3>
-<p align="justify" style="font-family:roboto;">O modelo foi desenvolvido utilizando o software “brModelo” especifico para a criação do MER (Modelo-Entidade-Relacionamento).Após a definição do “Product Backlog”, foi feita uma análise sobre a proposta e com isso foi possível o desenvolvimento das entidades, atributos e relacionamentos presentes no modelo.</p>
-<p align="justify"> Essa parte foi crucial no inicio do projeto para elaborar um modelo de dados consistente e funcional, com o MER conseguimos resolver questões importantes que refletiram durante as Sprints, por exemplo, o relacionamento que os usuários do sistema têm com os eventos criados pelos mesmos.</p>
-	
-  <details>
-  <summary>Demonstração modelo conceitual</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ModeloConceitual3SEM.jpg" alt=""/>
-  </details>
-	
-<h3>Modelo relacional banco de dados</h3>
-<p align="justify" style="font-family:roboto;">O desenvolvimento foi feito levando em consideração as entidades, atributos e relacionamento do MER, nesse novo modelo as entidades se tornam tabelas, os atributos se tornam colunas e os relacionamentos são feitos através de chaves estrangeiras.</p>
-	
-  <details>
-  <summary>Demonstração modelo relacional</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/relacional.jpg" alt=""/>
-  </details>
+ 
+<p align="justify" style="font-family:roboto;">Minhas contribuições no projeto foram centradas na modelagem, estruturação e documentação de toda base de dados utilizada na solução, a documentação da base de dados foi apresentada ao cliente para validação e para ter a rastreabilidade de todo banco de dados para possíveis mudanças futuras.</p>	
+<p align="justify" style="font-family:roboto;">No desenvolvimento back-end fiz o uso do ORM (Mapemento-Objeto-Relacional) de forma completa e eficiente utilizando o Hibernate , além de utilizar o MVC (Model-View-Controller) utilizada como lógica arquitetural para comunicação entre o back-end e front-end do projeto. Além disso, programei o controle de exceção nas funcionalidades da aplicação que auxiliam os desenvolvedores em caso de erro, estão entre minhas contribuições:/p>	
 
-<h3>Documentação de dados</h3>
-<p align="justify" style="font-family:roboto;">Após o desenvolvimento do modelo relacional pela ferramenta foi gerada uma documentação de dados através de um arquivo .pdf, essa documentação foi entregue ao cliente, e descreve todas tabelas, colunas e relacionamentos que o banco possui, caso seja necessário algumas atualização na estrutura do código SQL o cliente consegue de forma fácil e rápida ter acesso a estrutura atual.</p>
+<li>Modelagem conceitual da base de dados utilizando a ferramenta BrModelo;</li>	
+<li>Estruturação da base de dados no Oracle, através de comandos SQL;</li>	
+<li>Utilização da ferramenta Vertabelo para documentação de dados;</li>	
+<li>Mapeamento de classes utilizando Hibernate;</li>	
+<li>Controle de exceção em Java.</li>	
 	
-<h3>Implementação ORM utilizando o framework Hibernate</h3>
-<p align="justify" style="font-family:roboto;">O Hibernate é a solução ORM Java que consiste em uma ferramenta utilizada para realizar o mapeamento objeto-relacional de forma completa e eficiente, essa tecnologia segue a especificação JPA que define um meio para realizar esse mapeamento.</p>
-	
-<p align="justify" style="font-family:roboto;">O Hibernate é o intermediário das interações entre as classes Java com o banco de dados relacional, fazendo assim a conversão da programação orientada a objetos para o banco de dados relacional. Durante o desenvolvimento do projeto foi utilizado à arquitetura MVC (Model-View-Controller) onde separamos através de uma lógica arquitetural o sistema em componentes interligados, onde é possível definir a conexão com a camada de dados, interação com o usuário e as regras de negócio.</p>
-	
-<p align="justify" style="font-family:roboto;">A lógica arquitetura implementada consiste em :</p>
-        <li>Model - Representação das tabelas do banco de dados, onde foi definido as relações entre objetos e seus atributos, foi utilizado o método ORM para mapear essas classes.</li>
-	<li>Repository - São interfaces Java que tem como principal função serem a camada de acesso a dados, durante seu desenvolvimento foi utilizado o padrão de projeto Facade pois é uma interface que simplifica as funcionalidades do JPA.  </li>
-	<li>Services - São classes que possuem os métodos do Repository, é onde são mantidos as lógicas conforme as regras de negócio conforme a requisição do cliente.</li>
-	<li>Controller - É a classe onde encontramos os endpoints utilizado para a interação com o front-end do projeto, a comunicação ocorre entre requisições HTTP presentes nas rotas do Controller, para essas requições utilizamos o padrão de projeto Proxy onde controlamos o acesso aos objetos nas com as anotações do Spring.</li>
-<br>	
- <details>
-  <summary>Demonstração modelagem de classes</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/orm4sem.jpg" width="1000px;" alt=""/>
-  </details>
-
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <ul>
   <li>Java Springboot
