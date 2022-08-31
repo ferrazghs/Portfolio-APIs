@@ -89,10 +89,33 @@
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Scrum</td>
+      <td>Comunicação assertiva</td>
       <td>★★★★★★★★☆☆</td>
     </tr>	  
-
+  <tr>
+      <td>Posicionamento crítico</td>
+      <td>★★★★★★★★☆☆</td>
+  </tr>	 
+   <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★☆☆</td>
+  </tr>	 
+   <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★☆☆☆</td>
+  </tr>	
+   <tr>
+      <td>Organização</td>
+      <td>★★★★★★☆☆☆☆</td>
+  </tr>	
+ <tr>
+      <td>Planejamento</td>
+      <td>★★★★★★☆☆☆☆</td>
+ </tr>	
+  <tr>
+      <td>Visão de negócio</td>
+      <td>★★★★★★★☆☆☆</td>
+ </tr>
   </table>
  </details> 
   
