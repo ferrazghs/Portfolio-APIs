@@ -67,7 +67,7 @@
       <td>★★★★★★★★☆☆</td>
     </tr>  	
    <tr>
-      <td>Modelagem de Banco de dados relacional analítico</td>
+      <td>Modelagem de Banco de dados Data Warehouse</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>  	  
      <tr>
