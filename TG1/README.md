@@ -237,6 +237,27 @@
 <li>Configuração das classes DAO, onde se concentram  os métodos de Insert, Delete, Update e Select utilizados na solução.</li>
 	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+	
+  <ul>
+  <li>Banco de dados:
+  <ul>
+    <li>Modelagem conceitual e relacional do banco de dados;</li>
+    <li>Utilização de comando DDL para estruturação da base de dados.</li>
+  </ul></li>
+  <li>Java:
+  <ul>
+    <li>Desenvolvimento de classes, construtores e métodos;</li> 
+    <li>Prototipação de classes de conexão com o banco de dados;</li>
+    <li>Prototipação de classes DAO.</li>
+    </ul></li>
+  <li>Scrum:
+  <ul>
+    <li>Desenvolvimento do Product Backlog;</li>
+    <li>Prototipação de wireframes;</li>
+    <li>Utilização de Sprints durante o desenvolvimento do projeto.</li>
+    </ul></li>
+   </ul>
+	
   <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">  GitHub :house: </a></h2>   
 
   <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
