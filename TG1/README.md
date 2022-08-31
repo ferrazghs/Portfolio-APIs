@@ -268,58 +268,26 @@
     <p align="justify" style="font-family:roboto;"> Trello é uma ferramenta colaborativa que organiza projetos em quadros, onde são inseridas listas de tarefas a serem seguidas individualmente ou em equipe. Cada lista recebe cartões com descrições, prazos determinados e objetivos a serem concluídos, utilizado para auxiliar no desenvolvimento de projetos utilizando metodologias agéis, como exemplo o Scrum.</p>
   </ul></li>
  
-  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-	
-<h3>Modelo Conceitual</h3>
-<p align="justify" style="font-family:roboto;">O modelo conceitual do banco de dados foi desenvolvido de acordo com as regras de negócio passadas pela empresa parceira, com ele foi possivel estruturar o banco de dados e consequentemente utilizar no armazenamento dos dados do projeto.</p>
-	
-  <details>
-  <summary>Modelo conceitual</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/ModeloConceitual3SEM.jpg" alt=""/>
-  </details>
-	
-<h3>Estruturação do banco de dados</h3>
-<p align="justify" style="font-family:roboto;">A partir do modelo de dados foi possivel fazer a estruturação da base a ser utilizada criando então as tabelas, colunas, restrições, relacionamento e tipos de dados.</p>
-	
-<h3>Flyway</h3>
-<p align="justify" style="font-family:roboto;">O Flyway é uma ferramente de migração de banco de dados, foi utilizada no projeto para: Sincronizar o banco de dados com as diferentes versões da aplicação, automatizar a execução dos scripts SQL e ter um controle de quais scripts foram executados.</p>
-<p align="justify" style="font-family:roboto;">O projeto possui uma pasta resouces - db - migration onde estão todas as migrações e alterações da base de dados usadas, fazendo com que os scripts sejam executados.</p>
-	
-  <details>
-  <summary>Demonstração arquivo de migração Flyway</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/migrationFlyway3Sem.jpg" alt=""/>
-  </details>
+ <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+ <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor de banco de dados e back-end, minhas contribuições foram na modelagem, estruturação e controle de versões na base de dados usada na solução, além de auxiliar no mapeamento das classes utilizando Hibernate, esse mapeamento foi importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
 
-<h3>Mapeamento de classes</h3>
-<p align="justify" style="font-family:roboto;">O Hibernate é a solução ORM(Mapeamento Objeto-Relacional) Java que consiste em uma ferramenta utilizada para realizar o mapeamento das classes Java com o Banco de dados de forma completa e eficiente, essa tecnologia segue a especificação JPA que define um meio para realizar esse mapeamento. O Hibernate é o intermediário das interações entre as classes Java com o banco de dados relacional, fazendo assim a conversão da programação orientada a objetos para o banco de dados relacional. Durante o desenvolvimento do projeto foi utilizado a arquitetura Modelo-Visão-Controle (MVC) onde separamos através de uma lógica arquitetural o sistema em componentes interligados, onde é possivel definir a conexão com a camada de dados, interação com o usuário e as regras de negócio.</p>
+<li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
+<li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
+<li>Utilização da ferramenta Flyway para controle de versões do bd;</li>	
+<li>Mapeamento de classes utilizando Hibernate.</li>	
 	
-<p align="justify" style="font-family:roboto;">O mapeamento das classes é feito através de algumas tags especificas do JPA, através desses dois exemplos acima conseguimos identificar tags chaves para o mapeamento, são elas: </p>
-	<p align="justify" style="font-family:roboto;">@Table – Notação para especificar qual o nome da tabela no banco de dados; </p>
-	<p align="justify" style="font-family:roboto;">@Column – Identifica o nome da coluna; </p>
-	<p align="justify" style="font-family:roboto;">@Id – Identifica a “primary key”, ou seja, a coluna identificadora da tabela;</p>
-	<p align="justify" style="font-family:roboto;">@SequenceGenerator – Cria uma sequencia de números no banco de dados.</p>
-
-  <details>
-  <summary>Demonstração mapeamento da classe "Flag"</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/mapeamentoOrm3Sem.jpg" alt=""/>
-  </details>
-
-  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
-	
+ <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
   <ul>
   <li>Java Springboot
   <ul>
     <li>Mapeamento de classes utilizando JPA;</li>
     <li>Estruturação de Modelos, Serviços e Controladores no Springboot.</li>
-    </ul></li>
+  </ul></li>
 	  
   <li>GIT:
   <ul>
     <li>GitFlow.</li>
-    </ul></li>
+  </ul></li>
 	  
   <li>Banco de dados:
   <ul>
