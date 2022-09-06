@@ -17,7 +17,7 @@
   ---
 Meu nome é Gabriel
 <h2>Sumário</h2>
-<p>◻️ <a href="#meu-nome-e-gabriel">Sobre mim</a></p>
+<p>◻️ <a href="#-meu-nome-e-gabriel">Sobre mim</a></p>
 <div class="semestre1">
 <ul><a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre/2020 • Assitente virtual para idosos</a>
   <details>
