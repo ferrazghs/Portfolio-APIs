@@ -19,7 +19,7 @@
 <h2>Sumário</h2>
 <p>◻️ <a href="#autor">Sobre mim</a></p>
 <div class="semestre1">
-<ul><a href="#granja-do-futuro">1º Semestre/2020 • Assitente virtual para idosos</a>
+<ul><a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre/2020 • Assitente virtual para idosos</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
@@ -32,7 +32,7 @@
   </details>
 </ul>
 </div>
-<ul><a href="#granja-do-futuro">2º Semestre/2020 • Projeto Trinity</a>
+<ul><a href="#-projeto-trinity---2º-semestre">2º Semestre/2020 • Projeto Trinity</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
@@ -45,7 +45,7 @@
   </details>
 </ul>
 </div>
-<ul><a href="#granja-do-futuro">1º Semestre/2021 • Projeto AirPlan</a>
+<ul><a href="#-projeto-airplan---3º-semestre">1º Semestre/2021 • Projeto AirPlan</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
@@ -58,7 +58,7 @@
   </details>
 </ul>
 </div>	
-<ul><a href="#granja-do-futuro">2º Semestre/2021 • Projeto #Vempracasa</a>
+<ul><a href="#-projeto-vempracasa---4º-semestre">2º Semestre/2021 • Projeto #Vempracasa</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
