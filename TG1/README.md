@@ -483,7 +483,14 @@
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/4Sem_apresentacao.gif" />
   </details>
-	
-	
+		
 ---
+
+ <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
+ <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+
+<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>, a proposta apresentada para a equipe Data Rangers é a prototipação de um Data Warehouse que armazena os dados e possibilita através do uso de modelos e reports a prospecção de novos clientes, aumento das vendas e consumo dos produtos SPC por meio de analises em gráficos na ferramenta Power BI, os gráficos e analises são feitos pelos analistas de negócios.</p>
+<p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários, atribuir empresas a carteiras de vendedores levando em consideração o nível do vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização dos vendedores foi desenvolvido levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
+<p>Por fim o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para melhorar a possibilidade de adquirir novos clientes e maior consumo dos produtos.</p>
+
 
