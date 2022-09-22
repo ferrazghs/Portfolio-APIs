@@ -448,7 +448,7 @@
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
  
 <p align="justify" style="font-family:roboto;">Minhas contribuições no projeto foram centradas na modelagem, estruturação e documentação de toda base de dados utilizada na solução, a documentação da base de dados foi apresentada ao cliente para validação e para ter a rastreabilidade de todo banco de dados para possíveis mudanças futuras.</p>	
-<p align="justify" style="font-family:roboto;">No desenvolvimento back-end fiz o uso do ORM (Mapemento-Objeto-Relacional) de forma completa e eficiente utilizando o Hibernate , além de utilizar o MVC (Model-View-Controller) utilizada como lógica arquitetural para comunicação entre o back-end e front-end do projeto. Além disso, programei o controle de exceção nas funcionalidades da aplicação que auxiliam os desenvolvedores em caso de erro, estão entre minhas contribuições:/p>	
+<p align="justify" style="font-family:roboto;">No desenvolvimento back-end fiz o uso do ORM (Mapemento-Objeto-Relacional) de forma completa e eficiente utilizando o Hibernate , além de utilizar o MVC (Model-View-Controller) utilizada como lógica arquitetural para comunicação entre o back-end e front-end do projeto. Além disso, pro-gramei o controle de exceção nas funcionalidades da aplicação que auxiliam os desenvolvedores em caso de erro, estão entre minhas contribuições:/p>	
 
 <li>Modelagem conceitual da base de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no Oracle, através de comandos SQL;</li>	
