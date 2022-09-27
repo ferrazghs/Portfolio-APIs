@@ -524,3 +524,8 @@
   <ul>
   <p align="justify" style="font-family:roboto;">Vertabelo é uma ferramenta utilizada na modelagem de Banco de Dados, nele é possível gerar o modelo lógico da base de dados de acordo com o SGBD usado, além de definir os comandos SQL para criar tabelas, colunas e restrições e gerar toda documentação de dados a ser disponibilizada ao cliente.</p>
 </ul></li>
+
+  <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas. Possibilitando realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
+</ul></li>
