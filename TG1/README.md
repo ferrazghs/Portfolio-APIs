@@ -514,3 +514,13 @@
   <ul>
   <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar nossas funcionalidades, além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
 </ul></li>
+
+  <li><a href="https://vuejs.org/">VueJS</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">O VueJS é um framework para desenvolvimento web, é uma ferramenta open source, foi utilizada durante o projeto para a criação de páginas dinâmicas e otimização de trabalho.</p>
+</ul></li>
+
+  <li><a href="https://vertabelo.com/">Vertabelo</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">Vertabelo é uma ferramenta utilizada na modelagem de Banco de Dados, nele é possível gerar o modelo lógico da base de dados de acordo com o SGBD usado, além de definir os comandos SQL para criar tabelas, colunas e restrições e gerar toda documentação de dados a ser disponibilizada ao cliente.</p>
+</ul></li>
