@@ -420,7 +420,7 @@
   <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
 	 
- <li><a href="https://spring.io/">Spring Boot</a>:
+ <li><a href="https://spring.io/">SpringBoot</a>:
   <ul>
   <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
  </ul></li>
@@ -493,4 +493,24 @@
 <p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários, atribuir empresas a carteiras de vendedores levando em consideração o nível do vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização dos vendedores foi desenvolvido levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
 <p>Por fim o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para melhorar a possibilidade de adquirir novos clientes e maior consumo dos produtos.</p>
 
+  <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
+  <li><a href="https://www.java.com/pt-BR">Java</a>:
+  <ul>
+    <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
+</ul></li>
+
+ <li><a href="https://spring.io/">SpringBoot</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
+ </ul></li>
+ 
+  <li><a href="https://www.javascript.com/">JavaScript</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">Javascript é uma linguagem de programação de script em alto nível, usado em páginas web. Foi utilizado durante o projeto para implementar a interação que o usuário possui com nossas páginas web, tornando assim sua navegação mais dinâmica.  A linguagem foi escolhida pelo grupo, pois é uma das linguagens mais utilizadas no mercado de trabalho para esse tipo de interação, além da alta compatibilidade com navegadores web.</p>
+ </ul></li>
+ 
+  <li><a href="https://www.figma.com/">Figma</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar nossas funcionalidades, além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
+</ul></li>
