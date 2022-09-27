@@ -505,11 +505,6 @@
   <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
  </ul></li>
  
-  <li><a href="https://www.javascript.com/">JavaScript</a>:
-  <ul>
-  <p align="justify" style="font-family:roboto;">Javascript é uma linguagem de programação de script em alto nível, usado em páginas web. Foi utilizado durante o projeto para implementar a interação que o usuário possui com nossas páginas web, tornando assim sua navegação mais dinâmica.  A linguagem foi escolhida pelo grupo, pois é uma das linguagens mais utilizadas no mercado de trabalho para esse tipo de interação, além da alta compatibilidade com navegadores web.</p>
- </ul></li>
- 
   <li><a href="https://www.figma.com/">Figma</a>:
   <ul>
   <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar nossas funcionalidades, além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
@@ -528,4 +523,10 @@
   <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
   <ul>
   <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas. Possibilitando realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
+</ul></li>
+
+
+  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é um SGBD robusto, além de possuir uma ferramenta de ETL.</p>
 </ul></li>
