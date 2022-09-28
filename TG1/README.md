@@ -555,6 +555,7 @@
   <p align="justify" style="font-family:roboto;">Plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar duas base de dados, contendo o banco de dados relacional e o Data Warehouse.</p>
 </ul></li>
 
+<h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
 
 
 
