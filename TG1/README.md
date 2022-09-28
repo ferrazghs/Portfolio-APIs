@@ -525,8 +525,19 @@
   <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas. Possibilitando realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
 </ul></li>
 
-
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
   <ul>
   <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é um SGBD robusto, além de possuir uma ferramenta de ETL.</p>
 </ul></li>
+
+  <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver16">SQL Server Integration Services</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">Essa ferramenta foi utilizada no processo de ETL (Extract, Transform, Load) para popular as tabelas do Data Warehouse, é uma ferramenta versátil e por ser originaria do SGBD SQL Server toda conexão feita entre as bases de dados foi simples e eficiente.</p>
+</ul></li>
+
+  <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">O Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
+</ul></li>
+
+
