@@ -540,4 +540,9 @@
   <p align="justify" style="font-family:roboto;">O Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
 </ul></li>
 
+<li><a href="https://www.heroku.com/">Heroku</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">Heroku é uma plataforma de serviços na nuvem baseada em contêiner, é utilizada para implantar, gerenciar e dimensionar as aplicações, é uma plataforma flexível, fácil de usar e que suporta varias linguagens de programação, foi utilizada para  fazer o deploy do front-end da aplicação.</p>
+</ul></li>
+
 
