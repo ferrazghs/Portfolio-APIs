@@ -545,4 +545,10 @@
   <p align="justify" style="font-family:roboto;">Heroku é uma plataforma de serviços na nuvem baseada em contêiner, é utilizada para implantar, gerenciar e dimensionar as aplicações, é uma plataforma flexível, fácil de usar e que suporta varias linguagens de programação, foi utilizada para  fazer o deploy do front-end da aplicação.</p>
 </ul></li>
 
+<li><a href="https://circleci.com/">CircleCI</a>:
+  <ul>
+  <p align="justify" style="font-family:roboto;">É uma ferramenta de Integração Continua, utilizada para implementar as práticas de DevOps, foi utilizada no projeto na integração com o GitHub onde a cada atualização no código feita a ferramente faz o build e testes possibilitando o desenvolvedor verificar se sua alteração está com problemas.</p>
+</ul></li>
+
+
 
