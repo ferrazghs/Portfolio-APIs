@@ -76,15 +76,15 @@
   
   <h2>Autor :necktie: </h2>
 	
-  <p>Meu nome é Gabriel, tenho 21 anos e atualmente estou cursando o 6º semestre de Banco de dados. Sou formado técnico em informática pela escola técnica <a          href="https://www.institutoideia.online/">IDEIA - Instituto de Desenvolvimento Educacional</a> onde tive meu primeiro contato com o mundo da tecnologia e desenvolvimento de software. Após a conclusão do técnico ingressei na  <a href="https://fatecsjc-prd.azurewebsites.net/index.php">FATEC - São José dos Campos</a> no 1º Semestre/2020.</p>
-  <p>Durante o desenvolvimento do curso aprendi muito sobre tecnologias, boas práticas e metodologias, o aprendizado por projetos (APIs) foi muito importante para minha formação como profissional de TI, durante os projetos englobamos todas as matérias do semestre vigente e desenvolvemos projetos com empresas reais, parceiras da faculdade, esse método de ensino está próximo do que acontece no mercado de trabalho, além de desenvolver aplicações em metodologias ágeis como o Scrum, versionamento de código através do GIT, as boas práticas e tecnologias são usadas durante esses projetos.</p>
-<p> Atualmente sou estágiario na empresa <a href="https://codex.tec.br/">Codex Utilities</a> trabalhando como Analista de sistemas, minhas experiências durante os projetos são de extrema importancia durante meu trabalho.</p>
+  <p>Meu nome é Gabriel, tenho 21 anos e atualmente estou cursando o 6º semestre de Banco de dados. Sou formado técnico em informática pela Escola Técnica <a          href="https://www.institutoideia.online/">IDEIA - Instituto de Desenvolvimento Educacional</a> onde tive meu primeiro contato com o mundo da tecnologia e desenvolvimento de software. Após a conclusão do técnico ingressei na  <a href="https://fatecsjc-prd.azurewebsites.net/index.php">FATEC - São José dos Campos</a> no 1º Semestre/2020.</p>
+  <p>Durante o desenvolvimento do curso aprendi muito sobre tecnologias, boas práticas no desenvolvimento de software e metodologias. O aprendizado por projetos (APIs) foi muito importante para minha formação como profissional de TI, durante os projetos englobamos todas as matérias do semestre vigente e desenvolvemos projetos com empresas reais, parceiras da faculdade. Esse método de ensino está próximo do que acontece no mercado de trabalho, além de desenvolver aplicações em metodologias ágeis como o Scrum, versionamento de código através do GIT, as boas práticas e tecnologias são usadas durante esses projetos.</p>
+<p> Atualmente sou estágiario na empresa <a href="https://codex.tec.br/">Codex Utilities</a> trabalhando como Analista de Sistemas, minhas experiências durante os projetos são de extrema importancia durante meu trabalho.</p>
 
   <table align="center">
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/gabrielferraz01"> <img style="border-radius: 50%;"   src="https://github.com/ferrazghs/Vempracasa/blob/main/images/ferraz.jpeg" width="200px;" alt=""/><br/><b>Gabriel Ferraz</b></a>
       <br/>
-       Analista de sistemas
+       Analista de Sistemas
      </td>
    </tr>
   </table>
@@ -182,11 +182,11 @@
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
-  <p> Aplicação mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
+  <p> A Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
-  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas podemos citar a funcionalidade adicionar alarme que permite aos usuários adicionar um alarme definindo o horário, dias da semana e título. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
+  <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas, podemos citar a funcionalidade adicionar alarme que permite aos usuários adicionar um alarme definindo o horário, dias da semana e título. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
 	
-  <p>O aplicativo ainda proporciona aos usuários funcionalidades como adicionar um contato, realizar ligações informando o numero desejado, pesquisa na WEB, configuração de conectividade que permite ligar/desligar o wifi e bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
+  <p>O aplicativo ainda proporciona aos usuários funcionalidades como adicionar um contato, realizar ligações informando o numero desejado, realizar pesquisas na WEB, realizar configurações de conectividade que permite ligar/desligar o wifi e bluetooth, acessar a camêra através de um comando de voz e adicionar contatos informando o número e nome desejados.</p>
       
    <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
@@ -207,7 +207,7 @@
 	 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-<p align="justify" style="font-family:roboto;"> Durante o projeto meu papel foi centrado no desenvolvimento back-end da aplicação, onde desenvolvi diversas funcionalidades que usam diretamente o comando de voz para o usuário, utilizando Java como linguagem principal na IDE Android Studio, além de usar "Intents" nativas do Android que tem por objetivo chamar funcionalidades especificas do sistema, essas "Intents" foram usadas no desenvolvimento de todas as funcionalidades, além de criar telas em formato XML para o uso na aplicação, entre as funcionalidades desenvolvidas estão:</p> 
+<p align="justify" style="font-family:roboto;"> Durante o projeto meu papel foi centrado no desenvolvimento back-end da aplicação, onde desenvolvi diversas funcionalidades que usam diretamente o comando de voz para o usuário, utilizando Java como linguagem principal na IDE Android Studio, além de usar "Intents" nativas do Android que tem por objetivo chamar funcionalidades especificas do sistema. Essas "Intents" foram usadas no desenvolvimento de todas as funcionalidades, além de criar telas em formato XML para o uso na aplicação, entre as funcionalidades desenvolvidas estão:</p> 
 
 <li>Método para iniciar a captura de voz;</li>	
 <li>Método criar alarme através de um comando de voz;</li>	
@@ -246,9 +246,9 @@
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
-  <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a> através de um software promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
+  <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a>, através de um software, em promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
 	
-  <p>Antes do software desenvolvido a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo armazenando empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
+  <p>Antes do desenvolvimento do software desenvolvido, a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo com o armazenamento de empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
 	
   <p>Além do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas    digitadas.</p>
       
@@ -286,7 +286,7 @@
  
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
  <p align="justify" style="font-family:roboto;"> No projeto Trinity auxiliei na construção da solução no papel de desenvolvedor back-end e na modelagem e estruturação do Banco de dados, entre minhas contribuições estão a prototipação da  base de dados utilizando SQL, além da estruturação de classes importantes para o funcionamento da aplicação. Entre algumas classes que desenvolvi, temos a classe que leva atributos, construtores e métodos que referenciam as contas de água e luz, além de uma classe de conexão com  SGBD  MySQL.</p>
- <p align="justify" style="font-family:roboto;">Além de classes Java utilizando o DAO que tem por objetivo trocar informações com o SGBD e fornecer as operações de CRUD utilizadas no projeto, minhas contribuições pessoais no projeto são:</p>
+ <p align="justify" style="font-family:roboto;">Minhas contribuições pessoais no projeto são:</p>
 
 <li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
@@ -330,25 +330,25 @@
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
-  <p>O AirPlan é um solução de software solicitada pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>  </p>
-  <p>O sistema tem por objetivo o controle e armazenamento de documentações de aeronaves, antes da solução desenvolvida a empresa possuía grandes erros ao gerar e manipular arquivos que integram um documento de uma aeronave, fazendo de forma manual.</p> 
-  <p>A aplicação automatiza a integração dos diversos arquivos em apenas um de forma eficaz e intuitiva, levando em consideração toda regra de negócio que os colaborades usam, é constituido de 3 APIs distintas e independentes que permitem: ligar diversos documentos, verificar a integridade dos arquivos, upload das partes de um documento, download completo dos arquivos integrados e controle de usuários.</p>
+  <p>O AirPlan é um solução de software solicitada pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
+  <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía grandes erros ao gerar e ao manipular arquivos que integram um documento de uma aeronave, oque era feito de forma manual.</p> 
+  <p>A aplicação automatiza a integração dos diversos arquivos em apenas um único de forma eficaz e intuitiva, levando em consideração toda regra de negócio usada pelos colaboradores. O sofware é feito de 3 APIs distintas e independentes que permitem: ligar diversos documentos, verificar a integridade dos arquivos, fazer upload das partes de um documento, fazer o download completo dos arquivos integrados e controle de usuários.</p>
      
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
   <li><a href="https://www.java.com/pt-BR">Java</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
+    <p align="justify" style="font-family:roboto;">  Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
 	 
  <li><a href="https://www.mysql.com/">MySQL</a>:
  <ul>
-    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor é onde fica armazenados os dados e o cliente é oque faz a solicitaçãp desses dados.</p>
+    <p align="justify" style="font-family:roboto;"> MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor é onde fica armazenados os dados e o cliente é oque faz a solicitaçãp desses dados.</p>
   </ul></li>
 
 <li><a href="https://spring.io/">Springboot</a>:
  <ul>
-    <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio.</p>
+    <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio.</p>
   </ul></li>
 	
   <li><a href="https://trello.com/pt-BR">Trello</a>:
@@ -357,7 +357,7 @@
   </ul></li>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end, minhas contribuições foram na modelagem, estruturação e controle de versões na base de dados usada na solução que serviu com armazenamento dos dados utilizadas por todas as APIs do sistema e integrar todos os desenvolvedores com a estrutura da base de dados atualizada através da ferramento Flyway, além de auxiliar no mapeamento das classes utilizando Hibernate, esse mapeamento foi importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
+ <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end. Minhas contribuições foram na modelagem, na estruturação e no controle de versões na base de dados usada na solução que serviu com armazenamento dos dados utilizadas por todas as APIs do sistema e integrar todos os desenvolvedores com a estrutura da base de dados atualizada através da ferramenta Flyway, Além disso, auxiliei no mapeamento das classes utilizando Hibernate, importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
 
 <li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
@@ -405,24 +405,24 @@
   <h2 style="font-family:roboto;"> Projeto #VEMPRACASA - 4º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 
-<p>#VEMPRACASA é um projeto para a empresa <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade do desenvolvimento de um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa, o sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
+<p>#VEMPRACASA é um projeto para a empresa <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
 
 <p> O sistema tem diversas funcionalidades que tornam o agendamento de eventos intuitivo e prático para o usuário final. A solução consiste em três tipos de usuários: Organizador, Administrador e Convidado.</p>
 	
-<p>O organizador tem como principal funcionalidade a solicitação de um evento, onde através de tela é possível inserir todas as informações pertinentes ao evento. Já o administrador é responsável por aprovar ou não o evento, visualizando todas as informações referentes ao evento e sugestionar uma nova data. O convidado é dividido em externos ou internos e podem se cadastrar através do site da “Casa Oracle”, funcionários Oracle recebem a confirmação do evento via e-mail e podem solicitar para se tornar organizadores de um evento, já convidados externos apenas participam dos eventos abertos ao público em geral.</p>
+<p>O organizador tem como principal funcionalidade a solicitação de um evento, onde através da tela é possível inserir todas as informações pertinentes ao evento. Já o administrador é responsável por aprovar ou não o evento, visualizando todas as informações referentes ao evento e sugestionar uma nova data. O convidado é dividido em externos ou internos e podem se cadastrar através do site da “Casa Oracle”, os funcionários Oracle recebem a confirmação do evento via e-mail e podem solicitar para se tornar organizadores de um evento, já convidados externos apenas participam dos eventos abertos ao público em geral.</p>
 	
-<p>O projeto por fim trás uma facilidade para seus usuários, além da solicitação rápida e intuitiva de um evento, é possível ter uma segurança através da sua aprovação por meio do administrador, a confirmação do evento via e-mail para os convidados trás uma grande facilidade na comunicação e o controle de acesso através do cartão vacinal.</p>
+<p>Por fim, o projeto trás uma facilidade para seus usuários.Além da solicitação rápida e intuitiva de um evento, é possível ter uma segurança através da sua aprovação por meio do administrador. A confirmação do evento via e-mail para os convidados trás uma grande facilidade na comunicação e o controle de acesso através do cartão vacinal.</p>
 	
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    	
  <li><a href="https://spring.io/">Java</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
+  <p align="justify" style="font-family:roboto;"> Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
 	 
  <li><a href="https://spring.io/">SpringBoot</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
+  <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
  </ul></li>
 	 
  <li><a href="https://www.javascript.com/">JavaScript</a>:
@@ -447,8 +447,8 @@
 	
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
  
-<p align="justify" style="font-family:roboto;">Minhas contribuições no projeto foram centradas na modelagem, estruturação e documentação de toda base de dados utilizada na solução, a documentação da base de dados foi apresentada ao cliente para validação e para ter a rastreabilidade de todo banco de dados para possíveis mudanças futuras.</p>	
-<p align="justify" style="font-family:roboto;">No desenvolvimento back-end fiz o uso do ORM (Mapemento-Objeto-Relacional) de forma completa e eficiente utilizando o Hibernate , além de utilizar o MVC (Model-View-Controller) utilizada como lógica arquitetural para comunicação entre o back-end e front-end do projeto. Além disso, pro-gramei o controle de exceção nas funcionalidades da aplicação que auxiliam os desenvolvedores em caso de erro, estão entre minhas contribuições:/p>	
+<p align="justify" style="font-family:roboto;">Minhas contribuições no projeto foram centradas na modelagem, na estruturação e na documentação de toda base de dados utilizada na solução. A documentação da base de dados foi apresentada ao cliente para validação e rastreabilidade de todo banco de dados para possíveis mudanças futuras.</p>	
+<p align="justify" style="font-family:roboto;">No desenvolvimento back-end, fiz o uso do ORM (Mapemento-Objeto-Relacional) de forma completa e eficiente, utilizando o Hibernate , além  do MVC (Model-View-Controller) utilizada como lógica arquitetural para comunicação entre o back-end e front-end do projeto. Além disso, programei o controle de exceção nas funcionalidades da aplicação que auxiliam os desenvolvedores em caso de erro, as quais estão entre minhas contribuições, conforme citadas a seguir:/p>	
 
 <li>Modelagem conceitual da base de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no Oracle, através de comandos SQL;</li>	
@@ -460,7 +460,7 @@
   <ul>
   <li>Java Springboot
   <ul>
-    <li>Melhora no mapeamento das classes utilizando JPA;</li>
+    <li>Melhoramento no mapeamento das classes utilizando JPA;</li>
     <li>Utilização de padrões de projeto MVC e Facade.</li>
     </ul></li>	  
 	  
@@ -489,20 +489,20 @@
  <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 
-<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>, a proposta apresentada para a equipe Data Rangers é a prototipação de um Data Warehouse que armazena os dados e possibilita através do uso de modelos e reports a prospecção de novos clientes, aumento das vendas e consumo dos produtos SPC por meio de analises em gráficos na ferramenta Power BI, os gráficos e analises são feitos pelos analistas de negócios.</p>
-<p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários, atribuir empresas a carteiras de vendedores levando em consideração o nível do vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização dos vendedores foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
-<p>Por fim o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para melhorar a possibilidade de adquirir novos clientes e maior consumo dos produtos.</p>
+<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, é a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI, onde os gráficos e analises são feitos pelos analistas de negócios.</p>
+<p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores.Levando em consideração o nível do vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização dos vendedores foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
+<p>Por fim, o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para melhorar a possibilidade de adquirir novos clientes e maior consumo dos produtos.</p>
 
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
   <li><a href="https://www.java.com/pt-BR">Java</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">  O Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
+    <p align="justify" style="font-family:roboto;"> Java é uma linguagem de programação orientada a objetos. Foi utilizada durante o desenvolvimento do back-end do projeto, por um conhecimento prévio no desenvolvimento baseado nessa linguagem por parte do time, além de ser uma linguagem muita utilizada no mercado de trabalho e possuir uma extensa documentação, facilitando o desenvolvimento do projeto.</p>
 </ul></li>
 
  <li><a href="https://spring.io/">SpringBoot</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">O Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
+  <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
  </ul></li>
  
   <li><a href="https://www.figma.com/">Figma</a>:
@@ -512,17 +512,17 @@
 
   <li><a href="https://vuejs.org/">VueJS</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">O VueJS é um framework para desenvolvimento web, é uma ferramenta open source, foi utilizada durante o projeto para a criação de páginas dinâmicas e otimização de trabalho.</p>
+  <p align="justify" style="font-family:roboto;">VueJS é um framework para desenvolvimento web, trata-se de uma ferramenta open source e foi utilizada durante o projeto para a criação de páginas dinâmicas e otimização de trabalho.</p>
 </ul></li>
 
   <li><a href="https://vertabelo.com/">Vertabelo</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Vertabelo é uma ferramenta utilizada na modelagem de Banco de Dados, nele é possível gerar o modelo lógico da base de dados de acordo com o SGBD usado, além de definir os comandos SQL para criar tabelas, colunas e restrições e gerar toda documentação de dados a ser disponibilizada ao cliente.</p>
+  <p align="justify" style="font-family:roboto;">Vertabelo é uma ferramenta utilizada na modelagem de Banco de Dados, nele foi possível gerar o modelo lógico da base de dados de acordo com o SGBD usado, além de definir os comandos SQL para criar tabelas, colunas e restrições e gerar toda documentação de dados a ser disponibilizada ao cliente.</p>
 </ul></li>
 
   <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas. Possibilitando realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
+  <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas e possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
 </ul></li>
 
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
@@ -537,7 +537,7 @@
 
   <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">O Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
+  <p align="justify" style="font-family:roboto;">Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
 </ul></li>
 
 <li><a href="https://www.heroku.com/">Heroku</a>:
