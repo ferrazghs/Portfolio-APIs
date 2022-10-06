@@ -573,4 +573,23 @@
 <li>Configuração da ferramenta Liquibase;</li>	
 <li>Configuração da ferramenta SSIS (SQL Server Integration Services).</li>	
 
- <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <ul>
+  <li>Java Springboot:
+  <ul>
+    <li>Prototipação de classes Repository, Service e Controller.</li>
+  </ul></li>	  
+	  
+  <li>Junit:
+  <ul>
+    <li>Utilização do framework Junit para testes unitários.</li> 
+  </ul></li>
+	  
+  <li>Banco de Dados:
+  <ul>
+    <li>Modelagem e estruturação do Data Warehouse;</li>
+    <li>Utilização do SGBD SQL Server;</li>
+    <li>Utilização da ferramenta SSIS para o processo de ETL;</li>
+    <li>Configuração da ferramenta Liquibase.</li>
+  </ul></li>
+  </ul>
