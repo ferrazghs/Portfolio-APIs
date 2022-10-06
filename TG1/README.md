@@ -573,3 +573,4 @@
 <li>Configuração da ferramenta Liquibase;</li>	
 <li>Configuração da ferramenta SSIS (SQL Server Integration Services).</li>	
 
+ <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
