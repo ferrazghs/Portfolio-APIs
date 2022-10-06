@@ -598,7 +598,25 @@
 
  <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
  <details>
-  <summary>Demonstração funcionamento da aplicação</summary>
+  <summary>Demonstração gestão de usuários</summary>
  <br>
-  <img style="border-radius: 50%;" src="" />
+  <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/gerenciar-usuarios.gif" />
+ </details>
+ 
+  <details>
+  <summary>Demonstração gráficos aréa do vendedor</summary>
+ <br>
+  <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/graficos-vendedor.gif" />
+ </details>
+ 
+  <details>
+  <summary>Demonstração gráficos para analista de negócios</summary>
+ <br>
+  <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/grafico-analista.gif" />
+ </details>
+ 
+  <details>
+  <summary>Demonstração tela de prospecção de novos clientes</summary>
+ <br>
+  <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/grafico-prospeccao.gif" />
  </details>
