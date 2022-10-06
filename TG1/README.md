@@ -558,6 +558,18 @@
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
  <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema, e em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizado para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente, essa base de dados tem como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o processo de modelagem, estruturação e documentação do Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos.</p>
  <p align="justify" style="font-family:roboto;">No back-end do projeto minhas contribuições foram centradas na modelagem das classes Java utilizando o framework SpringBoot e o mapeamento ORM, além disso tive participação no prototipação de classes Service que concentram as funcionalidades de CRUD e regras de negócio passadas pelos clientes, classes Controller que fazem a comunicação com o front-end do projeto através de rotas REST e classes Repository que são as interfaces Java utilizadas no projeto.</p>
-  <p align="justify" style="font-family:roboto;">No âmbito de DevOps desenvolvi os testes unitários das classes Service para as funcionalidades criadas, além disso usei a biblioteca Liquibase utilizada para automatizar e garantir a segurança no processo de alteração do banco de dados.</p>
+ <p align="justify" style="font-family:roboto;">Contribui também na configuração da ferramenta SSIS (SQL Server Integration Services) utilizada com ferramenta ETL para extrair, transformar e carregar os dados provenientes da base de dados relacional para a base de dados Data Warehouse.</p>
+ <p align="justify" style="font-family:roboto;">No âmbito de DevOps desenvolvi os testes unitários das classes Service para as funcionalidades criadas, além disso usei a biblioteca Liquibase utilizada para automatizar e garantir a segurança no processo de alteração do banco de dados.</p>
+ <p align="justify" style="font-family:roboto;">A seguir minhas contribuições pessoais:</p>
 
+<li>Modelagem da base de dados Relacional e Data Warehouse utilizando a ferramenta Vertabelo;</li>	
+<li>Estruturação da base de dados Relacional e Data Warehouse no SGBD SQL Server, através de comandos SQL;</li>	
+<li>Utilização da ferramenta Vertabelo para documentação de dados;</li>	
+<li>Mapeamento de classes utilizando Hibernate;</li>	
+<li>Prototipação de classes Java;</li>	
+<li>Desenvolvimento de funcionalidades de acordo com as regras de negócio;</li>	
+<li>Controle de exceção em Java.;</li>	
+<li>Desenvolvimento de testes unitários;</li>	
+<li>Configuração da ferramenta Liquibase;</li>	
+<li>Configuração da ferramenta SSIS (SQL Server Integration Services).</li>	
 
