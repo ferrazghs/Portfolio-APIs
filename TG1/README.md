@@ -32,6 +32,7 @@
   </details>
 </ul>
 </div>
+<div class="semestre2">
 <ul><a href="#-projeto-trinity---2º-semestre">2º Semestre/2020 • Projeto Trinity</a>
   <details>
     <summary>Detalhes</summary>
@@ -45,6 +46,7 @@
   </details>
 </ul>
 </div>
+<div class="semestre2">
 <ul><a href="#-projeto-airplan---3º-semestre">1º Semestre/2021 • Projeto AirPlan</a>
   <details>
     <summary>Detalhes</summary>
@@ -58,6 +60,7 @@
   </details>
 </ul>
 </div>	
+<div class="semestre2">
 <ul><a href="#-projeto-vempracasa---4º-semestre">2º Semestre/2021 • Projeto #Vempracasa</a>
   <details>
     <summary>Detalhes</summary>
@@ -71,9 +74,22 @@
   </details>
 </ul>
 </div>
-
+<div class="semestre2">
+<ul><a href="#-projeto-data-rangers---5º-semestre">2º Semestre/2021 • Projeto #Vempracasa</a>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
+    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
+    </ul>
+  </details>
+</ul>
+</div>
  ---	
-  
+
   <h2>Autor :necktie: </h2>
 	
   <p>Meu nome é Gabriel, tenho 21 anos e atualmente estou cursando o 6º semestre de Banco de dados. Sou formado técnico em informática pela Escola Técnica <a          href="https://www.institutoideia.online/">IDEIA - Instituto de Desenvolvimento Educacional</a> onde tive meu primeiro contato com o mundo da tecnologia e desenvolvimento de software. Após a conclusão do técnico ingressei na  <a href="https://fatecsjc-prd.azurewebsites.net/index.php">FATEC - São José dos Campos</a> no 1º Semestre/2020.</p>
