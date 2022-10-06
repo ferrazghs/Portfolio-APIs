@@ -18,7 +18,6 @@
 
 <h2>Sumário</h2>
 <p>◻️ <a href="">Sobre mim</a></p>
-<div class="semestre1">
 <ul><a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre/2020 • Assitente virtual para idosos</a>
   <details>
     <summary>Detalhes</summary>
@@ -31,8 +30,7 @@
     </ul>
   </details>
 </ul>
-</div>
-<div class="semestre2">
+
 <ul><a href="#-projeto-trinity---2º-semestre">2º Semestre/2020 • Projeto Trinity</a>
   <details>
     <summary>Detalhes</summary>
@@ -45,8 +43,7 @@
     </ul>
   </details>
 </ul>
-</div>
-<div class="semestre3">
+
 <ul><a href="#-projeto-airplan---3º-semestre">1º Semestre/2021 • Projeto AirPlan</a>
   <details>
     <summary>Detalhes</summary>
@@ -59,8 +56,7 @@
     </ul>
   </details>
 </ul>
-</div>	
-<div class="semestre4">
+
 <ul><a href="#-projeto-vempracasa---4º-semestre">2º Semestre/2021 • Projeto #Vempracasa</a>
   <details>
     <summary>Detalhes</summary>
@@ -73,8 +69,7 @@
     </ul>
   </details>
 </ul>
-</div>
-<div class="semestre5">
+
 <ul><a href="#-projeto-data-rangers---5º-semestre">1º Semestre/2022 • Projeto Data Rangers</a>
   <details>
     <summary>Detalhes</summary>
@@ -87,8 +82,8 @@
     </ul>
   </details>
 </ul>
-</div>
- ---	
+
+---	
 
   <h2>Autor :necktie: </h2>
 	
@@ -195,7 +190,6 @@
   
 ---	
 
-<div class="semestre1">	
    <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
    <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
@@ -341,8 +335,8 @@
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Apresenta%C3%A7%C3%A3o_TecSUS.gif" />
   </details>
-</div>	
-  ---
+
+---
 	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
