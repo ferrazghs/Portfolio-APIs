@@ -11,7 +11,7 @@
      <a href="#-projeto-airplan---3º-semestre">3º Semestre</a> •
      <a href="#-projeto-vempracasa---4º-semestre">4º Semestre</a> •
      <a href="#-projeto-data-rangers---5º-semestre">5º Semestre</a> •
-     <a href="#-projeto-d--end---6º-semestre">6º Semestre</a> 
+     <a href="#-projeto-d-end---6º-semestre">6º Semestre</a> 
   </p>
   ---
 
