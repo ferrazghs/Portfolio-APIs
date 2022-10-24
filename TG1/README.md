@@ -708,7 +708,7 @@
   <ul>
     <li>Criação de usuários e privilégios no Banco de Dados;</li>
     <li>Utilização da ferramenta MongoDB Compass e MongoDB Atlas;</li>
-    <li>Utilização da ferramenta de exportação de dados mongoexport.</li>
+    <li>Utilização do comando de exportação de dados mongoexport.</li>
   </ul></li>	  
 	
   <li>Power BI:
