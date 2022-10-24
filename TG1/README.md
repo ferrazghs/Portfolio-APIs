@@ -698,6 +698,10 @@
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
 
+<p align="justify" style="font-family:roboto;">Durante o desenvolvimento da ferramenta contribui em processos dentro do banco de dados MongoDB, utilizado para armazenar os dados enviados pelo cliente. Durante o uso da ferramenta foi de minha responsabilidade a criação de dois usuários: Admin e Analyst, ambos com privilégios distintos na aplicação.</p>
+<p align="justify" style="font-family:roboto;">O usuário “Admin” possui privilégio total na base de dados, entre esses privilégios temos: criação de novos usuários e concessão de privilégios, leitura e escrita de novos dados e criação de clusters. O usuário “Analyst” possui apenas função de leitura de um cluster especifico. Além da criação de usuários, utilizei o comando “mongoexport” que produziu a exportação das collections do MongoDB em um arquivo com extensão “.csv” apresentado ao cliente.</p>
+<p align="justify" style="font-family:roboto;">Além disso, através da analise e entendimento do comportamento dos dados fiz a prototipação, documentação e criação do Data Warehouse através da ferramenta Vertabelo. O DW foi utilizado para armazenar os dados provenientes do MongoDB e tem por funcionalidade alimentar a ferramenta Power BI para gerar os gráficos utilizados pelos usuários.</p>
+
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <ul>
   <li>MongoDB:
