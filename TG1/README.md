@@ -645,6 +645,8 @@
   <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/grafico-prospeccao.gif" />
  </details>
 
+---
+
 <h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 
