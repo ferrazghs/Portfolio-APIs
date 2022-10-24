@@ -13,6 +13,7 @@
      <a href="#-projeto-data-rangers---5º-semestre">5º Semestre</a> •
      <a href="#-projeto-d-end---6º-semestre">6º Semestre</a> 
   </p>
+	
   ---
 
 <h2>Sumário</h2>
@@ -94,6 +95,7 @@
     </ul>
   </details>
 </ul>
+
 ---	
 
   <h2>Autor :necktie: </h2>
@@ -649,3 +651,5 @@
 <p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.domrock.net/"> Dom Rock </a>. A proposta apresentada para a equipe D-End, é o desenvolvimento de uma ferramenta que permita o armazenamento, organização e visualização de dados provenientes de duas fontes distintas.</p>
 <p>O software tem como principal objetivo o cruzamento dos dados provenientes de convênios médicos e seus clientes, com o intuito de identificar inconsistências no pagamento das faturas das duas fontes de dados e com isso definir o plano de ação para cada situação encontrada.</p>
 <p>O produto apresenta o plano de ação e informações relevantes através de gráficos intuitivos e eficientes na ferramenta Power BI, possibilitando ao usuário uma boa experiência em suas analises. </p>
+
+<h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
