@@ -697,7 +697,20 @@
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
-  
-<h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
+  <ul>
+  <li>MongoDB:
+  <ul>
+    <li>Criação de usuários e privilégios no Banco de Dados;</li>
+    <li>Utilização da ferramenta MongoDB Compass e MongoDB Atlas;</li>
+    <li>Utilização da ferramenta de exportação de dados mongoexport.</li>
+  </ul></li>	  
+	
+  <li>Power BI:
+  <ul>
+    <li>Utilização da ferramenta Power BI;</li> 
+    <li>Criação de métricas na plataforma utilizando DAX (Data Analysis Expressions).</li> 
+  </ul></li>
+	  
+ <h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
 
 <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
