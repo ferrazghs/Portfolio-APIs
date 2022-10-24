@@ -645,8 +645,8 @@
   <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/grafico-prospeccao.gif" />
  </details>
 
-<h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2>
- <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+<h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
+<h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 
 <p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.domrock.net/"> Dom Rock </a>. A proposta apresentada para a equipe D-End, é o desenvolvimento de uma ferramenta que permita o armazenamento, organização e visualização de dados provenientes de duas fontes distintas.</p>
 <p>O software tem como principal objetivo o cruzamento dos dados provenientes de convênios médicos e seus clientes, com o intuito de identificar inconsistências no pagamento das faturas das duas fontes de dados e com isso definir o plano de ação para cada situação encontrada.</p>
@@ -694,3 +694,10 @@
   <p align="justify" style="font-family:roboto;">O MongoDB é um Banco de Dados NoSQL orientado a documentos, open-source e de schema livre. Foi utilizado durante o 	projeto para armazenar as fontes de dados provenientes de arquivos com extensão ".csv" disponibilizadas pelo cliente, além de utilizar suas ferramentas como por     exemplo o "aggregation framework", utilizado para agregação dos dados necessários para as analises.</p>
 </ul></li>
 
+<h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+
+<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  
+<h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
+
+<h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
