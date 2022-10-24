@@ -82,6 +82,18 @@
   </details>
 </ul>
 
+<ul><a href="#-projeto-d-end---6º-semestre">2º Semestre/2022 • Projeto D-End</a>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
+    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
+    </ul>
+  </details>
+</ul>
 ---	
 
   <h2>Autor :necktie: </h2>
