@@ -656,12 +656,12 @@
 
  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é um SGBD robusto, além de possuir uma ferramenta de ETL.</p>
+  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo de Data Warehouse desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é um SGBD robusto e de conhecimento prévio dos integrantes.</p>
 </ul></li>
 
 <li><a href="https://azure.microsoft.com/pt-br/">Microsoft Azure</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar duas base de dados, contendo o banco de dados relacional e o Data Warehouse.</p> 
+  <p align="justify" style="font-family:roboto;">Plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar o Data Warehouse.</p> 
 </ul></li>
 
 <li><a href="https://vertabelo.com/">Vertabelo</a>:
@@ -676,7 +676,7 @@
 
 <li><a href="https://www.figma.com/">Figma</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar nossas funcionalidades, além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
+  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar suas funcionalidades.</p>
 </ul></li>
 
 <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
@@ -686,11 +686,11 @@
 
 <li><a href="https://www.python.org/">Python</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">O Python é uma linguagem de programação de alto nivel utilizado em diferentes tipos de aplicações, foi usado durante 	o projeto para o desenvolvimento dos scripts da aplicação, como por exemplo scripts no processo de ETL entre os Banco de Dados.</p>
+  <p align="justify" style="font-family:roboto;">O Python é uma linguagem de programação de alto nivel utilizado em diferentes tipos de aplicações, foi usado durante 	o projeto para o desenvolvimento dos scripts da aplicação, como por exemplo scripts no processo de ETL.</p>
 </ul></li>
 
 <li><a href="https://www.mongodb.com/">MongoDB</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">O MongoDB é um Banco de Dados NoSQL orientado a documentos, open-source e de schema livre. Foi utilizado durante o 	projeto para armazenar as fontes de dados provenientes de arquivos com extensão ".csv" disponibilizadas pelo cliente, além de utilizar suas ferramentas como o      "aggregation framework", utilizado para agregação dos dados necessários para analises.</p>
+  <p align="justify" style="font-family:roboto;">O MongoDB é um Banco de Dados NoSQL orientado a documentos, open-source e de schema livre. Foi utilizado durante o 	projeto para armazenar as fontes de dados provenientes de arquivos com extensão ".csv" disponibilizadas pelo cliente, além de utilizar suas ferramentas como por     exemplo o "aggregation framework", utilizado para agregação dos dados necessários para as analises.</p>
 </ul></li>
 
