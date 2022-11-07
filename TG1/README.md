@@ -539,7 +539,7 @@
 
 <p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, é a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
 <p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores.Levando em consideração o nível do vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização dos vendedores foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
-<p>Por fim, o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para melhorar a possibilidade de adquirir novos clientes e maior consumo dos produtos.</p>
+<p>Por fim, o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e consumo dos produtos oferecidos.</p>
 
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
