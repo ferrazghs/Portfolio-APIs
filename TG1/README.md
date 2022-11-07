@@ -131,11 +131,18 @@
       <td>Java</td>
       <td>★★★★★★★★☆☆</td>
     </tr>
+	  
     <tr>
       <td>Spring Boot</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
+  
+    <tr>
+      <td>Power BI</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+	  
       <td>SQL</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
@@ -151,9 +158,20 @@
    <tr>
       <td>Modelagem de Banco de dados Data Warehouse</td>
       <td>★★★★★★★☆☆☆</td>
-    </tr>  	  
+    </tr>  
+	  
+    <tr>
+      <td>Ferramentas de ETL</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+	  
      <tr>
       <td>GIT</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+	  
+    <tr>
+      <td>Git Flow</td>
       <td>★★★★★★★★★☆</td>
     </tr>
   </table>
