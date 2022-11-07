@@ -703,6 +703,16 @@
 <p align="justify" style="font-family:roboto;">Além disso, através da analise e entendimento do comportamento dos dados fiz a prototipação, documentação e criação do Data Warehouse através da ferramenta Vertabelo. O DW foi utilizado para armazenar os dados provenientes do MongoDB e tem por funcionalidade alimentar a ferramenta Power BI para gerar os gráficos utilizados pelos usuários.</p>
 <p align="justify" style="font-family:roboto;">Na ferramenta Power BI colaborei no desenvolvimento dos dashboards disponibilizado aos analistas de negócios. Por meio da analise dos dados criei métricas através da linguagem DAX (Data Analysis Expressions) utilizada para a agregação dos dados e geração de novas informações nos dashboards criados.</p>
 
+<p align="justify" style="font-family:roboto;">A seguir minhas contribuições pessoais:</p>
+
+<li>Criação de usuários e privilégios no MongoDB;</li>	
+<li>Exportação das Collections em arquivos com extensão “.csv”;</li>	
+<li>Modelagem da base de dados Data Warehouse;</li>	
+<li>Estruturação da base de dados Data Warehouse através de linguagem SQL;</li>	
+<li>Documentação de dados através da ferramenta Vertabelo;</li>	
+<li>Criação de métricas no Power BI;</li>	
+<li>Criação de dashboards interativos.</li>	
+
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <ul>
   <li>MongoDB:
