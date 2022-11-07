@@ -258,6 +258,8 @@
 <li>Método para ligar/desligar o wi-fi e bluetooth.</li>	
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+<h3 style="font-family:roboto;"> Hard Skills</h3>   
+
   <ul>
   <li>GIT
   <ul>
@@ -338,6 +340,7 @@
 <li>Configuração das classes DAO, onde se concentram  os métodos de Insert, Delete, Update e Select utilizados na solução.</li>
 	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <h3 style="font-family:roboto;"> Hard Skills</h3>   
 	
   <ul>
   <li>Banco de dados:
@@ -408,6 +411,7 @@
 <li>Mapeamento de classes utilizando Hibernate.</li>	
 	
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
+ <h3 style="font-family:roboto;"> Hard Skills</h3>   
   <ul>
   <li>Java Springboot
   <ul>
@@ -499,7 +503,8 @@
 <li>Mapeamento de classes utilizando Hibernate;</li>	
 <li>Controle de exceção em Java.</li>	
 	
-<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
+<h3 style="font-family:roboto;"> Hard Skills</h3>   
   <ul>
   <li>Java Springboot
   <ul>
@@ -617,6 +622,7 @@
 <li>Configuração da ferramenta SSIS (SQL Server Integration Services).</li>	
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+<h3 style="font-family:roboto;"> Hard Skills</h3>   
   <ul>
   <li>Java Springboot:
   <ul>
@@ -733,6 +739,8 @@
 <li>Criação de dashboards interativos.</li>	
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+<h3 style="font-family:roboto;"> Hard Skills</h3>   
+
   <ul>
   <li>MongoDB:
   <ul>
