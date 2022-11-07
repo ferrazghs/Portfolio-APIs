@@ -130,31 +130,24 @@
     <tr>
       <td>Java</td>
       <td>★★★★★★★★☆☆</td>
-    </tr>
-	  
+    </tr>  
     <tr>
       <td>Spring Boot</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
-  
-    <tr>
       <td>JPA</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
-    <tr>
-	    
-    <tr>
+    <tr>	    
       <td>Junit</td>
       <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
-	    
-    <tr>
       <td>Power BI</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
-	  
+    <tr>  
       <td>SQL</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
@@ -162,7 +155,6 @@
       <td>Banco de dados Oracle, MySQL e SQLServer</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>  	
-   <tr>
     <tr>
       <td>Modelagem de Banco de dados relacional</td>
       <td>★★★★★★★★☆☆</td>
@@ -171,17 +163,14 @@
       <td>Modelagem de Banco de dados Data Warehouse</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>  
-	  
     <tr>
       <td>Ferramentas de ETL</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
-	  
      <tr>
       <td>GIT</td>
       <td>★★★★★★★★★☆</td>
-    </tr>
-	  
+    </tr> 
     <tr>
       <td>Git Flow</td>
       <td>★★★★★★★★★☆</td>
