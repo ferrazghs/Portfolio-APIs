@@ -139,6 +139,18 @@
     <tr>
   
     <tr>
+      <td>JPA</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+	    
+    <tr>
+      <td>Junit</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+	    
+    <tr>
       <td>Power BI</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
