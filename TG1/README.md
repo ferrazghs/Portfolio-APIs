@@ -537,9 +537,9 @@
  <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 
-<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, é a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
-<p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores.Levando em consideração o nível do vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização dos vendedores foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
-<p>Por fim, o projeto trás uma analise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e consumo dos produtos oferecidos.</p>
+<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, foi a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports, a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
+<p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores. A atribuição de empresas aos vendedores leva em consideração o nível de experiência vendedor que foi dividido entre Junior, Pleno, Sênior e Especialista, essa categorização foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
+<p>Por fim, o projeto traz uma análise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e consumo dos produtos oferecidos.</p>
 
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
@@ -550,12 +550,12 @@
 
  <li><a href="https://spring.io/">SpringBoot</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
+  <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado no desenvolvimento para fazer a configuração de todas as bibliotecas que foram utilizadas, O framework foi escolhido, por facilitar o desenvolvimento de softwares e possuir uma grande documentação das funcionalidades</p>
  </ul></li>
  
   <li><a href="https://www.figma.com/">Figma</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar nossas funcionalidades, além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
+  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Foi utilizado no desenvolvimento durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, e foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao desenvolvimento e assim organizar nossas funcionalidades.Além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
 </ul></li>
 
   <li><a href="https://vuejs.org/">VueJS</a>:
@@ -570,7 +570,7 @@
 
   <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas e possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
+  <p align="justify" style="font-family:roboto;">Jira é uma ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas e possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
 </ul></li>
 
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
@@ -580,7 +580,7 @@
 
   <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver16">SQL Server Integration Services</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Essa ferramenta foi utilizada no processo de ETL (Extract, Transform, Load) para popular as tabelas do Data Warehouse, é uma ferramenta versátil e por ser originaria do SGBD SQL Server toda conexão feita entre as bases de dados foi simples e eficiente.</p>
+  <p align="justify" style="font-family:roboto;">Uma ferramenta que foi utilizada no processo de ETL (Extract, Transform, Load) para popular as tabelas do Data Warehouse, é uma ferramenta versátil e por ser originaria do SGBD SQL Server toda conexão feita entre as bases de dados foi simples e eficiente.</p>
 </ul></li>
 
   <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
@@ -600,13 +600,13 @@
 
 <li><a href="https://azure.microsoft.com/pt-br/">Microsoft Azure</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar duas base de dados, contendo o banco de dados relacional e o Data Warehouse.</p>
+  <p align="justify" style="font-family:roboto;">Uma plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar duas base de dados, contendo o banco de dados relacional e o Data Warehouse.</p>
 </ul></li>
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema, e em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizado para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente, essa base de dados tem como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o processo de modelagem, estruturação e documentação do Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos.</p>
-  <p align="justify" style="font-family:roboto;">Contribui também na configuração da ferramenta SSIS (SQL Server Integration Services) utilizada com ferramenta ETL para extrair, transformar e carregar os dados provenientes da base de dados relacional para a base de dados Data Warehouse.</p>
- <p align="justify" style="font-family:roboto;">No back-end do projeto minhas contribuições foram centradas na modelagem das classes Java utilizando o framework SpringBoot e o mapeamento ORM, além disso tive participação no prototipação de classes Service que concentram as funcionalidades de CRUD e regras de negócio passadas pelos clientes, classes Controller que fazem a comunicação com o front-end do projeto através de rotas REST e classes Repository que são as interfaces Java utilizadas no projeto.</p>
+ <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema.Em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizadas para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente.Essa base de dados teve como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o processo de modelagem, estruturação e documentação do Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos.</p>
+  <p align="justify" style="font-family:roboto;">Contribui também, na configuração da ferramenta SSIS (SQL Server Integration Services) utilizada com ferramenta ETL para extrair, transformar e carregar os dados provenientes da base de dados relacional para a base de dados Data Warehouse.</p>
+ <p align="justify" style="font-family:roboto;">No back-end desenvolvido minhas contribuições foram centradas na modelagem das classes Java utilizando o framework SpringBoot e o mapeamento ORM. Além disso tive participação no prototipação de classes Service que concentram as funcionalidades de CRUD e regras de negócio passadas pelos clientes, classes Controller que fazem a comunicação com o front-end do projeto através de rotas REST e classes Repository que são as interfaces Java utilizadas no projeto.</p>
  <p align="justify" style="font-family:roboto;">No âmbito de DevOps desenvolvi os testes unitários das classes Service para as funcionalidades criadas, além disso usei a biblioteca Liquibase utilizada para automatizar e garantir a segurança no processo de alteração do banco de dados.</p>
  <p align="justify" style="font-family:roboto;">A seguir minhas contribuições pessoais:</p>
 
