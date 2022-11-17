@@ -469,7 +469,7 @@
 	 
  <li><a href="https://spring.io/">SpringBoot</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita durante o desenvolvimento de projetos, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
+  <p align="justify" style="font-family:roboto;">Spring Boot é um framework Java open-source que facilita o desenvolvimento de aplicações baseadas em Java, tornando o trabalho mais rápido e dinâmico. Além de possuir diversas funcionalidades, o recurso foi utilizado durante o projeto para fazer a configuração de todas as bibliotecas que foram utilizado, O framework foi escolhido, pois facilita a prototipação da solução, fazendo com que os programadores se preocupem apenas com a implementação das regras de negocio. </p>
  </ul></li>
 	 
  <li><a href="https://www.javascript.com/">JavaScript</a>:
