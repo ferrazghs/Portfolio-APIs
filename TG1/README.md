@@ -391,6 +391,7 @@
 	
   <h2 style="font-family:roboto;"> Projeto #VEMPRACASA - 4º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/banner.png" widht="20%"></img>
 
 <p>#VEMPRACASA é um projeto para a empresa <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
 
