@@ -700,7 +700,6 @@
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 style="font-family:roboto;"> Hard Skills</h3>   
-  <ul>
   <li>MongoDB:
   <ul>
     <li>Criação de usuários e privilégios no Banco de Dados;</li>
