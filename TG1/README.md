@@ -664,7 +664,8 @@
   
   <h3 style="font-family:roboto;"> Soft Skills</h3>   
   <ul>
-  <li>Posicionamento crítico		
+  <li>Posicionamento crítico	
+  <li>Comunicação Assertiva		
   </ul>
   
  <h2 style="font-family:roboto;"> <a href = "https://github.com/API5Sem22/API5Doc">  GitHub :house: </a></h2>   
@@ -777,10 +778,10 @@
     <li>Criação de métricas na plataforma utilizando DAX (Data Analysis Expressions).</li> 
   </ul></li>
   
-  <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
-  <li>Visão de negócio	
-  </ul>	  
+<h3 style="font-family:roboto;"> Soft Skills</h3>   
+ <ul>
+ <li>Visão de Negócio</li>
+ </ul>
   
 <h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
 
