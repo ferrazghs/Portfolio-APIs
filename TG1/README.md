@@ -148,6 +148,8 @@
 
 <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
 <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
+<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/fatecsjc.png" widht="20%"></img>
+
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" widht="20%"></img>
 	
