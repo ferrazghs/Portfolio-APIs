@@ -540,7 +540,6 @@
   <h3 style="font-family:roboto;"> Soft Skills</h3>   
   <ul>
   <li>Organização
-  <li>Planejamento	
   </ul>	
   
    <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/API4Sem2021">  GitHub :house: </a></h2>   
@@ -665,7 +664,6 @@
   
   <h3 style="font-family:roboto;"> Soft Skills</h3>   
   <ul>
-  <li>Proatividade
   <li>Posicionamento crítico		
   </ul>
   
@@ -766,15 +764,13 @@
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 style="font-family:roboto;"> Hard Skills</h3>   
-
   <ul>
   <li>MongoDB:
   <ul>
     <li>Criação de usuários e privilégios no Banco de Dados;</li>
     <li>Utilização da ferramenta MongoDB Compass e MongoDB Atlas;</li>
     <li>Utilização do comando de exportação de dados mongoexport.</li>
-  </ul></li>	  
-	
+  </ul></li>	  	
   <li>Power BI:
   <ul>
     <li>Utilização da ferramenta Power BI;</li> 
