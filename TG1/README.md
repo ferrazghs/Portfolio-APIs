@@ -627,6 +627,7 @@
 
 <h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/d-end-logo.jpeg" widht="20%"></img>
 
 <p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.domrock.net/"> Dom Rock </a>. A proposta apresentada para a equipe D-End, é o desenvolvimento de uma ferramenta que permite o armazenamento, organização e visualização de dados provenientes de duas fontes distintas.</p>
 <p>O software tem como principal objetivo o cruzamento dos dados provenientes de convênios médicos e seus clientes, com o intuito de identificar inconsistências no pagamento das faturas das duas fontes de dados e com isso definir o plano de ação para cada situação encontrada.</p>
