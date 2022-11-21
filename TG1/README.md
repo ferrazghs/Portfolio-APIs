@@ -147,7 +147,7 @@
 
 
 <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
-<h2 style="font-family:roboto;"> Parceiro Acadêmico :fist_right: :fist_left:</h2>
+<h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" widht="20%"></img>
 	
@@ -219,7 +219,7 @@
   ---
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico :fist_right: :fist_left:</h2>
+  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht="20%"></img>
 
@@ -310,7 +310,7 @@
 ---
 	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico :fist_right: :fist_left:</h2>
+  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" widht="20%"></img>
 	
@@ -393,7 +393,7 @@
   ---	
 	
   <h2 style="font-family:roboto;"> Projeto #VEMPRACASA - 4º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico :fist_right: :fist_left:</h2>
+  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/banner.png" widht="20%"></img>
 
@@ -485,7 +485,7 @@
 ---
 
  <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
- <h2 style="font-family:roboto;"> Parceiro Acadêmico :fist_right: :fist_left:</h2>
+ <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/DR.png" widht="20%"></img>
 
@@ -631,7 +631,7 @@
 ---
 
 <h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
-<h2 style="font-family:roboto;"> Parceiro Acadêmico :fist_right: :fist_left:</h2>
+<h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/d-end-logo.jpeg" widht="20%"></img>
 
