@@ -16,99 +16,6 @@
 	
   ---
 
-<h2>Sumário</h2>
-<p>◻️ <a href="">Sobre mim</a></p>
-<div class="semestre1">
-<ul><a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre/2020 • Assitente virtual para idosos</a>
-  <details>
-    <summary>Detalhes</summary>
-    <ul>◻️ <a href="#-descricao-do-projeto---">Descrição do projeto</a></ul>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></ul>
-    <ul>◻️ <a href="#contribuições-individuais">Contribuições individuais</a></ul>
-    <ul>◻️ <a href="#aprendizados-efetivos">Aprendizados efetivos</a></ul>
-    <ul>◻️ <a href="#github">GitHub</a></ul>
-    <ul>◻️ <a href="#aplicação">Aplicação</a></ul>
-    </ul>
-  </details>
-</ul>
-</div>
-	
-<div class="semestre2">
-<ul><a href="#-projeto-trinity---2º-semestre">2º Semestre/2020 • Projeto Trinity</a>
-<div class="semestre2">
-  <details>
-    <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
-    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
-    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
-    </ul>
-  </details>
-</ul>
-</div>
-
-<div class="semestre3">
-<ul><a href="#-projeto-airplan---3º-semestre">1º Semestre/2021 • Projeto AirPlan</a>
-  <details>
-    <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
-    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
-    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
-    </ul>
-  </details>
-</ul>
-</div>
-
-<div class="semestre4">
-<ul><a href="#-projeto-vempracasa---4º-semestre">2º Semestre/2021 • Projeto #Vempracasa</a>
-  <details>
-    <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
-    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
-    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
-    </ul>
-  </details>
-</ul>
-</div>
-
-<div class="semestre5">
-<ul><a href="#-projeto-data-rangers---5º-semestre">1º Semestre/2022 • Projeto Data Rangers</a>
-  <details>
-    <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
-    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
-    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
-    </ul>
-  </details>
-</ul>
-</div>
-
-<div class="semestre6">
-<ul><a href="#-projeto-d-end---6º-semestre">2º Semestre/2022 • Projeto D-End</a>
-  <details>
-    <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto">Descrição do projeto</a></ul>
-    <ul>◻️ <a href="#prévia-da-solução">Tecnologias utilizadas</a></ul>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Contribuições individuais</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Aprendizados efetivos</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">GitHub</a></ul>
-    <ul>◻️ <a href="#hard-skills">Aplicação</a></ul>
-    </ul>
-  </details>
-</ul>
-</div>
----	
 
   <h2>Autor :necktie: </h2>
 	
@@ -234,9 +141,9 @@
   
 ---	
 
-<div class="semestre1">
-   <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
-   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+
+<h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
+<h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 	
   <p> A Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
@@ -302,7 +209,6 @@
   <br>
    <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Untitled-video-%E2%80%90-Feito-com-o-Clipchamp.gif" />
   </details>
-</div>	
   		
   ---
 	
