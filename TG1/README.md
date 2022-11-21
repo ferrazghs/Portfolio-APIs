@@ -148,7 +148,7 @@
 
 <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/granja_futuro_img.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" widht="20%"></img>
 	
   <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
