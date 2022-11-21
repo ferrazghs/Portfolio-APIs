@@ -223,6 +223,9 @@
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
   <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
+  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logo_tecsus_horizontal.png"</img>
+  <p>A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.</p>
+	
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht="20%"></img>
 
