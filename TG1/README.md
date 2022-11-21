@@ -219,7 +219,8 @@
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-	
+  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht="20%"></img>
+
   <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a>, através de um software, em promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
 	
   <p>Antes do desenvolvimento do software desenvolvido, a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo com o armazenamento de empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
