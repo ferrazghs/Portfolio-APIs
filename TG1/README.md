@@ -309,6 +309,7 @@
 	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" widht="20%"></img>
 	
   <p>O AirPlan é um solução de software solicitada pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
   <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía grandes erros ao gerar e ao manipular arquivos que integram um documento de uma aeronave, oque era feito de forma manual.</p> 
