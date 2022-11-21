@@ -635,7 +635,7 @@
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/d-end-logo.jpeg" widht="20%"></img>
 
-<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.domrock.net/"> Dom Rock </a>. A proposta apresentada para a equipe D-End, é o desenvolvimento de uma ferramenta que permite o armazenamento, organização e visualização de dados provenientes de duas fontes distintas.</p>
+<p>O projeto é uma parceria entre a FATEC – São José dos Campos e o parceiro acadêmico <a href="https://www.domrock.net/"> Dom Rock </a>. A proposta apresentada para a equipe D-End, consiste no desenvolvimento de uma ferramenta que permite o armazenamento, organização e visualização de dados provenientes de duas fontes distintas.</p>
 <p>O software tem como principal objetivo o cruzamento dos dados provenientes de convênios médicos e seus clientes, com o intuito de identificar inconsistências no pagamento das faturas das duas fontes de dados e com isso definir o plano de ação para cada situação encontrada.</p>
 <p>O produto apresenta o plano de ação e informações relevantes através de gráficos intuitivos e eficientes na ferramenta Power BI, possibilitando ao usuário uma boa experiência em suas analises. </p>
 
@@ -643,37 +643,37 @@
 
  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo de Data Warehouse desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é um SGBD robusto e de conhecimento prévio dos integrantes.</p>
+  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo de Data Warehouse desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema, e definido para esse desenvolvimento por ser robusto e de conhecimento prévio dos integrantes</p>
 </ul></li>
 
 <li><a href="https://azure.microsoft.com/pt-br/">Microsoft Azure</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar o Data Warehouse.</p> 
+  <p align="justify" style="font-family:roboto;"> Uma plataforma destinada a execução de aplicações e serviços baseadas no conceito da computação em nuvem, foi utilizada para armazenar o Data Warehouse.</p> 
 </ul></li>
 
 <li><a href="https://vertabelo.com/">Vertabelo</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Vertabelo é uma ferramenta utilizada na modelagem de Banco de Dados, nele foi possível gerar o modelo lógico da base de dados de acordo com o SGBD usado, além de definir os comandos SQL para criar tabelas, colunas e restrições e gerar toda documentação de dados a ser disponibilizada ao cliente.</p>
+  <p align="justify" style="font-family:roboto;">Vertabelo é uma ferramenta utilizada na modelagem de Banco de Dados, com a qual foi possível gerar o modelo lógico da base de dados de acordo com o SGBD usado, além de definir os comandos SQL para criar tabelas, colunas e restrições e gerar toda documentação de dados a ser disponibilizada ao cliente.</p>
 </ul></li>
 
 <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
+  <p align="justify" style="font-family:roboto;">Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes e foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
 </ul></li>
 
 <li><a href="https://www.figma.com/">Figma</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Ele foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar suas funcionalidades.</p>
+  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. E foi utilizado no projeto durante a prototipação do “Product Backlog Building” um método usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao projeto e assim organizar suas funcionalidades.</p>
 </ul></li>
 
 <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">Foi utilizado como ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas e possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
+  <p align="justify" style="font-family:roboto;">Uma ferramenta auxiliar no uso da metodologia SCRUM que foi utilizada na distribuição das atividades e priorização das demandas e possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
 </ul></li>
 
 <li><a href="https://www.python.org/">Python</a>:
  <ul>
-  <p align="justify" style="font-family:roboto;">O Python é uma linguagem de programação de alto nivel utilizado em diferentes tipos de aplicações, foi usado durante 	o projeto para o desenvolvimento dos scripts da aplicação, como por exemplo scripts no processo de ETL.</p>
+  <p align="justify" style="font-family:roboto;">O Python é uma linguagem de programação de alto nivel utilizado em diferentes tipos de aplicações, e foi usada para o desenvolvimento dos scripts da aplicação, como por exemplo scripts no processo de ETL.</p>
 </ul></li>
 
 <li><a href="https://www.mongodb.com/">MongoDB</a>:
@@ -683,10 +683,10 @@
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
 
-<p align="justify" style="font-family:roboto;">Durante o desenvolvimento da ferramenta contribui em processos dentro do banco de dados MongoDB, utilizado para armazenar os dados enviados pelo cliente. Durante o uso da ferramenta foi de minha responsabilidade a criação de dois usuários: Admin e Analyst, ambos com privilégios distintos na aplicação.</p>
-<p align="justify" style="font-family:roboto;">O usuário “Admin” possui privilégio total na base de dados, entre esses privilégios temos: criação de novos usuários e concessão de privilégios, leitura e escrita de novos dados e criação de clusters. O usuário “Analyst” possui apenas função de leitura de um cluster especifico. Além da criação de usuários, utilizei o comando “mongoexport” que produziu a exportação das collections do MongoDB em um arquivo com extensão “.csv” apresentado ao cliente.</p>
-<p align="justify" style="font-family:roboto;">Além disso, através da analise e entendimento do comportamento dos dados fiz a prototipação, documentação e criação do Data Warehouse através da ferramenta Vertabelo. O DW foi utilizado para armazenar os dados provenientes do MongoDB e tem por funcionalidade alimentar a ferramenta Power BI para gerar os gráficos utilizados pelos usuários.</p>
-<p align="justify" style="font-family:roboto;">Na ferramenta Power BI colaborei no desenvolvimento dos dashboards disponibilizados aos analistas de negócios. Por meio da analise dos dados criei métricas através da linguagem DAX (Data Analysis Expressions) utilizada para a agregação dos dados e geração de novas informações nos dashboards criados.</p>
+<p align="justify" style="font-family:roboto;">Durante o desenvolvimento da ferramenta contribui em processos dentro do banco de dados MongoDB, utilizado para armazenar os dados enviados pelo cliente. Durante o uso da ferramenta, foi de minha responsabilidade a criação de dois usuários: Admin e Analyst, ambos com privilégios distintos na aplicação.</p>
+<p align="justify" style="font-family:roboto;">O usuário “Admin” possui privilégio total na base de dados, entre esses privilégios destaca-se: criação de novos usuários e concessão de privilégios, a leitura e escrita de novos dados e criação de clusters. O usuário “Analyst” possui apenas função de leitura de um cluster especifico. Além da criação de usuários, utilizei o comando “mongoexport” que produziu a exportação das collections do MongoDB em um arquivo com extensão “.csv” apresentado ao cliente.</p>
+<p align="justify" style="font-family:roboto;">Além disso, através da análise e entendimento do comportamento dos dados fiz a prototipação, documentação e criação do Data Warehouse através da ferramenta Vertabelo. O DW foi utilizado para armazenar os dados provenientes do MongoDB e tem por funcionalidade alimentar a ferramenta Power BI para gerar os gráficos utilizados pelos usuários.</p>
+<p align="justify" style="font-family:roboto;">Na ferramenta Power BI colaborei no desenvolvimento dos dashboards disponibilizados aos analistas de negócios. Por meio da análise dos dados criei métricas através da linguagem DAX (Data Analysis Expressions) utilizada para a agregação dos dados e geração de novas informações nos dashboards criados.</p>
 
 <p align="justify" style="font-family:roboto;">A seguir minhas contribuições pessoais:</p>
 
