@@ -148,8 +148,9 @@
 
 <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/granja_futuro_img.png" widht="20%"></img>
 	
-  <p> A Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
+  <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
   <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas, podemos citar a funcionalidade adicionar alarme que permite aos usuários adicionar um alarme definindo o horário, dias da semana e título. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
 	
