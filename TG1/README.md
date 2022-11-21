@@ -22,7 +22,7 @@
 <ul><a href="#-projeto-assistente-virtual-para-idosos---1º-semestre">1º Semestre/2020 • Assitente virtual para idosos</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#descricao-do-projeto">Descrição do projeto</a></ul>
+    <ul>◻️ <a href="#-descricao-do-projeto">Descrição do projeto</a></ul>
     <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições-individuais">Contribuições individuais</a></ul>
     <ul>◻️ <a href="#aprendizados-efetivos">Aprendizados efetivos</a></ul>
