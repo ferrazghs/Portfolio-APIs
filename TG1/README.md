@@ -275,6 +275,11 @@
     <li>Desenvolvimento de telas utilizando XML.</li>
     </ul></li>
     </ul>
+    
+ <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Proatividade
+  </ul>
   
    <h2 style="font-family:roboto;"> <a href = "https://github.com/Gil-cos/Projeto_Integrador_1-Sem2020">  GitHub :house: </a></h2>   
    
@@ -361,7 +366,11 @@
     <li>Utilização de Sprints durante o desenvolvimento do projeto.</li>
     </ul></li>
    </ul>
-	
+   
+ <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Planejamento
+  </ul>	
   <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">  GitHub :house: </a></h2>   
 
   <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
@@ -438,7 +447,12 @@
     <li>Desenvolvimento do projeto utilizando metodologia Scrum.</li>
     </ul></li>
     </ul>
-  
+    
+ <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Resiliência	
+  </ul>	 
+ 
  <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">  GitHub :house: </a></h2>   
  <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
  <details>
@@ -522,6 +536,12 @@
     <li>Desenvolvimento do Product Backlog utilizando a metodologia Product Backlog Building.</li>
     </ul></li>
     </ul>
+    
+  <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Organização
+  <li>Planejamento	
+  </ul>	
   
    <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/API4Sem2021">  GitHub :house: </a></h2>   
    
@@ -643,6 +663,12 @@
   </ul></li>
   </ul>
   
+  <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Proatividade
+  <li>Posicionamento crítico		
+  </ul>
+  
  <h2 style="font-family:roboto;"> <a href = "https://github.com/API5Sem22/API5Doc">  GitHub :house: </a></h2>   
 
  <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
@@ -754,6 +780,12 @@
     <li>Utilização da ferramenta Power BI;</li> 
     <li>Criação de métricas na plataforma utilizando DAX (Data Analysis Expressions).</li> 
   </ul></li>
-	  
+  
+  <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Visão de negócio	
+  </ul>	  
+  
 <h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
+
 <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
