@@ -150,7 +150,7 @@
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" width=500px></img>
 	
-  <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade, solicitada pela empresa parceira <a 		 	href="https://fatecsjc-prd.azurewebsites.net/"> FATEC - São José dos Campos </a></p>
+  <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade, solicitada pela empresa parceira <a 		 	href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 	
   <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas, podemos citar a funcionalidade adicionar alarme que permite aos usuários adicionar um alarme definindo o horário, dias da semana e título. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
 	
