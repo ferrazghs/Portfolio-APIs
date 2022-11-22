@@ -146,13 +146,9 @@
 ---	
 
 
-<h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
-<h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
-<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/fatecsjc.png" widht=300px></img>
-<p>Criada em 2 de março de 2006, a FATEC São José dos Campos - Prof. Jessen Vidal é uma Faculdade de Tecnologia do Estado de São Paulo que pertence ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS) e oferece cursos gratuitos no formato Tecnólogo.</p> 
-	
+<h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>	
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" widht="20%"></img>
+<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" width=500px></img>
 	
   <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
 	
@@ -222,10 +218,7 @@
   ---
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logo_tecsus_horizontal.png" width = 500px</img>
-  <p>A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.</p>
-	
+ 	
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht= 500px></img>
 
@@ -316,9 +309,8 @@
 ---
 	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" widht=100px ></img>
+  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" width=300px ></img>
 	
   <p>O AirPlan é um solução de software solicitada pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
   <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía grandes erros ao gerar e ao manipular arquivos que integram um documento de uma aeronave, oque era feito de forma manual.</p> 
@@ -491,7 +483,6 @@
 ---
 
  <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
- <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/DR.png" widht=300px ></img>
 
@@ -637,7 +628,6 @@
 ---
 
 <h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
-<h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/d-end-logo.jpeg" widht=10px ></img>
 
