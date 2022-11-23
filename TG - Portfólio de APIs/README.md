@@ -148,7 +148,7 @@
 
 <h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>	
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/assistente-virtual.jpg" width=500px></img>
+<p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/assistente-virtual.jpg" width=500px></img>
 	
   <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade, solicitada pelo parceiro acadêmico <a 		 	href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 	
@@ -220,7 +220,7 @@
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
  	
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht= 500px></img>
+  <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht= 500px></img>
 
   <p> O projeto Trinity tem por objetivo auxiliar o parceiro acadêmico  <a href="https://tecsus.com.br/"> TecSUS </a>, através de um software, em promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
 	
@@ -310,7 +310,7 @@
 	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" width=300px ></img>
+  <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/logotipo.jpg" width=300px ></img>
 	
   <p>O AirPlan é um solução de software solicitada pelo parceiro acadêmico  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
   <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía grandes erros ao gerar e ao manipular arquivos que integram um documento de uma aeronave, oque era feito de forma manual.</p> 
@@ -393,7 +393,7 @@
   <h2 style="font-family:roboto;"> Projeto #VEMPRACASA - 4º Semestre</h2>
   <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/banner.png" widht=300px ></img>
+  <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/banner.png" widht=300px ></img>
 
 <p>#VEMPRACASA é um projeto para o parceiro acadêmico <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
 
@@ -484,7 +484,7 @@
 
  <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
- <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/DR.png" widht=300px ></img>
+ <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/DR.png" widht=300px ></img>
 
 <p>O projeto é uma parceria entre a FATEC – São José dos Campos e o parceiro acadêmico <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, foi a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports, a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
 <p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores. A atribuição de empresas aos vendedores leva em consideração o nível de experiência do vendedor que foi dividido em categorias: Junior, Pleno, Sênior e Especialista. Essa categorização foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
@@ -632,7 +632,7 @@
 
 <h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/d-end-logo.jpeg" widht=10px ></img>
+<p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/d-end-logo.jpeg" widht=10px ></img>
 
 <p>O projeto é uma parceria entre a FATEC – São José dos Campos e o parceiro acadêmico <a href="https://www.domrock.net/"> Dom Rock </a>. A proposta apresentada para a equipe D-End, consiste no desenvolvimento de uma ferramenta que permite o armazenamento, organização e visualização de dados provenientes de duas fontes distintas.</p>
 <p>O software tem como principal objetivo o cruzamento dos dados provenientes de convênios médicos e seus clientes, com o intuito de identificar inconsistências no pagamento das faturas das duas fontes de dados e com isso definir o plano de ação para cada situação encontrada.</p>
