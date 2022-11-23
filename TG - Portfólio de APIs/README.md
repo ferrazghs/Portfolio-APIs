@@ -224,7 +224,7 @@
 
   <p> O projeto Trinity tem por objetivo auxiliar o parceiro acadêmico  <a href="https://tecsus.com.br/"> TecSUS </a>, através de um software, em promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
 	
-  <p>Antes do desenvolvimento do software desenvolvido, a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo com o armazenamento de empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
+  <p>Antes da solução desenvolvida, a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo com o armazenamento de empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas recorrentes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados incorretos, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
 	
   <p>Além do cadastro de contas e empresas parceiras, o sistema também gera relátorios para seus usuários, permitindo então a analise de consumo e gastos nas contas    digitadas.</p>
       
@@ -269,7 +269,7 @@
 <li>Prototipação de classes que remetem a contas de água e luz;</li>	
 <li>Configuração da classe que faz a conexão com  o banco de dados;</li>
 <li>Configuração das classes DAO, onde se concentram  os métodos de Insert, Delete, Update e Select utilizados na solução.</li>
-	
+	/
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <h3 style="font-family:roboto;"> Hard Skills</h3>   
 	
@@ -313,7 +313,7 @@
   <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/logotipo.jpg" width=300px ></img>
 	
   <p>O AirPlan é um solução de software solicitada pelo parceiro acadêmico  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
-  <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía grandes erros ao gerar e ao manipular arquivos que integram um documento de uma aeronave, oque era feito de forma manual.</p> 
+  <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía problemas ao gerar e ao manipular arquivos que integram o documento de uma aeronave, oque era feito de forma manual.</p> 
   <p>A aplicação automatiza a integração dos diversos arquivos em apenas um único de forma eficaz e intuitiva, levando em consideração toda regra de negócio usada pelos colaboradores. O sofware é feito de 3 APIs distintas e independentes que permitem: ligar diversos documentos, verificar a integridade dos arquivos, fazer upload das partes de um documento, fazer o download completo dos arquivos integrados e controle de usuários.</p>
      
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
@@ -339,7 +339,7 @@
   </ul></li>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end. Minhas contribuições foram na modelagem, na estruturação e no controle de versões na base de dados usada na solução que serviu com armazenamento dos dados utilizadas por todas as APIs do sistema e integrar todos os desenvolvedores com a estrutura da base de dados atualizada através da ferramenta Flyway, Além disso, auxiliei no mapeamento das classes utilizando Hibernate, importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
+ <p align="justify" style="font-family:roboto;">Durante o projeto fui designado como desenvolvedor banco de dados e back-end. Minhas contribuições foram na modelagem, na estruturação e no controle de versões da base de dados usada na solução que serviu como armazenamento dos dados utilizados por todas as APIs do sistema e integrar todos os desenvolvedores com a estrutura da base de dados atualizada através da ferramenta Flyway, Além disso, auxiliei no mapeamento das classes utilizando Hibernate, importante para intermediar os atributos da classe em Java com os objetos do banco de dados, entre minhas contribuições temos:</p>
 
 <li>Modelagem conceitual do banco de dados utilizando a ferramenta BrModelo;</li>	
 <li>Estruturação da base de dados no MySQL , através de comandos SQL;</li>	
@@ -395,13 +395,13 @@
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/banner.png" widht=300px ></img>
 
-<p>#VEMPRACASA é um projeto para o parceiro acadêmico <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
+<p>#VEMPRACASA é um projeto para o parceiro acadêmico <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando conflitos de agendas.</p>
 
-<p> O sistema tem diversas funcionalidades que tornam o agendamento de eventos intuitivo e prático para o usuário final. A solução consiste em três tipos de usuários: Organizador, Administrador e Convidado.</p>
+<p> O sistema tem diversas funcionalidades que tornam o agendamento de eventos intuitivo e prático para o usuário final. A solução consiste em três tipos de usuário: Organizador, Administrador e Convidado.</p>
 	
-<p>O organizador tem como principal funcionalidade a solicitação de um evento, onde através da tela é possível inserir todas as informações pertinentes ao evento. Já o administrador é responsável por aprovar ou não o evento, visualizando todas as informações referentes ao evento e sugestionar uma nova data. O convidado é dividido em externos ou internos e podem se cadastrar através do site da “Casa Oracle”, os funcionários Oracle recebem a confirmação do evento via e-mail e podem solicitar para se tornar organizadores de um evento, já convidados externos apenas participam dos eventos abertos ao público em geral.</p>
+<p>O organizador tem como principal funcionalidade a solicitação de um evento, onde através da tela é possível inserir todas as informações pertinentes ao evento. Já o administrador é responsável por aprovar ou não o evento, visualizando todas as informações referentes ao evento e sugestionar uma nova data caso necessário. O convidado é dividido em externo ou interno e podem se cadastrar através do site da “Casa Oracle”, os funcionários Oracle recebem a confirmação do evento via e-mail e podem solicitar para se tornar organizadores de um evento, já convidados externos apenas participam dos eventos abertos ao público em geral.</p>
 	
-<p>Por fim, o projeto trás uma facilidade para seus usuários.Além da solicitação rápida e intuitiva de um evento, é possível ter uma segurança através da sua aprovação por meio do administrador. A confirmação do evento via e-mail para os convidados trás uma grande facilidade na comunicação e o controle de acesso através do cartão vacinal.</p>
+<p>Por fim, o projeto trás uma facilidade para seus usuários. Além da solicitação rápida e intuitiva de um evento, é possível ter uma segurança através da sua aprovação por meio do administrador. A confirmação do evento via e-mail para os convidados trás uma grande facilidade na comunicação e o controle de acesso através do cartão vacinal.</p>
 	
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    	
@@ -437,7 +437,7 @@
 	
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
  
-<p align="justify" style="font-family:roboto;">Minhas contribuições no projeto foram centradas na modelagem, na estruturação e na documentação de toda base de dados utilizada na solução. A documentação da base de dados foi apresentada ao cliente para validação e rastreabilidade de todo banco de dados para possíveis mudanças futuras.</p>	
+<p align="justify" style="font-family:roboto;">Minhas contribuições no projeto foram centradas na modelagem, estruturação e documentação de toda base de dados utilizada na solução. A documentação da base de dados foi apresentada ao cliente para validação e rastreabilidade de todo banco de dados para possíveis mudanças futuras.</p>	
 <p align="justify" style="font-family:roboto;">No desenvolvimento back-end, fiz o uso do ORM (Mapemento-Objeto-Relacional) de forma completa e eficiente, utilizando o Hibernate , além  do MVC (Model-View-Controller) utilizada como lógica arquitetural para comunicação entre o back-end e front-end do projeto. Além disso, programei o controle de exceção nas funcionalidades da aplicação que auxiliam os desenvolvedores em caso de erro, as quais estão entre minhas contribuições, conforme citadas a seguir:/p>	
 
 <li>Modelagem conceitual da base de dados utilizando a ferramenta BrModelo;</li>	
@@ -451,7 +451,7 @@
   <ul>
   <li>Java Springboot
   <ul>
-    <li>Melhoramento no mapeamento das classes utilizando JPA;</li>
+    <li>Melhora no mapeamento das classes utilizando JPA;</li>
     <li>Utilização de padrões de projeto MVC e Facade.</li>
     </ul></li>	  
 	  
@@ -486,9 +486,9 @@
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
  <p align="center"><img src="https://github.com/ferrazghs/Portfolio-APIs/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/DR.png" widht=300px ></img>
 
-<p>O projeto é uma parceria entre a FATEC – São José dos Campos e o parceiro acadêmico <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, foi a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports, a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
+<p>O projeto é uma parceria entre a FATEC – São José dos Campos e o parceiro acadêmico <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, foi a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports, a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio da analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
 <p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores. A atribuição de empresas aos vendedores leva em consideração o nível de experiência do vendedor que foi dividido em categorias: Junior, Pleno, Sênior e Especialista. Essa categorização foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
-<p>Por fim, o projeto traz uma análise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e consumo dos produtos oferecidos.</p>
+<p>Por fim, o projeto traz uma análise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e aumentar o consumo dos produtos oferecidos.</p>
 
  <h2 style="font-family:roboto;"> Arquitetura do Projeto</h2>   
  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/Arquitetura-Data-Rangers.jpg" widht=500px ></img>
@@ -527,7 +527,7 @@
 
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é um SGBD robusto, além de possuir uma ferramenta de ETL.</p>
+  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é robusto, além de possuir uma ferramenta própria de ETL.</p>
 </ul></li>
 
   <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver16">SQL Server Integration Services</a>:
@@ -542,7 +542,7 @@
 
 <li><a href="https://www.heroku.com/">Heroku</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Heroku é uma plataforma de serviços na nuvem baseada em contêiner, é utilizada para implantar, gerenciar e dimensionar as aplicações, é uma plataforma flexível, fácil de usar e que suporta varias linguagens de programação, foi utilizada para  fazer o deploy do front-end da aplicação.</p>
+  <p align="justify" style="font-family:roboto;">Heroku é uma plataforma de serviços na nuvem baseada em contêiner, é utilizada para implantar, gerenciar e dimensionar as aplicações, é uma plataforma flexível, fácil de usar e que suporta varias linguagens de programação, foi utilizada para  fazer o deploy do front-end.</p>
 </ul></li>
 
 <li><a href="https://circleci.com/">CircleCI</a>:
@@ -556,7 +556,7 @@
 </ul></li>
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema.Em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizadas para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente.Essa base de dados teve como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o processo de modelagem, estruturação e documentação do Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos.</p>
+ <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema.Em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizado para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente.Essa base de dados teve como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o mesmo processor com o Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos.</p>
   <p align="justify" style="font-family:roboto;">Contribui também, na configuração da ferramenta SSIS (SQL Server Integration Services) utilizada com ferramenta ETL para extrair, transformar e carregar os dados provenientes da base de dados relacional para a base de dados Data Warehouse.</p>
  <p align="justify" style="font-family:roboto;">No back-end minhas contribuições foram centradas na modelagem das classes Java utilizando o framework SpringBoot e o mapeamento ORM. Além disso tive participação no prototipação de classes Service que concentram as funcionalidades de CRUD e regras de negócio passadas pela empresa parceira, classes Controller que fazem a comunicação com o front-end do projeto através de rotas REST e classes Repository que são as interfaces Java utilizadas no projeto.</p>
  <p align="justify" style="font-family:roboto;">No âmbito de DevOps desenvolvi os testes unitários das classes Service para as funcionalidades criadas, além disso usei a biblioteca Liquibase utilizada para automatizar e garantir a segurança no processo de alteração do banco de dados.</p>
