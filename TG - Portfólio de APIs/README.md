@@ -490,6 +490,9 @@
 <p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores. A atribuição de empresas aos vendedores leva em consideração o nível de experiência do vendedor que foi dividido em categorias: Junior, Pleno, Sênior e Especialista. Essa categorização foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
 <p>Por fim, o projeto traz uma análise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e consumo dos produtos oferecidos.</p>
 
+ <h2 style="font-family:roboto;"> Arquitetura do Projeto</h2>   
+ <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG%20-%20Portf%C3%B3lio%20de%20APIs/images/Arquitetura-Data-Rangers.jpg" widht=500px ></img>
+
   <h2 style="font-family:roboto;"> Tecnologias utilizadas :computer:</h2>
 
   <li><a href="https://www.java.com/pt-BR">Java</a>:
@@ -568,7 +571,7 @@
 <li>Controle de exceção em Java.;</li>	
 <li>Desenvolvimento de testes unitários;</li>	
 <li>Configuração da ferramenta Liquibase;</li>	
-<li>Configuração da ferramenta SSIS (SQL Server Integration Services).</li>	
+<li>Configuração da ferramenta SSIS (SQL Server Integration Services).</li>
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 style="font-family:roboto;"> Hard Skills</h3>   
