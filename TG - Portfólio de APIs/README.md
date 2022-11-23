@@ -21,7 +21,7 @@
 	
   <p>Meu nome é Gabriel, tenho 21 anos e atualmente estou cursando o 6º semestre de Banco de dados. Sou formado técnico em informática pela Escola Técnica <a          href="https://www.institutoideia.online/">IDEIA - Instituto de Desenvolvimento Educacional</a> onde tive meu primeiro contato com o mundo da tecnologia e desenvolvimento de software. Após a conclusão do técnico ingressei na  <a href="https://fatecsjc-prd.azurewebsites.net/index.php">FATEC - São José dos Campos</a> no 1º Semestre/2020.</p>
   <p>Durante o desenvolvimento do curso aprendi muito sobre tecnologias, boas práticas no desenvolvimento de software e metodologias. O aprendizado por projetos (APIs) foi muito importante para minha formação como profissional de TI, durante os projetos englobamos todas as matérias do semestre vigente e desenvolvemos projetos com empresas reais, parceiras da faculdade. Esse método de ensino está próximo do que acontece no mercado de trabalho, além de desenvolver aplicações em metodologias ágeis como o Scrum, versionamento de código através do GIT, as boas práticas e tecnologias são usadas durante esses projetos.</p>
-<p> Atualmente sou Programador I na empresa <a href="https://codex.tec.br/">Codex Utilities</a>, minhas experiências obtidas ao longo dos projetos são de extrema importancia durante meu trabalho.</p>
+<p> Atualmente sou Programador I na empresa <a href="https://codex.tec.br/">Codex Utilities</a>, minhas experiências obtidas ao longo dos projetos são de extrema importância durante minha rotina de trabalho.</p>
 
   <table align="center">
    <tr>
