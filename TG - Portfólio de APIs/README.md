@@ -699,22 +699,27 @@
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 style="font-family:roboto;"> Hard Skills</h3>   
+<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+<h3 style="font-family:roboto;"> Hard Skills</h3>   
+  <ul>
   <li>MongoDB:
   <ul>
     <li>Criação de usuários e privilégios no Banco de Dados;</li>
     <li>Utilização da ferramenta MongoDB Compass e MongoDB Atlas;</li>
     <li>Utilização do comando de exportação de dados mongoexport.</li>
-  </ul></li>	  	
+  </ul></li>	  
+	  
   <li>Power BI:
   <ul>
     <li>Utilização da ferramenta Power BI;</li> 
     <li>Criação de métricas na plataforma utilizando DAX (Data Analysis Expressions).</li> 
   </ul></li>
-  
-<h3 style="font-family:roboto;"> Soft Skills</h3>   
- <ul>
- <li>Visão de Negócio</li>
- </ul>
+</ul>	
+  <h3 style="font-family:roboto;"> Soft Skills</h3>   
+  <ul>
+  <li>Visão de Negócio	
+  <li>Comunicação Assertiva		
+  </ul>
   
 <h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
 
