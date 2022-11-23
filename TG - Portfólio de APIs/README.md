@@ -146,15 +146,11 @@
 ---	
 
 
-<h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>
-<h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
-<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/fatecsjc.png" widht=300px></img>
-<p>Criada em 2 de março de 2006, a FATEC São José dos Campos - Prof. Jessen Vidal é uma Faculdade de Tecnologia do Estado de São Paulo que pertence ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS) e oferece cursos gratuitos no formato Tecnólogo.</p> 
-	
+<h2 style="font-family:roboto;"> Projeto Assistente virtual para idosos - 1º Semestre</h2>	
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" widht="20%"></img>
+<p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/assistente-virtual.jpg" width=500px></img>
 	
-  <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade.</p>
+  <p> Aplicação Mobile que tem por objetivo facilitar o uso do smartphone Android para o público da 3º idade, solicitada pelo parceiro acadêmico <a 		 	href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 	
   <p>São diversas funcionalidades que o sistema proporciona para seu usuário final, entre elas, podemos citar a funcionalidade adicionar alarme que permite aos usuários adicionar um alarme definindo o horário, dias da semana e título. Além disso é possivel realizar uma ligação de emergência redirecionando ao número de emergência 192 (SAMU), através do aplicativo padrão de ligações do Android.</p> 
 	
@@ -222,14 +218,11 @@
   ---
 	
   <h2 style="font-family:roboto;"> Projeto Trinity - 2º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logo_tecsus_horizontal.png" width = 500px</img>
-  <p>A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.</p>
-	
+ 	
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/94086088-4fb53a00-fde0-11ea-9915-3ac9be131de7.png" widht= 500px></img>
 
-  <p> O projeto Trinity tem por objetivo auxiliar a empresa parceira  <a href="https://tecsus.com.br/"> TecSUS </a>, através de um software, em promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
+  <p> O projeto Trinity tem por objetivo auxiliar o parceiro acadêmico  <a href="https://tecsus.com.br/"> TecSUS </a>, através de um software, em promover uma melhora na digitação de contas de água e luz por parte de seus colaboradores. </p>
 	
   <p>Antes do desenvolvimento do software desenvolvido, a empresa fazia toda digitação e construção dos relátorios de forma manual. A solução automatiza os processos de digitação por exemplo com o armazenamento de empresas que já são clientes em uma base de dados, diminuindo assim o tempo dos colaboradores ao buscarem informações de empresas já clientes, o sistema promove também um controle de erros na hora da digitação, não permitindo a entrada de dados errados, fazendo com que os relátorios gerados sejam mais efetivos.</p> 
 	
@@ -316,11 +309,10 @@
 ---
 	
   <h2 style="font-family:roboto;"> Projeto AirPlan - 3º Semestre</h2>
-  <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
-  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" widht=100px ></img>
+  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/logotipo.jpg" width=300px ></img>
 	
-  <p>O AirPlan é um solução de software solicitada pela empresa parceira  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
+  <p>O AirPlan é um solução de software solicitada pelo parceiro acadêmico  <a href="https://embraer.com/br/pt"> Embraer </a>.  </p>
   <p>O sistema, tem por objetivo o controle e armazenamento de documentações de aeronaves.Antes da solução desenvolvida, a empresa possuía grandes erros ao gerar e ao manipular arquivos que integram um documento de uma aeronave, oque era feito de forma manual.</p> 
   <p>A aplicação automatiza a integração dos diversos arquivos em apenas um único de forma eficaz e intuitiva, levando em consideração toda regra de negócio usada pelos colaboradores. O sofware é feito de 3 APIs distintas e independentes que permitem: ligar diversos documentos, verificar a integridade dos arquivos, fazer upload das partes de um documento, fazer o download completo dos arquivos integrados e controle de usuários.</p>
      
@@ -403,7 +395,7 @@
   <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
   <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/banner.png" widht=300px ></img>
 
-<p>#VEMPRACASA é um projeto para a empresa <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
+<p>#VEMPRACASA é um projeto para o parceiro acadêmico <a href="https://www.oracle.com/br/index.html">Oracle</a>, a proposta apresentada pela a empresa parceira tem a finalidade em desenvolver um sistema que realiza agendamentos de eventos nos espaços da “Casa Oracle”, local que é realizado eventos e palestras da empresa. O sistema tem o intuito de solucionar um problema recorrente no agendamento manual dos eventos, gerando diversos conflitos.</p>
 
 <p> O sistema tem diversas funcionalidades que tornam o agendamento de eventos intuitivo e prático para o usuário final. A solução consiste em três tipos de usuários: Organizador, Administrador e Convidado.</p>
 	
@@ -491,11 +483,10 @@
 ---
 
  <h2 style="font-family:roboto;"> Projeto Data Rangers - 5º Semestre</h2>
- <h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
  <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
  <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/DR.png" widht=300px ></img>
 
-<p>O projeto é uma parceria entre a FATEC – São José dos Campos e a empresa parceira <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, foi a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports, a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
+<p>O projeto é uma parceria entre a FATEC – São José dos Campos e o parceiro acadêmico <a href="https://www.spcbrasil.org.br/">SPC</a>. A proposta apresentada para a equipe Data Rangers, foi a prototipação de um Data Warehouse que armazena os dados e possibilita, através do uso de modelos e reports, a prospecção de novos clientes, o aumento das vendas e o consumo dos produtos SPC por meio de analise em gráficos na ferramenta Power BI utilizada pelos analistas de negócios</p>
 <p>O produto desenvolvido possibilita ao usuário Administrador manipular novas empresas, criar usuários e atribuir empresas a carteiras de vendedores. A atribuição de empresas aos vendedores leva em consideração o nível de experiência do vendedor que foi dividido em categorias: Junior, Pleno, Sênior e Especialista. Essa categorização foi desenvolvida levando em consideração um modelo que assume o nível de consumo que as empresas possuem com os produtos SPC.</p>
 <p>Por fim, o projeto traz uma análise completa e eficiente para os analistas de negócio que conseguem tirar informações relevantes para aumentar a possibilidade de adquirir novos clientes e consumo dos produtos oferecidos.</p>
 
@@ -637,7 +628,6 @@
 ---
 
 <h2 style="font-family:roboto;"> Projeto D-End - 6º Semestre</h2> 
-<h2 style="font-family:roboto;"> Parceiro Acadêmico </h2>
 <h2 style="font-family:roboto;"> Descrição do Projeto :clipboard:</h2>
 <p align="center"><img src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/d-end-logo.jpeg" widht=10px ></img>
 
