@@ -507,12 +507,12 @@
  
   <li><a href="https://www.figma.com/">Figma</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Foi utilizado no desenvolvimento durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe, e foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao desenvolvimento e assim organizar nossas funcionalidades.Além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
+  <p align="justify" style="font-family:roboto;">Figma é um editor gráfico de vetor e prototipagem de projetos. Foi utilizado no desenvolvimento durante a prototipação do “Product Backlog Building” um método apresentado pelo PO da equipe que foi usado para criação de um backlog colaborativo e de forma organizada, para que cada um dos integrantes do time pudesse expor suas ideias referentes ao desenvolvimento e assim organizar nossas funcionalidades. Além disso, a ferramenta foi usada para a criação das “Wireframes” do projeto, que posteriormente foram apresentadas ao clientes e validadas, a ferramenta foi escolhida pela equipe, pela a alta utilização no mercado e fácil utilização do software.</p>
 </ul></li>
 
   <li><a href="https://vuejs.org/">VueJS</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">VueJS é um framework para desenvolvimento web, trata-se de uma ferramenta open source e foi utilizada durante o projeto para a criação de páginas dinâmicas e otimização de trabalho.</p>
+  <p align="justify" style="font-family:roboto;">VueJS é um framework para desenvolvimento web, trata-se de uma ferramenta open source que foi utilizada durante o projeto para a criação de páginas dinâmicas e otimização de trabalho.</p>
 </ul></li>
 
   <li><a href="https://vertabelo.com/">Vertabelo</a>:
@@ -522,12 +522,12 @@
 
   <li><a href="https://www.atlassian.com/br/software/jira">Jira</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Jira é uma ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas e possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
+  <p align="justify" style="font-family:roboto;">Jira é uma ferramenta auxiliar no uso da metodologia SCRUM para distribuição das atividades e priorização das demandas que possibilitou realizar todo o planejamento e registrar o progresso da equipe de acordo com as atividades.</p>
 </ul></li>
 
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">SQL  Server é um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é robusto, além de possuir uma ferramenta própria de ETL.</p>
+  <p align="justify" style="font-family:roboto;">É um Sistema Gerenciador de Banco de Dados de alto nível que utiliza banco de dados relacional. O SGBD foi utilizado durante a execução dos scipts SQL para a prototipação das tabelas e colunas de acordo com o modelo relacional desenvolvido previamente, além da manutenção e armazenamento dos dados do sistema. Foi escolhido pela equipe, pois é robusto, além de possuir uma ferramenta própria de ETL.</p>
 </ul></li>
 
   <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver16">SQL Server Integration Services</a>:
@@ -537,17 +537,17 @@
 
   <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e analise por parte dos usuários responsáveis. </p>
+  <p align="justify" style="font-family:roboto;">Power BI é uma ferramenta completa que transforma suas fontes de dados não relacionadas em informações coerentes, foi utilizada durante o projeto como o software que faz a leitura do Data Warehouse e cria gráficos e métricas para visualização e análise por parte dos usuários responsáveis. </p>
 </ul></li>
 
 <li><a href="https://www.heroku.com/">Heroku</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">Heroku é uma plataforma de serviços na nuvem baseada em contêiner, é utilizada para implantar, gerenciar e dimensionar as aplicações, é uma plataforma flexível, fácil de usar e que suporta varias linguagens de programação, foi utilizada para  fazer o deploy do front-end.</p>
+  <p align="justify" style="font-family:roboto;">Heroku é uma plataforma de serviços na nuvem baseada em contêiner, é utilizada para implantar, gerenciar e dimensionar as aplicações, é uma plataforma flexível, fácil de usar e que suporta varias linguagens de programação, foi utilizada para  fazer o deploy do front-end do projeto.</p>
 </ul></li>
 
 <li><a href="https://circleci.com/">CircleCI</a>:
   <ul>
-  <p align="justify" style="font-family:roboto;">É uma ferramenta de Integração Continua, utilizada para implementar as práticas de DevOps, foi utilizada no projeto na integração com o GitHub onde a cada atualização no código feita a ferramente faz o build e testes possibilitando o desenvolvedor verificar se sua alteração está com problemas.</p>
+  <p align="justify" style="font-family:roboto;">É uma ferramenta de Integração Continua, utilizada para implementar as práticas de DevOps, foi utilizada no projeto na integração com o GitHub onde a cada atualização no código feita a ferramenta faz o build e testes possibilitando o desenvolvedor verificar se sua alteração está com problemas.</p>
 </ul></li>
 
 <li><a href="https://azure.microsoft.com/pt-br/">Microsoft Azure</a>:
@@ -556,9 +556,9 @@
 </ul></li>
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
- <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema.Em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizado para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente.Essa base de dados teve como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o mesmo processor com o Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos.</p>
-  <p align="justify" style="font-family:roboto;">Contribui também, na configuração da ferramenta SSIS (SQL Server Integration Services) utilizada com ferramenta ETL para extrair, transformar e carregar os dados provenientes da base de dados relacional para a base de dados Data Warehouse.</p>
- <p align="justify" style="font-family:roboto;">No back-end minhas contribuições foram centradas na modelagem das classes Java utilizando o framework SpringBoot e o mapeamento ORM. Além disso tive participação no prototipação de classes Service que concentram as funcionalidades de CRUD e regras de negócio passadas pela empresa parceira, classes Controller que fazem a comunicação com o front-end do projeto através de rotas REST e classes Repository que são as interfaces Java utilizadas no projeto.</p>
+ <p align="justify" style="font-family:roboto;">Durante o desenvolvimento do projeto fui muito ativo e contribui em diversas funcionalidades do sistema. Em áreas diferentes, entre minhas contribuições no banco de dados temos a modelagem, estruturação e documentação do Banco de Dados relacional utilizado para armazenar os dados provenientes dos arquivos com extensão “.csv” disponibilizados pelo cliente. Essa base de dados teve como objetivo um primeiro armazenamento dos dados, separados nas tabelas correspondentes. Além disso, fiz o mesmo processo com o Data Warehouse utilizado como uma base de dados analítica que foi consumida pela ferramenta Power BI para gerar gráficos e análises.</p>
+  <p align="justify" style="font-family:roboto;">Contribui também, na configuração do SSIS (SQL Server Integration Services) utilizada como ferramenta ETL para extrair, transformar e carregar os dados provenientes da base de dados relacional para a base de dados Data Warehouse.</p>
+ <p align="justify" style="font-family:roboto;">No back-end minhas contribuições foram centradas na modelagem das classes Java utilizando o framework SpringBoot e o mapeamento ORM. Além disso tive participação na prototipação de classes Service que concentram as funcionalidades de CRUD e regras de negócio passadas pela empresa parceira, classes Controller que fazem a comunicação com o front-end do projeto através de rotas REST e classes Repository que são as interfaces Java utilizadas no projeto.</p>
  <p align="justify" style="font-family:roboto;">No âmbito de DevOps desenvolvi os testes unitários das classes Service para as funcionalidades criadas, além disso usei a biblioteca Liquibase utilizada para automatizar e garantir a segurança no processo de alteração do banco de dados.</p>
  <p align="justify" style="font-family:roboto;">A seguir minhas contribuições pessoais:</p>
 
@@ -597,7 +597,8 @@
   
   <h3 style="font-family:roboto;"> Soft Skills</h3>   
   <ul>
-  <li>Posicionamento crítico	
+  <li>Organização
+  <li>Proatividade	
   <li>Comunicação Assertiva		
   </ul>
   
@@ -617,7 +618,7 @@
  </details>
  
   <details>
-  <summary>Demonstração gráficos para analista de negócios</summary>
+  <summary>Demonstração gráficos para analistas de negócio</summary>
  <br>
   <img style="border-radius: 50%;" src="https://github.com/API5Sem22/API5Doc/blob/main/Videos/grafico-analista.gif" />
  </details>
