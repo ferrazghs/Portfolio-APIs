@@ -576,9 +576,9 @@
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 style="font-family:roboto;"> Hard Skills</h3>   
   <ul>
-  <li>Java Springboot:
+  <li>Springboot:
   <ul>
-    <li>Prototipação de classes Repository, Service e Controller.</li>
+    <li>Mapeamento Objeto Relacional.</li>
   </ul></li>	  
 	  
   <li>Junit:
