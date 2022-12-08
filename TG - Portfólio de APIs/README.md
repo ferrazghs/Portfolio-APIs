@@ -724,4 +724,4 @@
   
 <h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
 
-<h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
+
