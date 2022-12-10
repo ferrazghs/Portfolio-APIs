@@ -614,7 +614,7 @@
   <details>
   <summary>Demonstração gráficos aréa do vendedor</summary>
   <br>
-	<a href="https://youtu.be/dq8BopgAY-o"> Link para acesso ao vídeo</a>
+	<a href="https://www.youtube.com/watch?v=qLI4H_310lE"> Link para acesso ao vídeo</a>
   </details>
  
   <details>
