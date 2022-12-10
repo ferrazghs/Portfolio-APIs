@@ -303,7 +303,7 @@
   <details>
   <summary>Demonstração funcionamento da aplicação</summary>
   <br>
- 	<a href="https://www.youtube.com/watch?v=w0coz3Kn2ic"> Link para acesso ao vídeo</a>
+ 	<a href="https://youtu.be/_Q2v8bOW8WE"> Link para acesso ao vídeo</a>
   </details>
 
 ---
