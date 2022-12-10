@@ -212,7 +212,7 @@
     <details>
   <summary>Demonstração funcionamento da aplicação</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Untitled-video-%E2%80%90-Feito-com-o-Clipchamp.gif" />
+	<a href="https://www.youtube.com/watch?v=w0coz3Kn2ic"> Link para acesso ao vídeo</a>
   </details>
   		
   ---
@@ -269,7 +269,7 @@
 <li>Prototipação de classes que remetem a contas de água e luz;</li>	
 <li>Configuração da classe que faz a conexão com  o banco de dados;</li>
 <li>Configuração das classes DAO, onde se concentram  os métodos de Insert, Delete, Update e Select utilizados na solução.</li>
-	/
+	
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <h3 style="font-family:roboto;"> Hard Skills</h3>   
 	
@@ -301,9 +301,9 @@
  
   <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
   <details>
-  <summary>Link do vídeo funcionamento da aplicação</summary>
+  <summary>Demonstração funcionamento da aplicação</summary>
   <br>
-   <p style="border-radius: 50%;" <a href="https://www.youtube.com/watch?v=w0coz3Kn2ic"</a></p>
+ 	<a href="https://www.youtube.com/watch?v=w0coz3Kn2ic"> Link para acesso ao vídeo</a>
   </details>
 
 ---
