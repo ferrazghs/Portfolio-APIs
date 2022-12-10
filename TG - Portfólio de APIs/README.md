@@ -384,9 +384,9 @@
  <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
  <details>
  <summary>Demonstração funcionamento da aplicação</summary>
- <br>
-  <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/Apresenta%C3%A7%C3%A3o_AirPlan.gif" />
- </details>
+  <br>
+ 	<a href="https://youtu.be/sQA_ozn6zLE"> Link para acesso ao vídeo</a>
+  </details>
 	
   ---	
 	
