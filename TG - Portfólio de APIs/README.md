@@ -477,7 +477,7 @@
     <details>
   <summary>Demonstração funcionamento da aplicação</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/ferrazghs/Bertoti/blob/main/TG1/images/4Sem_apresentacao.gif" />
+	<a href="https://youtu.be/9LUK4gqlb3c"> Link para acesso ao vídeo</a>
   </details>
 		
 ---
