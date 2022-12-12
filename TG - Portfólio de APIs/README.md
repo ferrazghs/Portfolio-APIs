@@ -383,7 +383,7 @@
  <h3 style="font-family:roboto;"> Soft Skills</h3>   
   <li>Resiliência	
    <ul>	 
-    <p>Fui resiliente pois durante o projeto tivemos problemas internos de comunicação e falta de experiência, e mesmo assim foi entregue um projeto funcional e de importância e aprovação do cliente parceiro.</p>
+    <p>Fui resiliente pois durante o projeto tivemos problemas internos de comunicação e falta de experiência, e mesmo assim foi entregue um projeto funcional, importante e aprovado pelo cliente parceiro.</p>
   </ul></li>
   </ul>
   
