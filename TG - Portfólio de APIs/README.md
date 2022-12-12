@@ -620,13 +620,13 @@
   <details>
   <summary>Demonstração gráficos para analistas de negócio</summary>
   <br>
-	<a href="https://youtu.be/dq8BopgAY-o"> Link para acesso ao vídeo</a>
+	<a href="https://youtu.be/ECxvlMFJ6Uw"> Link para acesso ao vídeo</a>
   </details>
 
   <details>
   <summary>Demonstração tela de prospecção de novos clientes</summary>
   <br>
-	<a href="https://youtu.be/dq8BopgAY-o"> Link para acesso ao vídeo</a>
+	<a href="https://youtu.be/wr0iahfEcNU"> Link para acesso ao vídeo</a>
   </details>
 
 ---
