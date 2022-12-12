@@ -202,8 +202,10 @@
     </ul>
     
  <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
   <li>Proatividade
+  <ul>	 
+    <p>Adquiri a proativade nessa projeto por buscar conhecimento e implementar tecnologias nunca utilizadas pela minha equipe, como é o caso da linguagem Java.</p>
+  </ul></li>
   </ul>
   
    <h2 style="font-family:roboto;"> <a href = "https://github.com/Gil-cos/Projeto_Integrador_1-Sem2020">  GitHub :house: </a></h2>   
@@ -294,11 +296,14 @@
    </ul>
    
  <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
-  <li>Planejamento
-  </ul>	
-  <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">  GitHub :house: </a></h2>   
- 
+ <li>Planejamento
+ <ul>	 
+    <p>Fiz o planejamento em conjunto com o Scrum Master de todo o projeto seguindo a metodologia Scrum.</p>
+  </ul></li>
+  </ul>
+  </ul>
+
+  <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">  GitHub :house: </a></h2>    
   <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
   <details>
   <summary>Demonstração funcionamento da aplicação</summary>
@@ -376,10 +381,12 @@
     </ul>
     
  <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
   <li>Resiliência	
-  </ul>	 
- 
+   <ul>	 
+    <p>Fui resilente pois durante o projeto tivemos problemas internos de comunicação e falta de experiência, e mesmo assim entregamos um projeto funcional e de importância ao cliente.</p>
+  </ul></li>
+  </ul>
+  
  <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">  GitHub :house: </a></h2>   
  <h2 style="font-family:roboto;"> A aplicação :trophy:</h2>
  <details>
@@ -467,9 +474,11 @@
     </ul>
     
   <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
   <li>Organização
-  </ul>	
+   <ul>	 
+    <p>Durante o projeto fui organizado em meus processos, entregando minhas demandas dentro do prazo.</p>
+  </ul></li>
+  </ul>
   
    <h2 style="font-family:roboto;"> <a href = "https://github.com/GabrielSG20/API4Sem2021">  GitHub :house: </a></h2>   
    
@@ -595,12 +604,24 @@
   </ul></li>
   </ul>
   
-  <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
-  <li>Organização
+ <h3 style="font-family:roboto;"> Soft Skills</h3>   
+ <li>Organização
+ <ul>	 
+    <p>Durante o desenvolvimento do projeto fui organizado em minhas tarefas, entregando dentro do prazo estabelecido e com qualidade.</p>
+ </ul></li>
+ </ul>
+  
   <li>Proatividade	
-  <li>Comunicação Assertiva		
-  </ul>
+ <ul>	 
+    <p>Fui proativo em buscar conhecimento e implementar tecnologias que o time não tinha conhecimento prévio, como é o caso da ferramente Liquibase e SSIS (SQL Server Integration Services).</p>
+ </ul></li>
+ </ul>
+ 
+<li>Comunicação Assertiva	
+<ul>	 
+    <p>Para uma boa modelagem de um Data Warehouse, é necessário o conhecimento dos dados que temos e sobre as regras de negócio, para esse conhecimento conversei com o Product Owner da equipe e consegui entregar um DW sem a necessidade alterações.</p>
+ </ul></li>
+ </ul>	
   
  <h2 style="font-family:roboto;"> <a href = "https://github.com/API5Sem22/API5Doc">  GitHub :house: </a></h2>   
 
@@ -715,9 +736,16 @@
   </ul></li>
 </ul>	
   <h3 style="font-family:roboto;"> Soft Skills</h3>   
-  <ul>
   <li>Visão de Negócio	
-  <li>Comunicação Assertiva		
+  <ul>	 
+    <p>Durante o processo adquiri a visão de negócio, entendendo a necessidade do cliente e a melhor solução para o problema apresentado.</p>
+ </ul></li>
+ </ul>	
+  <li>Comunicação Assertiva
+  <ul>	 
+    <p>Fui assertivo em minha comunicação durante as demandas apresentadas a mim, onde não foi necessário alterações.</p>
+ </ul></li>
+ </ul>
   </ul>
   
 <h2 style="font-family:roboto;"> <a href = "https://github.com/API6Sem22/API6Doc">  GitHub :house: </a></h2>   
