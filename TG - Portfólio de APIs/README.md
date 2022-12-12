@@ -204,7 +204,7 @@
  <h3 style="font-family:roboto;"> Soft Skills</h3>   
   <li>Proatividade
   <ul>	 
-    <p>Adquiri a proativade nessa projeto por buscar conhecimento e implementar tecnologias nunca utilizadas pela minha equipe, como é o caso da linguagem Java.</p>
+    <p>Adquiri essa soft skill nesse projeto por buscar conhecimento e implementar tecnologias nunca utilizadas pela minha equipe, como é o caso da linguagem Java.</p>
   </ul></li>
   </ul>
   
