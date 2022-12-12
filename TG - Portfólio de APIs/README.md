@@ -165,7 +165,7 @@
 	 
   <li><a href="https://developer.android.com/studio">Android Studio</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;"> Android Studio é uma plataforma para desenvolvimento de apps mobile para o sistema operacional Android, é uma IDE (Integrated Development Environment) que tem por funcionalidade disponibilizar todos os recursos necessários para o desenvolvimento mobile Android. </p>
+    <p align="justify" style="font-family:roboto;"> Android Studio é uma plataforma para desenvolvimento de apps mobile para o sistema operacional Android, é uma IDE (Integrated Development Environment) que tem por funcionalidade disponibilizar todos os recursos necessários para o desenvolvimento mobile Android. Foi utilizado durante o projeto como suporte a prototipação do back-end e front-end. </p>
   </ul></li>
 	 
   <li><a href="https://trello.com/pt-BR">Trello</a>:
@@ -239,22 +239,22 @@
   
   <li><a href="https://www.mysql.com/">MySQL</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor armazena os dados e o cliente é oque faz as solicitações desses dados.</p>
+    <p align="justify" style="font-family:roboto;"> O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor armazena os dados e o cliente é oque faz as solicitações desses dados. Auxiliou durante o projeto no armazenamento dos dados de contas de água e luz registrado pelos usuários.</p>
   </ul></li>
   
   <li><a href="https://www.gitpod.io/">GitPod</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">GitPod é um ambiente de desenvolvimento de aplicações em nuvem, onde se tem um ambiente de trabalho integrado e de fácil manipulação, podendo adicionar as instalações e extensões utilizadas dentro de um projeto de software.</p>
+    <p align="justify" style="font-family:roboto;">GitPod é um ambiente de desenvolvimento de aplicações em nuvem, onde se tem um ambiente de trabalho integrado e de fácil manipulação, podendo adicionar as instalações e extensões utilizadas dentro de um projeto de software. Foi utilizado como IDE para prototipação do back-end e front-end do projeto.</p>
   </ul></li>	
 		
   <li><a href="https://openjfx.io/">JavaFX</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">O JavaFx e uma biblioteca da linguagem Java que permite a criação de interfaces gráficas de forma automática para aplicações desktop e mobile.</p>
+    <p align="justify" style="font-family:roboto;">O JavaFx e uma biblioteca da linguagem Java que permite a criação de interfaces gráficas de forma automática para aplicações desktop e mobile. A ferramenta foi usada para criar as telas de interação com o usuário</p>
   </ul></li>	
 	
  <li><a href="https://www.mockflow.com/">Mockflow</a>:
   <ul>
-    <p align="justify" style="font-family:roboto;">O Mockflow é um utilitário utilizado para a prototipação de wireframes, possui diversos mecanismos para estruturar suas telas que posteriormente serão desenvolvidas em uma aplicação</p>
+    <p align="justify" style="font-family:roboto;">O Mockflow é um utilitário utilizado para a prototipação de wireframes, possui diversos mecanismos para estruturar suas telas que posteriormente serão desenvolvidas em uma aplicação. Foi usado para apresentar ao cliente as telas da solução, que posteriormente foram desenvolvidas após aprovação.</p>
   </ul></li>	
 	 
   <li><a href="https://trello.com/pt-BR">Trello</a>:
@@ -330,7 +330,7 @@
 	 
  <li><a href="https://www.mysql.com/">MySQL</a>:
  <ul>
-    <p align="justify" style="font-family:roboto;"> MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor é onde fica armazenados os dados e o cliente é oque faz a solicitaçãp desses dados.</p>
+    <p align="justify" style="font-family:roboto;"> MySQL é um SGBD (Sistema Gerenciador de Banco de Dados) para banco de dados relacionais, que utiliza a linguagem SQL, esse SGBD é suportado pela empresa Oracle e utiliza o modelo cliente-servidor, onde o servidor é onde fica armazenados os dados e o cliente é oque faz a solicitaçãp desses dados Auxiliou durante o projeto no armazenamento dos dados das documentações de aeronaves e usuários do sistema.</p>
   </ul></li>
 
 <li><a href="https://spring.io/">Springboot</a>:
