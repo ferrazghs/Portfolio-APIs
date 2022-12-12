@@ -743,7 +743,7 @@
  </ul>	
   <li>Comunicação Assertiva
   <ul>	 
-    <p>Fui assertivo em minha comunicação durante as demandas apresentadas a mim, onde não foi necessário alterações.</p>
+    <p>Fui assertivo em minha comunicação durante as demandas apresentadas a mim, onde não foi necessário alterações durante o processo de desenvolvimento do produto.</p>
  </ul></li>
  </ul>
   </ul>
