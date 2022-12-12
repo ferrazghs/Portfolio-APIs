@@ -613,13 +613,13 @@
   
   <li>Proatividade	
  <ul>	 
-    <p>Fui proativo em buscar conhecimento e implementar tecnologias que o time não tinha conhecimento prévio, como é o caso da ferramente Liquibase e SSIS (SQL Server Integration Services).</p>
+    <p>Fui proativo em buscar conhecimento e implementar tecnologias que o time não tinha conhecimento prévio, como é o caso da ferramenta Liquibase e SSIS (SQL Server Integration Services).</p>
  </ul></li>
  </ul>
  
 <li>Comunicação Assertiva	
 <ul>	 
-    <p>Para uma boa modelagem de um Data Warehouse, é necessário o conhecimento dos dados que temos e sobre as regras de negócio, para esse conhecimento conversei com o Product Owner da equipe e consegui entregar um DW sem a necessidade alterações.</p>
+    <p>Para a modelagem de um Data Warehouse, é necessário o conhecimento dos dados e regras de negócio, para isso conversei com o Product Owner da equipe para me aprofudar nas regras de negócio passadas pelo parceiro acadêmico e fiz a entrega de um Data Warehouse correto sem a necessidade de alterações futuras.</p>
  </ul></li>
  </ul>	
   
